@@ -233,7 +233,6 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
-  jekyll-theme-midnight
 
 BUNDLED WITH
    1.16.0
