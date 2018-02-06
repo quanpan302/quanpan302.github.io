@@ -32,7 +32,6 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 
 # Social info
-# social account
 # example:
 # {% if site.facebook %}<a href="https://facebook.com/{{ site.facebook }}" target="_blank" rel="noopener">Facebook</a>{% endif %}
 # {% if site.twitter %}<a href="https://twitter.com/{{ site.twitter }}" target="_blank" rel="noopener">Twitter</a>{% endif %}
@@ -51,7 +50,6 @@ markdown: kramdown
 theme: jekyll-theme-midnight
 
 # Gems configuration
-# 
 # example:
 # plugins: [jekyll-paginate, jekyll-feed]
 # feed:
@@ -60,7 +58,6 @@ gems:
   - jekyll-feed
 
 # Rake configuration
-# 
 # Username and repo of Github repo, e.g.
 # https://github.com/USERNAME/REPO.git
 # username defaults to ENV['GIT_NAME'] used by Travis
