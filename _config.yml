@@ -33,5 +33,6 @@ theme: jekyll-theme-midnight
 gems:
   - jekyll-feed
 exclude:
+  - README.md
   - Gemfile
   - Gemfile.lock
