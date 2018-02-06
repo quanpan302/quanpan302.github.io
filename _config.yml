@@ -8,31 +8,75 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
+# Site Settings
+# 
+# These are used to personalize your new site.
+
+# Basic info
+# If you look in the HTML files,
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-
 title: quanpan302
 email: quanpan302@hotmail.com
 description: > # this means to ignore newlines until "baseurl:"
   my website
 show_downloads: true
-google_analytics:
 
-baseurl: "" # the subpath of your site, e.g. /blog
+# url info
+# edit baseurl to simply '/' if using as your personal page (instead of a project page)
+# example:
+# href="{{ site.baseurl }}assets/built/screen.css"
+# <a href="{{ site.url }}{{ site.baseurl }}">{{ site.title }}</a>
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
 
+# Social info
+# social account
+# example:
+# {% if site.facebook %}<a href="https://facebook.com/{{ site.facebook }}" target="_blank" rel="noopener">Facebook</a>{% endif %}
+# {% if site.twitter %}<a href="https://twitter.com/{{ site.twitter }}" target="_blank" rel="noopener">Twitter</a>{% endif %}
 twitter_username: quanpan302
 github_username:  quanpan302
+google_analytics:
 
-# Build settings
+# Build Settings
+# 
+# cmd:
+# jekyll build
+# bundle exec jekyll serve
+
+# Jekyll configuration
 markdown: kramdown
 theme: jekyll-theme-midnight
+
+# Gems configuration
+# 
+# example:
+# plugins: [jekyll-paginate, jekyll-feed]
+# feed:
+#   path: feed.xml
 gems:
   - jekyll-feed
+
+# Rake configuration
+# 
+# Username and repo of Github repo, e.g.
+# https://github.com/USERNAME/REPO.git
+# username defaults to ENV['GIT_NAME'] used by Travis
+# repo defaults to USERNAME.github.io
+# Branch defaults to "source" for USERNAME.github.io
+# or "master" otherwise
+
+# Jekyll exclude
 exclude:
   - README.md
+  - Rakefile
   - Gemfile
   - Gemfile.lock
+  - changelog.md
+  - "*.Rmd"
+  - vendor
+  - .travis.yml
+  - node_modules
+  - .git 
