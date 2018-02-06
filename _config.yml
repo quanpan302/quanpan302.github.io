@@ -21,7 +21,7 @@ title: quanpan302
 email: quanpan302@hotmail.com
 description: > # this means to ignore newlines until "baseurl:"
   my website
-show_downloads: true
+show_downloads: false
 
 # url info
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
