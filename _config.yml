@@ -47,7 +47,9 @@ google_analytics:
 
 # Jekyll configuration
 markdown: kramdown
-theme: jekyll-theme-midnight
+
+# Jekyll-theme configuration
+# theme: jekyll-theme-midnight
 
 # Gems configuration
 # example:

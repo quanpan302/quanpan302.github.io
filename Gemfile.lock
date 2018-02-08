@@ -233,8 +233,8 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
+  jekyll (>= 3.4.3)
   jekyll-feed (~> 0.6)
-  jekyll-theme-midnight
   tzinfo-data
 
 RUBY VERSION
