@@ -1,21 +1,23 @@
 ---
 layout: page
-description: "My Projects"
+title: "Projects"
+description: "There are my projects."
+header-img: "assets/img/projects-bg.jpg"
 ---
 
 {% for post in paginator.posts %}
-<div class="project-preview">
+<div class="post-preview">
     <a href="{{ project.url | prepend: site.baseurl }}">
         <h2 class="project-title">
             {{ project.title }}
         </h2>
         {% if project.subtitle %}
-        <h3 class="project-subtitle">
+        <h3 class="post-subtitle">
             {{ project.subtitle }}
         </h3>
         {% endif %}
     </a>
-    <p class="project-meta">
+    <p class="post-meta">
         Posted by 
         {% if project.author %}
             {{ project.author }}
