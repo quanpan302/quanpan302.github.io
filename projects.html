@@ -18,12 +18,7 @@ header-img: "assets/img/projects-bg.jpg"
         {% endif %}
     </a>
     <p class="post-meta">
-        Posted by 
-        {% if project.author %}
-            {{ project.author }}
-        {% else %}
-            {{ site.title }}
-        {% endif %} on {{ project.date | date: "%B %-d, %Y" }}
+        Joined on {{ project.date | date: "%B %-d, %Y" }}
     </p>
 </div>
 <hr>
