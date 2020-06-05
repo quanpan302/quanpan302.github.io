@@ -96,6 +96,11 @@ end
   - level 2 item
 - level 1 item
 
+### Github assets image
+
+![](/assets/img/projects-bg.jpg)
+
+
 ### Small image
 
 ![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
