@@ -1,7 +1,7 @@
 ---
 layout:     project
 title:      "Water Accounting Project"
-date:       2016-01-01 12:00:00
+date:       2019-08-01 12:00:00
 author:     "Quan Pan"
 header-img: "assets/img/projects/WaterAccounting/header.jpg"
 ---
