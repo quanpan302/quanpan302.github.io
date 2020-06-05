@@ -10,8 +10,6 @@ header-img: "assets/img/projects/Taihu/header.jpg"
 
 ![](/assets/img/projects/Taihu/architecture.jpg)
 
-![](/assets/img/projects/Taihu/PHPmodules.jpg)
-
 ![](/assets/img/projects/Taihu/optimization.jpg)
 
 ![](/assets/img/projects/Taihu/DSS.jpg)
