@@ -54,6 +54,11 @@ highlighter: rouge
 permalink: pretty
 paginate: 5
 
+collections:
+  projects:
+    output: true
+    permalink: /projects/:name
+
 # Jekyll-theme configuration
 # theme: jekyll-theme-midnight
 # theme: jekyll-theme-cayman

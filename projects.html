@@ -5,7 +5,7 @@ description: "There are my projects."
 header-img: "assets/img/projects-bg.jpg"
 ---
 
-{% for project in paginator.projects %}
+{% for project in site.projects %}
 <div class="post-preview">
     <a href="{{ project.url | prepend: site.baseurl }}">
         <h2 class="project-title">
@@ -30,6 +30,7 @@ header-img: "assets/img/projects-bg.jpg"
 {% endfor %}
 
 <!-- Pager -->
+<!-- 
 {% if paginator.total_pages > 1 %}
 <ul class="pager">
     {% if paginator.previous_page %}
@@ -43,4 +44,5 @@ header-img: "assets/img/projects-bg.jpg"
     </li>
     {% endif %}
 </ul>
-{% endif %}
+{% endif %} 
+-->
