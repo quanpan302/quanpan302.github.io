@@ -1,6 +1,6 @@
 ---
 layout:     project
-title:      "IceWater Project"
+title:      "IceWater"
 date:       2013-01-01 12:00:00
 author:     "Quan Pan"
 header-img: "assets/img/projects/IceWater/header.jpg"
