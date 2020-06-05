@@ -10,4 +10,4 @@ header-img: "assets/img/projects/SanFrancisco/header.jpg"
 
 # [](#header-1)San Francisco Estuary
 
-![](/assets/img/projects/SanFrancisco/architecture.jpg)
+![](/assets/img/projects/SanFrancisco/3Dviewer.jpg)
