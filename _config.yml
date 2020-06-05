@@ -17,11 +17,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: quanpan302
+title: QuanPan302
 email: quanpan302@hotmail.com
 header-img: assets/img/home-bg.jpg
 description: > # this means to ignore newlines until "baseurl:"
-  my website
+  My website.
 show_downloads: false
 
 # url info
@@ -30,7 +30,8 @@ show_downloads: false
 # href="{{ site.baseurl }}assets/built/screen.css"
 # <a href="{{ site.url }}{{ site.baseurl }}">{{ site.title }}</a>
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://quanpan302.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+# url: "http://quanpan302.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://www.quanpan302.com"
 
 # Social info
 # example:
@@ -55,6 +56,7 @@ paginate: 5
 
 # Jekyll-theme configuration
 # theme: jekyll-theme-midnight
+# theme: jekyll-theme-cayman
 
 # Gems configuration
 # example:
@@ -84,5 +86,3 @@ exclude:
   - .travis.yml
   - node_modules
   - .git 
-
-theme: jekyll-theme-cayman
