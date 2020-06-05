@@ -5,7 +5,7 @@ description: "There are my projects."
 header-img: "assets/img/projects-bg.jpg"
 ---
 
-{% for post in paginator.posts %}
+{% for project in paginator.projects %}
 <div class="post-preview">
     <a href="{{ project.url | prepend: site.baseurl }}">
         <h2 class="project-title">
