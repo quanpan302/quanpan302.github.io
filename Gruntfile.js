@@ -40,7 +40,11 @@ module.exports = function(grunt) {
                     banner: '<%= banner %>'
                 },
                 files: {
-                    src: ['assets/css/<%= pkg.name %>.css', 'assets/css/<%= pkg.name %>.min.css', 'assets/js/<%= pkg.name %>.min.js']
+                    src: [
+                        'assets/css/<%= pkg.name %>.css',
+                        'assets/css/<%= pkg.name %>.min.css',
+                        'assets/js/<%= pkg.name %>.min.js'
+                    ]
                 }
             }
         },

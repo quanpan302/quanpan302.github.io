@@ -4,6 +4,8 @@
 
 # Notebook
 
-Set up development locally with 
-[Jekyll](https://help.github.com/en/github/working-with-github-pages/testing-your-github-pages-site-locally-with-jekyll)
+Set up development locally with Jekyll,
+[link](https://help.github.com/en/github/working-with-github-pages/testing-your-github-pages-site-locally-with-jekyll)
 
+Email server on github page,
+[link](https://blog.johansen.software/custom-email-domain-via-gmail-when-github-pages-is-your-web-host-e4a9d7e03d36)

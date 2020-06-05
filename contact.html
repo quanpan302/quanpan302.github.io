@@ -9,7 +9,48 @@ header-img: "assets/img/contact-bg.jpg"
 <!-- Contact Form - Enter your email address on line 19 of the mail/contact_me.php file to make this form work. -->
 <!-- WARNING: Some web hosts do not allow emails to be sent through forms to common mail hosts like Gmail or Yahoo. It's recommended that you use a private domain email address! -->
 <!-- NOTE: To use the contact form, your site must be on a live web host with PHP! The form will not work locally! -->
-<form name="sentMessage" id="contactForm" novalidate>
+<div class="row">
+    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+        <ul class="list-inline text-center">
+            {% if site.email %}
+            <li>
+                <p>
+                    <span class="fa-stack fa-lg">
+                        <i class="fa fa-circle fa-stack-2x"></i>
+                        <i class="fa fa-linkedin fa-stack-1x fa-inverse"></i>
+                    </span>
+                    {{ site.email }}
+                </p>
+            </li>
+            {% endif %}
+
+            {% if site.linkedin_username %}
+            <li>
+                <a href="https://www.linkedin.com/in/{{ site.linkedin_username }}">
+                    <span class="fa-stack fa-lg">
+                        <i class="fa fa-circle fa-stack-2x"></i>
+                        <i class="fa fa-linkedin fa-stack-1x fa-inverse"></i>
+                    </span>
+                </a>
+            </li>
+            {% endif %}
+
+            {% if site.github_username %}
+            <li>
+                <a href="https://github.com/{{ site.github_username }}">
+                    <span class="fa-stack fa-lg">
+                        <i class="fa fa-circle fa-stack-2x"></i>
+                        <i class="fa fa-github fa-stack-1x fa-inverse"></i>
+                    </span>
+                </a>
+            </li>
+            {% endif %}
+        </ul>
+        <p class="copyright text-muted">Copyright &copy; {{ site.title }} {{ site.time | date: '%Y' }}</p>
+    </div>
+</div>
+
+<!-- <form name="sentMessage" id="contactForm" novalidate>
     <div class="row control-group">
         <div class="form-group col-xs-12 floating-label-form-group controls">
             <label>Name</label>
@@ -45,4 +86,4 @@ header-img: "assets/img/contact-bg.jpg"
             <button type="submit" class="btn btn-default">Send</button>
         </div>
     </div>
-</form>
+</form> -->
