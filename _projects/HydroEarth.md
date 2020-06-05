@@ -1,11 +1,11 @@
 ---
 layout:     project
-title:      "Water Accounting"
+title:      "HydroEarth"
 date:       2019-06-01 12:00:00
 author:     "Quan Pan"
-header-img: "assets/img/projects/WaterAccounting/header.jpg"
+header-img: "assets/img/projects/HydroEarth/header.jpg"
 ---
 
-# [](#header-1)Water Accounting
+# [](#header-1)HydroEarth
 
-![](/assets/img/projects/WaterAccounting/architecture.jpg)
+![](/assets/img/projects/HydroEarth/architecture.jpg)
