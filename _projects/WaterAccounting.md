@@ -12,6 +12,4 @@ header-img: "assets/img/projects/WaterAccounting/header.jpg"
 
 ![](/assets/img/projects/WaterAccounting/PHPmodules.jpg)
 
-![](/assets/img/projects/WaterAccounting/calibration.jpg)
-
 ![](/assets/img/projects/WaterAccounting/DSS.jpg)
