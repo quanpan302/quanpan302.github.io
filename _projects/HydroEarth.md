@@ -10,4 +10,7 @@ header-img: "assets/img/projects/HydroEarth/header.jpg"
 
 # [](#header-1)HydroEarth
 
+- [website](https://hydro-earth.netlify.app/#/)
+- [Github](https://github.com/openearth/hydro-earth)
+
 ![](/assets/img/projects/HydroEarth/architecture.png)
