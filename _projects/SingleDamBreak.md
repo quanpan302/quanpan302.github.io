@@ -8,8 +8,8 @@ author:     "Quan Pan"
 header-img: "assets/img/projects/SingleDamBreak/header.jpg"
 ---
 
-# [](#header-1)Fortuna Lake
+# [](#header-1)Single Dam Break
 
-![](/assets/img/projects/Fortuna/autoCAD.jpg)
+![](/assets/img/projects/SingleDamBreak/autoCAD.jpg)
 
-![](/assets/img/projects/Fortuna/bedlevel.png)
+![](/assets/img/projects/SingleDamBreak/bedlevel.png)
