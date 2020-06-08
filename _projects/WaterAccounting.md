@@ -10,4 +10,4 @@ header-img: "assets/img/projects/WaterAccounting/header.jpg"
 
 # [](#header-1)Water Accounting
 
-![](/assets/img/projects/WaterAccounting/architecture.jpg)
+![](/assets/img/projects/WaterAccounting/architecture.png)
