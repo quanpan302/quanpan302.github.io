@@ -10,4 +10,4 @@ header-img: "assets/img/projects/Fortuna/header.jpg"
 
 # [](#header-1)Fortuna Lake
 
-![](/assets/img/projects/Fortuna/bathmetry.png)
+![](/assets/img/projects/Fortuna/bathymetry.png)
