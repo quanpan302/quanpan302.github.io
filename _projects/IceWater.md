@@ -3,7 +3,7 @@ layout:     project
 title:      "IceWater"
 company:    "IHE-Delft"
 position:   "PhD Researcher"
-date:       2013-01-01 12:00:00
+date:       2014-01-01 12:00:00
 author:     "Quan Pan"
 header-img: "assets/img/projects/IceWater/header.jpg"
 ---

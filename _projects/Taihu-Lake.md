@@ -3,7 +3,7 @@ layout:     project
 title:      "Taihu Lake"
 company:    "IHE-Delft"
 position:   "PhD Researcher"
-date:       2015-01-01 12:00:00
+date:       2016-01-01 12:00:00
 author:     "Quan Pan"
 header-img: "assets/img/projects/Taihu/header.jpg"
 ---
