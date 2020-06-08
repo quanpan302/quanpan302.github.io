@@ -10,8 +10,6 @@ header-img: "assets/img/projects/IceWater/header.jpg"
 
 # [](#header-1)IceWater
 
-![](/assets/img/projects/IceWater/architecture.jpg)
-
 ![](/assets/img/projects/IceWater/PHPmodules.jpg)
 
 ![](/assets/img/projects/IceWater/database.jpg)
