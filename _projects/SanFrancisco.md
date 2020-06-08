@@ -1,7 +1,7 @@
 ---
 layout:     project
 title:      "San Francisco Estuary"
-company:    "IHE-Delft"
+company:    "UNESCO-IHE"
 position:   "MSc"
 date:       2011-10-01 12:00:00
 author:     "Quan Pan"
