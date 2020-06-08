@@ -10,4 +10,4 @@ header-img: "assets/img/projects/HydroEarth/header.jpg"
 
 # [](#header-1)HydroEarth
 
-![](/assets/img/projects/HydroEarth/architecture.jpg)
+![](/assets/img/projects/HydroEarth/architecture.png)
