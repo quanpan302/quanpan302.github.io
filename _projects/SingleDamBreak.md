@@ -10,4 +10,6 @@ header-img: "assets/img/projects/SingleDamBreak/header.jpg"
 
 # [](#header-1)Fortuna Lake
 
+![](/assets/img/projects/Fortuna/autoCAD.jpg)
+
 ![](/assets/img/projects/Fortuna/bedlevel.png)
