@@ -1,6 +1,11 @@
+# PyCharm
+.idea/
+
+# Jekyll
 _site/
 .sass-cache/
 .jekyll-metadata
 
+# Ruby
 Gemfile.lock
 *.gem
