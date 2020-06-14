@@ -38,6 +38,8 @@ Delft3D-WAQ is a 3-dimensional water quality model framework. It solves the adve
 
 ### Master thesis
 
+"Modelling sediment transport in the San Francisco Estuary"
+
 ### Open Visualization Tool (OpenVT)
 
 - Fortran
