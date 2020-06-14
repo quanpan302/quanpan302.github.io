@@ -15,9 +15,8 @@
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav navbar-right">
-                <li>
-                    <a href="{{ site.baseurl }}/">Home</a>
-                </li>
+                <li><a href="{{ site.baseurl }}/">Home</a></li>
+
                 {% comment %}
                 {% for page in site.pages %}
                     {% if page.title %}
@@ -27,8 +26,15 @@
                     {% endif %}
                 {% endfor %}
                 {% endcomment %}
-                <li><a href="{{ site.baseurl }}//projects.html">Projects</a></li>
-                <li><a href="{{ site.baseurl }}//contact.html">Contact</a></li>
+                
+                {% assign sorted_pages = site.pages | sort:"order" %}
+                {% for page in sorted_pages %}
+                    {% if page.title %}
+                        <li>
+                            <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+                        </li>
+                    {% endif %}
+                {% endfor %}
             </ul>
         </div>
         <!-- /.navbar-collapse -->
