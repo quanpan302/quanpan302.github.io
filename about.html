@@ -19,7 +19,7 @@ header-img: "assets/img/about-bg.jpg"
 </div>
 {% endcomment %}
 
-<h3>My interets</h3>
+<h3>Interets</h3>
 <div class="text-center">
     <img src="/assets/img/about/prof.png" class="rounded" alt="Interests">
 </div>
@@ -29,11 +29,5 @@ header-img: "assets/img/about-bg.jpg"
 
 <h3>Contact</h3>
 {% if site.email %}
-<p>
-    <span class="fa-stack fa-lg">
-        <i class="fa fa-circle fa-stack-2x"></i>
-        <i class="fa fa-envelope-square fa-stack-1x fa-inverse"></i>
-    </span>
     <a href="mailto:{{ site.email }}">{{ site.email }}</a>
-</p>
 {% endif %}
