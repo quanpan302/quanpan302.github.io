@@ -13,19 +13,21 @@ header-img: "assets/img/projects/HydroEarth/header.jpg"
 
 ## Introduction
 
-Global water-related modeling environment in the Cloud
-
-Water-related modeling tools in the cloud
+Global water-related modeling environment in the Cloud.
 
 ## Problem
 
-## Objectives
+Fast generate model input.
 
 ## Methodology
+
+Google Cloud environement.
 
 ## Achievement
 
 - [website](https://hydro-earth.netlify.app/#/)
 - [Github](https://github.com/openearth/hydro-earth)
+
+### Architecture update
 
 ![](/assets/img/projects/HydroEarth/architecture.png)
