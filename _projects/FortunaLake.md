@@ -31,7 +31,8 @@ Delft3D software was used for developing two models of the Sontea-Fortuna area. 
 
 ### Publication 
 
-"Use of hydrodynamic models for the management of the Danube Delta wetlands: The case study of Sontea-Fortuna ecosystem", environmental science & policy, 2014
+"Use of hydrodynamic models for the management of the Danube Delta wetlands: The case study of Sontea-Fortuna ecosystem", Environmental Science & Policy, February 2015
+[Link](https://www.sciencedirect.com/science/article/abs/pii/S1462901114000252)
 
 ### 3D Hydrodynamic model
 
