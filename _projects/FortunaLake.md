@@ -3,6 +3,7 @@ layout:     project
 title:      "Fortuna Lake"
 company:    "UNESCO-IHE"
 position:   "Researcher"
+keyword:    "3D Hydrodynamic Simulation"
 date:       2012-11-01 12:00:00
 author:     "Quan Pan"
 header-img: "assets/img/projects/FortunaLake/header.jpg"

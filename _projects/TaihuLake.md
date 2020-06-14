@@ -3,6 +3,7 @@ layout:     project
 title:      "Taihu Lake"
 company:    "IHE-Delft"
 position:   "PhD Researcher"
+keyword:    "Pollutant Release Pattern Optimization, Machine Learning, Web-DSS"
 date:       2016-01-01 12:00:00
 author:     "Quan Pan"
 header-img: "assets/img/projects/TaihuLake/header.jpg"

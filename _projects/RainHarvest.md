@@ -3,6 +3,7 @@ layout:     project
 title:      "Rainwater Harvest"
 company:    "DssFactory"
 position:   "Developer"
+keyword:    "Precipitation, Android APP"
 date:       2016-06-01 12:00:00
 author:     "Quan Pan"
 header-img: "assets/img/projects/RainwaterHarvest/header.jpg"

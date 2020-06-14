@@ -18,7 +18,7 @@ header-img: "assets/img/projects-bg.jpg"
         {% endif %}
     </a>
     <p class="post-meta">
-        Joined on {{ project.date | date: "%B, %Y" }}, {{ project.position }}, {{ project.company }}
+        {{ project.position }}, {{ project.company }}, <span class="text-info">{{ project.keyword }}</span>
     </p>
 </div>
 <hr>
