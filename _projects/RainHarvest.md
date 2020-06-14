@@ -35,4 +35,4 @@ The Project will be based on collaborative efforts between the Dutch water exper
 
 ### Android application
 
-![](/assets/img/projects/RainwaterHarvest/calculator.png)
+![](/assets/img/projects/RainwaterHarvest/app.png)
