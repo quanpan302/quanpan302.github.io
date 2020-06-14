@@ -30,4 +30,4 @@ Google Cloud environement.
 
 ### Architecture update
 
-![](/assets/img/projects/HydroEarth/architecture.png)
+![](/assets/img/projects/HydroEarth/architecture.jpg)

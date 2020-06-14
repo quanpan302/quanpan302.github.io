@@ -31,8 +31,8 @@ The Project will be based on collaborative efforts between the Dutch water exper
 
 ### Award, **#CO**CREATE**SA** **Fund 2015**
 
-![](/assets/img/projects/RainwaterHarvest/COcreateSA.png)
+![](/assets/img/projects/RainwaterHarvest/COcreateSA.jpg)
 
 ### Android application
 
-![](/assets/img/projects/RainwaterHarvest/app.png)
+![](/assets/img/projects/RainwaterHarvest/app.jpg)
