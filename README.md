@@ -2,7 +2,7 @@
 
 [link](https://quanpan302.github.io)
 
-# Notebook
+# Note
 
 Set up development locally with Jekyll,
 [link](https://help.github.com/en/github/working-with-github-pages/testing-your-github-pages-site-locally-with-jekyll)
