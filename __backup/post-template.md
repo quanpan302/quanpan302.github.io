@@ -1,9 +1,9 @@
 ---
 layout:     post
-title:      "Post Template"
-date:       2020-06-05 12:00:00
+title:      "New journey at Deltares"
+date:       2019-09-01 12:00:00
 author:     "QPan"
-header-img: "assets/img/posts/20200605-template/header.jpg"
+header-img: "assets/img/posts/20190901-Deltares/header.jpg"
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
