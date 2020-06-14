@@ -24,7 +24,7 @@ Several problem occurred in previous modleing studies. One problem was the high 
 2.	Simulate high discharge induced suspended sediment concentration change in 3 months of wet season.
 3.	Schematize landward boundary conditions.
 
-## Modelling
+## Methodology
 
 ### Hydrodynamic modeling
 
@@ -34,7 +34,9 @@ D-Flow is developed by Deltares, Netherland. The main feature of DFLOW model is 
 
 Delft3D-WAQ is a 3-dimensional water quality model framework. It solves the advection-diffusion-reaction equation on a predefined computational grid and for a wide range of model substances.
 
-## Development
+## Achievement
+
+### Master thesis
 
 ### Open Visualization Tool (OpenVT)
 

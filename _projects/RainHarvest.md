@@ -10,4 +10,14 @@ header-img: "assets/img/projects/RainwaterHarvest/header.jpg"
 
 # [](#header-1)Rainwater Harvest
 
+## Introduction
+
+## Problem
+
+## Objectives
+
+## Methodology
+
+## Achievement
+
 ![](/assets/img/projects/RainwaterHarvest/calculator.png)

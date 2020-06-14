@@ -10,6 +10,16 @@ header-img: "assets/img/projects/Taihu/header.jpg"
 
 # [](#header-1)Taihu Lake
 
+## Introduction
+
+## Problem
+
+## Objectives
+
+## Methodology
+
+## Achievement
+
 ![](/assets/img/projects/Taihu/architecture.jpg)
 
 ![](/assets/img/projects/Taihu/optimization.jpg)
