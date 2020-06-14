@@ -5,7 +5,7 @@ company:    "UNESCO-IHE"
 position:   "Researcher"
 date:       2012-11-01 12:00:00
 author:     "Quan Pan"
-header-img: "assets/img/projects/Fortuna/header.jpg"
+header-img: "assets/img/projects/FortunaLake/header.jpg"
 ---
 
 # [](#header-1)Fortuna Lake
@@ -34,4 +34,4 @@ Delft3D software was used for developing two models of the Sontea-Fortuna area. 
 
 ### 3D Hydrodynamic model
 
-![](/assets/img/projects/Fortuna/bathymetry.png)
+![](/assets/img/projects/FortunaLake/bathymetry.png)
