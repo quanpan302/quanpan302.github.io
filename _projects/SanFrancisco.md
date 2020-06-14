@@ -47,4 +47,4 @@ Delft3D-WAQ is a 3-dimensional water quality model framework. It solves the adve
 - OpenGL
 - NetCDF
 
-![](/assets/img/projects/SanFrancisco/3Dviewer.jpg)
+![](/assets/img/projects/SanFrancisco/OpenVT.jpg)

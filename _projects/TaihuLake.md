@@ -21,6 +21,9 @@ header-img: "assets/img/projects/TaihuLake/header.jpg"
 
 ## Achievement
 
+
+![](/assets/img/projects/TaihuLake/OpenVT.jpg)
+
 ![](/assets/img/projects/TaihuLake/architecture.jpg)
 
 ![](/assets/img/projects/TaihuLake/optimization.jpg)
