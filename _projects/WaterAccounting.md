@@ -23,8 +23,9 @@ header-img: "assets/img/projects/WaterAccounting/header.jpg"
 
 - [IHEWAstandard](https://github.com/wateraccounting/IHEWAstandard)
 - [IHEWAcollect](https://github.com/wateraccounting/IHEWAcollect)
-- [IHEWAengine](https://github.com/wateraccounting/IHEWAengine)
 - [IHEWAdataanalysis](https://github.com/wateraccounting/IHEWAdataanalysis)
 - [IHEWAreport](https://github.com/wateraccounting/IHEWAreport)
 
-![](/assets/img/projects/WaterAccounting/architecture.png)
+Architecture of [IHEWAengine](https://github.com/wateraccounting/IHEWAengine) engine2 Hyperloop.
+
+![](/assets/img/projects/WaterAccounting/architecture.jpg)
