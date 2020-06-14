@@ -18,6 +18,7 @@
                 <li>
                     <a href="{{ site.baseurl }}/">Home</a>
                 </li>
+                {% comment %}
                 {% for page in site.pages %}
                     {% if page.title %}
                         <li>
@@ -25,6 +26,9 @@
                         </li>
                     {% endif %}
                 {% endfor %}
+                {% endcomment %}
+                <li><a href="/projects.html">PROJECTS</a></li>
+                <li><a href="/contact.html">CONTACT</a></li>
             </ul>
         </div>
         <!-- /.navbar-collapse -->
