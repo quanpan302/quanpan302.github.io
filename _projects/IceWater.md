@@ -53,4 +53,10 @@ The specific objectives are:
 
 ### Web-based Decision Support System
 
+- LAMP
+- GeoServer
+- PostgreSQL
+- PostGIS
+- OpenLayers
+
 ![](/assets/img/projects/IceWater/DSS.jpg)

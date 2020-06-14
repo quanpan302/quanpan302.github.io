@@ -50,6 +50,12 @@ The specific objectives are:
 
 ### Web-based Decision Support System
 
+- LAMP
+- GeoServer
+- PostgreSQL
+- PostGIS
+- OpenLayers
+
 ![](/assets/img/projects/TaihuLake/DSS.jpg)
 
 ### Open Visualization Tool (OpenVT v2)

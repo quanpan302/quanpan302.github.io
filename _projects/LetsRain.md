@@ -13,10 +13,20 @@ header-img: "assets/img/projects/LetsRain/header.jpg"
 
 ## Introduction
 
+Real time interaction between human and simulation in the cloud environment.
+
 ## Problem
+
+How to easily interact numerical simulation.
 
 ## Methodology
 
+Leap Motion gesture detection solution.
+
 ## Achievement
+
+- Leap Motion
+- Three.js
+- Highcharts.js
 
 {% include embed.html id="dBsxf5iqVMU" %}
