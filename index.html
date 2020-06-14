@@ -2,6 +2,12 @@
 layout: page
 description: "My Website"
 ---
+{% comment %}
+<p>
+    index.html include post.html
+    projects.html include project.html
+</p>
+{% endcomment %}
 
 {% for post in paginator.posts %}
 <div class="post-preview">
