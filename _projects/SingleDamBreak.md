@@ -36,7 +36,8 @@ A series of six benchmark cases were set up to test the XBEACH sediment transpor
 
 ### Publication 
 
-"Applicability of a coastal morphodynamic model for fluvial environments", Environmental Modelling & Software, June 201
+"Applicability of a coastal morphodynamic model for fluvial environments", Environmental Modelling & Software, June 2016
+
 [Link](https://www.sciencedirect.com/science/article/abs/pii/S1364815216300366)
 
 ### AutoCAD design
