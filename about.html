@@ -26,3 +26,14 @@ header-img: "assets/img/about-bg.jpg"
 </div>
 
 <a class="text-center" href="/assets/img/about/CV-QuanPan.pdf" target="_blank">CV-QuanPan.pdf</a>
+
+<p>Want to get in touch with me?</p>
+{% if site.email %}
+<p>
+    <span class="fa-stack fa-lg">
+        <i class="fa fa-circle fa-stack-2x"></i>
+        <i class="fa fa-envelope-square fa-stack-1x fa-inverse"></i>
+    </span>
+    <a href="mailto:{{ site.email }}">{{ site.email }}</a>
+</p>
+{% endif %}
