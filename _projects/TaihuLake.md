@@ -36,6 +36,12 @@ The specific objectives are:
 
 ## Achievement
 
+### Publication 
+
+"Challenges for 2D water quality modelling of lake taihu in China", Environmental Engineering and Management Journal, May 2013
+
+[Link](http://eemj.eu/index.php/EEMJ/article/view/1544)
+
 ### Delft3D 2D hydrodynamic and water quality simulation
 
 ![](/assets/img/projects/TaihuLake/Delft3D.png)

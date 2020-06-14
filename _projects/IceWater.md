@@ -35,6 +35,12 @@ The specific objectives are:
 
 ## Achievement
 
+### Publication 
+
+"Application of a web-based decision support system for water supply networks", Environmental Engineering and Management Journal, September 2015
+
+[Link](http://www.eemj.eu/index.php/EEMJ/article/view/2369)
+
 ### EPANET Hydraulic simulation
 
 ![](/assets/img/projects/IceWater/Milano.png)
