@@ -10,7 +10,8 @@ header-img: "assets/img/posts/header-SD.jpg"
 
 # [](#header-1)PHP Extension
 
-[www.php.net](https://www.php.net/manual/en/internals2.ze1.zendapi.php)
+- [PHP at the Core: A Hacker's Guide](https://www.php.net/manual/en/internals2.php)
+- [Zend API: Hacking the Core of PHP](https://www.php.net/manual/en/internals2.ze1.zendapi.php)
 
 Extending PHP" is easier said than done. PHP has evolved to a full-fledged tool consisting of a few megabytes of source code, and to hack a system like this quite a few things have to be learned and considered.
 
