@@ -21,7 +21,7 @@ GeoServer implements industry standard [Open Geospatial Consortium](https://www.
 
 Additional formats and publication options are available as extensions including [Web Processing Service](https://www.ogc.org/standards/wps) (WPS), and [Web Map Tile Service](https://www.ogc.org/standards/wmts) (WMTS).
 
-### [](#header-2)Getting started
+## [](#header-2)Getting started
 
 [web administration interface](https://docs.geoserver.org/latest/en/user/gettingstarted/web-admin-quickstart/index.html)
 
@@ -40,7 +40,7 @@ The default administration credentials are:
 - User name: admin
 - Password: geoserver
 
-### [](#header-2)Data management
+## [](#header-2)Data management
 
 GeoServer connects to and publishes data from a wide variety of sources. This section will discuss how to use the GeoServer web interface to accomplish most common tasks, along with the different data formats served by GeoServer.
 
@@ -125,7 +125,7 @@ GeoServer provides support for a broad selection of simple feature data stores, 
 
 ![](/assets/img/posts/20120301-GeoServer/App Schema.png)
 
-### [](#header-2)Styling
+## [](#header-2)Styling
 
 [Link](https://docs.geoserver.org/latest/en/user/styling/index.html#styling)
 
@@ -137,7 +137,7 @@ GeoServer provides support for a broad selection of simple feature data stores, 
 - MBStyle Styling
 - Styling Workshop
 
-### [](#header-2)Services
+## [](#header-2)Services
 
 [Link](https://docs.geoserver.org/latest/en/user/services/index.html#services)
 
@@ -147,7 +147,7 @@ GeoServer provides support for a broad selection of simple feature data stores, 
 - WPS, [Web Processing Service](https://docs.geoserver.org/latest/en/user/services/wps/index.html)
 - CSW, [Catalog Services for the Web](https://docs.geoserver.org/latest/en/user/services/csw/index.html)
 
-### [](#header-2)Filtering
+## [](#header-2)Filtering
 
 [Link](https://docs.geoserver.org/latest/en/user/filter/index.html#filtering)
 
@@ -160,7 +160,7 @@ GeoServer provides support for a broad selection of simple feature data stores, 
 - Filter functions
 - Filter Function Reference
 
-### [](#header-2)Server configuration
+## [](#header-2)Server configuration
 
 [Link](https://docs.geoserver.org/latest/en/user/configuration/index.html#config)
 
@@ -176,7 +176,7 @@ GeoServer provides support for a broad selection of simple feature data stores, 
 - Demos
 - Tools
 
-### [](#header-2)GeoServer data directory
+## [](#header-2)GeoServer data directory
 
 [Link](https://docs.geoserver.org/latest/en/user/datadirectory/index.html#datadir)
 
@@ -192,7 +192,7 @@ For **production use**, it is recommended to define an external data directory (
 - Migrating a data directory between versions
 - Parameterize catalog settings
 
-### [](#header-2)Running in a production environment
+## [](#header-2)Running in a production environment
 
 [Link](https://docs.geoserver.org/latest/en/user/production/index.html#production)
 
@@ -212,7 +212,7 @@ GeoServer is geared towards many different uses, from a simple test server to th
     - XStream
 - [Make cluster nodes identifiable from the GUI](https://docs.geoserver.org/latest/en/user/production/identify.html)
 
-### [](#header-2)REST
+## [](#header-2)REST
 
 [Link](https://docs.geoserver.org/latest/en/user/rest/index.html#rest)
 
@@ -241,7 +241,7 @@ Operations on resources are implemented with the standard primitives of HTTP: GE
     - Uploading multiple app-schema mapping files
     - Cleaning schemas on internal MongoDB stores
 
-### [](#header-2)Security
+## [](#header-2)Security
 
 [Link](https://docs.geoserver.org/latest/en/user/security/index.html#security)
 
@@ -258,7 +258,7 @@ Operations on resources are implemented with the standard primitives of HTTP: GE
 - [Disabling security](https://docs.geoserver.org/latest/en/user/security/disable.html)
 - [Tutorials](https://docs.geoserver.org/latest/en/user/security/tutorials/index.html)
 
-### [](#header-2)GeoWebCache
+## [](#header-2)GeoWebCache
 
 [Link](https://docs.geoserver.org/latest/en/user/geowebcache/index.html#gwc)
 
@@ -274,7 +274,7 @@ GeoWebCache is a tiling server. It runs as a proxy between a map client and map 
     - Grid misalignment
     - Direct WMS integration
 
-### [](#header-2)Extensions
+## [](#header-2)Extensions
 
 [Link](https://docs.geoserver.org/latest/en/user/extensions/index.html#extensions)
 
@@ -305,7 +305,7 @@ Extensions are modules that add functionality to GeoServer. They are installed a
 - Geofence Plugin
 - Geofence Internal Server
 
-### [](#header-2)Community modules
+## [](#header-2)Community modules
 
 [Link](https://docs.geoserver.org/latest/en/user/community/index.html#community)
 
@@ -356,7 +356,7 @@ Extensions are modules that add functionality to GeoServer. They are installed a
 - WPS download community module
 - WPS Remote community module
 
-### [](#header-2)Tutorials
+## [](#header-2)Tutorials
 
 [Link](https://docs.geoserver.org/latest/en/user/tutorials/index.html#tutorials)
 
