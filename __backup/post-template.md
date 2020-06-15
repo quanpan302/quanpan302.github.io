@@ -1,9 +1,11 @@
 ---
 layout:     post
-title:      "New journey at Deltares"
+title:      "New"
 date:       2019-09-01 12:00:00
 author:     "QPan"
-header-img: "assets/img/posts/20190901-Deltares/header.jpg"
+keyword:    "Data"
+type:       "KG"
+header-img: "assets/img/posts/header-KG.jpg"
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
