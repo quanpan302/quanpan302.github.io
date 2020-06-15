@@ -31,19 +31,13 @@ Earth observations from satellite measurements are used to infer variables such 
 
 ### Python packages
 
-**IHEWAstandard, [Github](https://github.com/wateraccounting/IHEWAstandard)**
+**IHEWAstandard**, Standardize development within the team, [Github](https://github.com/wateraccounting/IHEWAstandard)
 
-Standardize development within the team.
+**IHEWAcollect**, Remote sensing products collection tool, [Github](https://github.com/wateraccounting/IHEWAcollect)
 
-**IHEWAcollect, [Github](https://github.com/wateraccounting/IHEWAcollect)**
+**IHEWAengine**, Water Accounting engine, [Github](https://github.com/wateraccounting/IHEWAengine)
 
-Remote sensing products collection tool.
-
-**IHEWAengine, [Github](https://github.com/wateraccounting/IHEWAengine)**
-
-Water Accounting engine.
-
-**_Other IHEWA..._**
+**_Other IHEWA..._**, [Github](https://github.com/wateraccounting/)
 
 Architecture of IHEWAengine engine2 Hyperloop.
 
