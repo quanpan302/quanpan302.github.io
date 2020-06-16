@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "PHP Extension"
-date:       2014-02-01 12:00:00
+date:       2014-02-02 12:00:00
 author:     "QPan"
 keyword:    "PHP Core, Zend Engine, Hacker"
 type:       "SD"
@@ -31,7 +31,7 @@ Zend itself really forms only the language core, implementing PHP at its very ba
 - PHP takes parts 2 and 3. 
 - Together they form the complete PHP package.
 
-![](/assets/img/posts/20140201-PHPextension/Zend.01-internal-structure.png)
+![](/assets/img/posts/2014-02-02-PHPextension/Zend.01-internal-structure.png)
 
 ## [](#header-2)External Modules vs Built-in Modules
 
