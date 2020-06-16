@@ -3,7 +3,7 @@ layout:     project
 title:      "Let's Rain"
 company:    "Deltares"
 position:   "Data Scientist"
-keyword:    "Interaction, Simulation"
+keyword:    "Interaction, Simulation, Prototype"
 date:       2019-06-01 12:00:00
 author:     "Quan Pan"
 header-img: "assets/img/projects/LetsRain/header.jpg"
