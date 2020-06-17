@@ -17,6 +17,7 @@ Web education
 ## 2014
 
 Linux, Server setup, LAMP, Admin, Database
+GeoServer, PostGIS, OpenLayers
 
 ## 2015
 
