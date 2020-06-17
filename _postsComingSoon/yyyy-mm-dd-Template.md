@@ -1,12 +1,29 @@
 ---
 layout:     post
-title:      "New"
-date:       2019-09-01 12:00:00
+title:      "Template"
+date:       yyyy-mm-dd HH:MM:SS
 author:     "QPan"
-keyword:    "Data"
+keyword:    "keyword"
 type:       "KG"
 header-img: "assets/img/posts/header-KG.jpg"
 ---
+
+{% comment %}
+    Post types:
+        - AI, Artificial Intelligence
+        - DS, Data Science
+        - KG, Knowledge
+        - IT, Internet Technology
+        - MA, Mathematics
+        - PH, Physics
+        - RS, Remote Sensing
+        - SD, Software Development
+{% endcomment %}
+
+
+# [](#header-1)Header 1
+
+This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
@@ -15,10 +32,6 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# [](#header-1)Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
 ## [](#header-2)Header 2
 

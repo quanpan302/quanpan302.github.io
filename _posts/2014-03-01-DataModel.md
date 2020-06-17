@@ -26,28 +26,28 @@ The main **aim** of data models is to support the development of information sys
 
 [Flat Model](https://en.wikipedia.org/wiki/Flat-file_database)
 
-![](/assets/img/posts/2015-01-01-DataModel/Flat Model.png)
+![](/assets/img/posts/2014-03-01-DataModel/Flat Model.png)
 
 [Hierarchical Model](https://en.wikipedia.org/wiki/Hierarchical_database_model)
 
-![](/assets/img/posts/2015-01-01-DataModel/Hierarchical Model.png)
+![](/assets/img/posts/2014-03-01-DataModel/Hierarchical Model.png)
 
 [Network Model](https://en.wikipedia.org/wiki/Network_model)
 
-![](/assets/img/posts/2015-01-01-DataModel/Network Model.png)
+![](/assets/img/posts/2014-03-01-DataModel/Network Model.png)
 
 [Relational Model](https://en.wikipedia.org/wiki/Relational_model)
 
-![](/assets/img/posts/2015-01-01-DataModel/Relational Model.png)
+![](/assets/img/posts/2014-03-01-DataModel/Relational Model.png)
 
 [Object-relational Model](https://en.wikipedia.org/wiki/Object-relational_database)
 [Object-role Modeling](https://en.wikipedia.org/wiki/Object-role_modeling)
 
-![](/assets/img/posts/2015-01-01-DataModel/Concept-oriented Model.png)
+![](/assets/img/posts/2014-03-01-DataModel/Concept-oriented Model.png)
 
 [Star Schema](https://en.wikipedia.org/wiki/Star_schema)
 
-![](/assets/img/posts/2015-01-01-DataModel/Star Schema.png)
+![](/assets/img/posts/2014-03-01-DataModel/Star Schema.png)
 
 ## [](#header-2)Data model theory
 
