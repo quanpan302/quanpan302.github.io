@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Template"
-date:       yyyy-mm-dd HH:MM:SS
+date:       yyyy-mm-dd 12:00:00
 author:     "QPan"
 keyword:    "keyword"
 type:       "KG"
@@ -21,7 +21,7 @@ header-img: "assets/img/posts/header-KG.jpg"
 {% endcomment %}
 
 
-# [](#header-1)Header 1
+# [](#header-1)Header1
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
@@ -33,13 +33,13 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-## [](#header-2)Header 2
+## [](#header-2)Header2
 
 > This is a blockquote following a header.
 >
 > When something is important enough, you do it even if the odds are not in your favor.
 
-### [](#header-3)Header 3
+### [](#header-3)Header3
 
 ```js
 // Javascript code with syntax highlighting.
@@ -56,19 +56,19 @@ GitHubPages::Dependencies.gems.each do |gem, version|
 end
 ```
 
-#### [](#header-4)Header 4
+#### [](#header-4)Header4
 
 *   This is an unordered list following a header.
 *   This is an unordered list following a header.
 *   This is an unordered list following a header.
 
-##### [](#header-5)Header 5
+##### [](#header-5)Header5
 
 1.  This is an ordered list following a header.
 2.  This is an ordered list following a header.
 3.  This is an ordered list following a header.
 
-###### [](#header-6)Header 6
+###### [](#header-6)Header6
 
 | head1        | head two          | three |
 |:-------------|:------------------|:------|
