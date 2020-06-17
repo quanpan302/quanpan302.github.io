@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "GeoServer"
-date:       2014-02-03 12:00:00
+date:       2014-03-01 12:00:00
 author:     "QPan"
 keyword:    "GIS, OGC, LAMP"
 type:       "IT"
@@ -123,7 +123,7 @@ GeoServer provides support for a broad selection of simple feature data stores, 
 - [MongoDB Tutorial](https://docs.geoserver.org/latest/en/user/data/app-schema/mongo-tutorial.html)
 - [Apache Solr Tutorial](https://docs.geoserver.org/latest/en/user/data/app-schema/solr-tutorial.html)
 
-![](/assets/img/posts/2014-02-03-GeoServer/App Schema.png)
+![](/assets/img/posts/2014-03-01-GeoServer/App Schema.png)
 
 ## [](#header-2)Styling
 
