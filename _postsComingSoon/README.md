@@ -1,5 +1,7 @@
 # Topics
 
+Template: [yyyy-mm-dd-Topics.md](./yyyy-mm-dd-Topics.md)
+
 ## 2011
 
 Grid generation,
@@ -27,7 +29,8 @@ Cloud, Microservice
 
 ## 2017
 
-Mathmatics, Statistics, Optimization
+Mathematics, Statistics, 
+Optimization
 Data Science, Artificial Intelligence
 
 ## 2018
@@ -35,4 +38,24 @@ Data Science, Artificial Intelligence
 GIS, GDAL, Remote Sensing, LiDAR, SAR
 
 ## 2019
+
+Hydrology, Meteorology, ...
+Python
+
+## 2020
+
+
+# Cheat Sheet
+
+## Markdown, [Link](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+## reStructuredText, [Link](https://github.com/ralsina/rst-cheatsheet/blob/master/rst-cheatsheet.rst)
+
+## LaTeX, [Link](http://tug.ctan.org/info/latex-refsheet/LaTeX_RefSheet.pdf)
+
+## YAML, [Link](https://kapeli.com/cheat_sheets/YAML.docset/Contents/Resources/Documents/index)
+
+## Vim, [Link](https://vim.rtorr.com/)
+
+## Docker, [Link](https://github.com/wsargent/docker-cheat-sheet)
 

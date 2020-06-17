@@ -1,13 +1,12 @@
 ---
 layout:     post
 title:      "Python Package"
-date:       2016-02-01 12:00:00
+date:       2019-09-01 12:00:00
 author:     "QPan"
 keyword:    "setup.py, setup.cfg"
-type:       "AI"
+type:       "SD"
 header-img: "assets/img/posts/header-SD.jpg"
 ---
 
 # [](#header-1)Python Package
 
-Currently working on this topic!

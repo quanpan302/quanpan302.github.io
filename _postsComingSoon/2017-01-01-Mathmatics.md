@@ -1,13 +1,12 @@
 ---
 layout:     post
-title:      "Artificial Intelligence"
+title:      "Mathematics"
 date:       2017-01-01 12:00:00
 author:     "QPan"
-keyword:    "ML, DL, RL"
-type:       "AI"
-header-img: "assets/img/posts/header-AI.jpg"
+keyword:    "Mathematics"
+type:       "KG"
+header-img: "assets/img/posts/header-KG.jpg"
 ---
 
-# [](#header-1)Artificial Intelligence
+# [](#header-1)Mathematics
 
-Currently working on this topic!
