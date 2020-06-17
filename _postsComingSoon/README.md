@@ -1,6 +1,6 @@
 # Topics
 
-Template: [yyyy-mm-dd-Topics.md](./yyyy-mm-dd-Topics.md)
+Template: [yyyy-mm-dd-Template.md](./yyyy-mm-dd-Template.md)
 
 ## 2011
 
