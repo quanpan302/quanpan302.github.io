@@ -18,8 +18,9 @@ header-img: "assets/img/posts/header-KG.jpg"
         - PH, Physics
         - RS, Remote Sensing
         - SD, Software Development
-{% endcomment %}
 
+https://github.com/github/linguist/blob/master/lib/linguist/languages.yml
+{% endcomment %}
 
 # [](#header-1)Header1
 
