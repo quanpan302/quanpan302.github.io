@@ -9,17 +9,17 @@ header-img: "assets/img/posts/header-KG.jpg"
 ---
 
 {% comment %}
-    Post types:
-        - AI, Artificial Intelligence
-        - DS, Data Science
-        - KG, Knowledge
-        - IT, Internet Technology
-        - MA, Mathematics
-        - PH, Physics
-        - RS, Remote Sensing
-        - SD, Software Development
+  https://github.com/github/linguist/blob/master/lib/linguist/languages.yml
 
-https://github.com/github/linguist/blob/master/lib/linguist/languages.yml
+  Post types:
+    - AI, Artificial Intelligence
+    - DS, Data Science
+    - KG, Knowledge
+    - IT, Internet Technology
+    - MA, Mathematics
+    - PH, Physics
+    - RS, Remote Sensing
+    - SD, Software Development
 {% endcomment %}
 
 # [](#header-1)Header1
