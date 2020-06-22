@@ -20,5 +20,3 @@ layout: about
 ## Contact
 
 {{ site.email }}
-
-![](/assets/images/about/ai.jpg)
