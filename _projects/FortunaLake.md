@@ -1,17 +1,13 @@
 ---
-layout:     project
 title:      "Fortuna Lake"
 company:    "UNESCO-IHE"
 position:   "Researcher"
 keyword:    "3D Hydrodynamic Simulation"
-date:       2012-11-01 12:00:00
-author:     "Quan Pan"
-header-img: "assets/img/projects/FortunaLake/header.jpg"
+image: 
+  path: /assets/images/projects/FortunaLake/header.jpg
+  thumbnail: /assets/images/projects/FortunaLake/thumbnail-400x200.jpg
+  caption: "3D Hydrodynamic Simulation"
 ---
-
-# [](#header-1)Fortuna Lake
-
-## Introduction
 
 The Danube Delta (DD) is the largest wetland belonging to the complex Danube River system. Danube Delta consists of a complex network of river channels, bays, lakes, sand banks and hundreds of swamps that help to improve water quality of the Black Sea by forming a buffer zone which filters pollutants from the Danube River, as well helping to reduce flood peaks by storing water.
 
@@ -35,4 +31,4 @@ Delft3D software was used for developing two models of the Sontea-Fortuna area. 
 
 ### 3D Hydrodynamic model
 
-![](/assets/img/projects/FortunaLake/bathymetry.png)
+![](/assets/images/projects/FortunaLake/bathymetry.png)

@@ -1,19 +1,16 @@
 ---
-layout:     project
 title:      "IceWater"
 company:    "IHE-Delft"
 position:   "PhD Researcher"
-keyword:    "Pumping Schedule Optimization, Web-DSS"
-date:       2014-01-01 12:00:00
-author:     "Quan Pan"
-header-img: "assets/img/projects/IceWater/header.jpg"
+image: 
+  path: /assets/images/projects/IceWater/header.jpg
+  thumbnail: /assets/images/projects/IceWater/thumbnail-400x200.jpg
+  caption: "Pumping Schedule Optimization, Web-DSS"
 ---
 
-# [](#header-1)IceWater
+Milano water supply network is located in the city of Milano (Italy). 
 
-## Introduction
-
-Milano water supply network is located in the city of Milano (Italy). The network is a complex system that provides water to around 1.3 million inhabitants. The total water supply comes from groundwater which is abstracted by pumping wells. Finally, the water is pumped into the distribution network from the storage tanks. The whole network consists two connected systems, Water Transmission Network (WTN) and Water Distribution Network (WDN). There are 642 pumping wells in WTN and 27 pumping stations with total 101 booster pumps in WDN. The total length of WDN is around 2300 km.
+The network is a complex system that provides water to around 1.3 million inhabitants. The total water supply comes from groundwater which is abstracted by pumping wells. Finally, the water is pumped into the distribution network from the storage tanks. The whole network consists two connected systems, Water Transmission Network (WTN) and Water Distribution Network (WDN). There are 642 pumping wells in WTN and 27 pumping stations with total 101 booster pumps in WDN. The total length of WDN is around 2300 km.
 
 ## Problem
 
@@ -31,7 +28,7 @@ The specific objectives are:
 
 ## Methodology
 
-![](/assets/img/projects/IceWater/methodology.jpg)
+![](/assets/images/projects/IceWater/methodology.jpg)
 
 ## Achievement
 
@@ -41,15 +38,15 @@ The specific objectives are:
 
 ### EPANET Hydraulic simulation
 
-![](/assets/img/projects/IceWater/Milano.png)
+![](/assets/images/projects/IceWater/Milano.png)
 
 ### PHP extension modules.
 
-![](/assets/img/projects/IceWater/PHPmodules.jpg)
+![](/assets/images/projects/IceWater/PHPmodules.jpg)
 
 ### Postgresql and PostGIS database desing and implementation
 
-![](/assets/img/projects/IceWater/database.jpg)
+![](/assets/images/projects/IceWater/database.jpg)
 
 ### Web-based Decision Support System
 
@@ -59,4 +56,4 @@ The specific objectives are:
 - PostGIS
 - OpenLayers
 
-![](/assets/img/projects/IceWater/DSS.jpg)
+![](/assets/images/projects/IceWater/DSS.jpg)

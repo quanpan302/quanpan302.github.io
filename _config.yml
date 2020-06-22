@@ -8,87 +8,116 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
-# Site Settings
-# 
-# These are used to personalize your new site.
-
-# Basic info
-# If you look in the HTML files,
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-brand: QPan
-title: Quan Pan
+
+# remote_theme: "mmistakes/jekyll-theme-basically-basic"
+
+lang: en-US
+title: QPan
 email: quanpan302@hotmail.com
-header-img: assets/img/home-bg.jpg
-description: > # this means to ignore newlines until "baseurl:"
-  My Playground
-show_downloads: false
+description: "My Website"
+baseurl: ""  # the subpath of your site, e.g. /blog
+url: "http://quanpan302.com"  # the base hostname & protocol for your site, e.g. http://example.com
+author:
+  name: Quan Pan
+  twitter: quanpan302
+  picture: /assets/images/profile-285x285.png
+logo: /assets/icons/basically-basic-logo-light.svg
 
-# url info
-# edit baseurl to simply '/' if using as your personal page (instead of a project page)
-# example:
-# href="{{ site.baseurl }}assets/built/screen.css"
-# <a href="{{ site.url }}{{ site.baseurl }}">{{ site.title }}</a>
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://www.quanpan302.com" # the base hostname & protocol for your site, e.g. http://example.com
-
-# Social info
-# example:
-# {% if site.facebook %}<a href="https://facebook.com/{{ site.facebook }}" target="_blank" rel="noopener">Facebook</a>{% endif %}
-# {% if site.twitter %}<a href="https://twitter.com/{{ site.twitter }}" target="_blank" rel="noopener">Twitter</a>{% endif %}
-twitter_username: quanpan302
-facebook_username: quanpan302
 linkedin_username: quanpan302
-github_username:  quanpan302
-google_analytics:
+github_username: quanpan302
+google_analytics: ""
+disqus:
+  shortname: ""
 
-# Build Settings
-# 
-# cmd:
-# jekyll build
-# bundle exec jekyll serve
+search: true
+search_full_content: true
+search_provider: lunr
+algolia:
+  application_id: # YOUR_APPLICATION_ID
+  index_name: # YOUR_INDEX_NAME
+  search_only_api_key: # YOUR_SEARCH_ONLY_API_KEY
+  powered_by: # true (default), false
+liquid:
+  error_mode: strict
 
-# Jekyll configuration
+# Build settings
+# Conversion
 markdown: kramdown
 highlighter: rouge
-permalink: pretty
-paginate: 15
+lsi: false
+incremental: false
 
+# Markdown Processing
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+
+# Sass/SCSS
+sass:
+  sass_dir: _sass
+  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+
+# Outputting
+permalink: /:categories/:title/
+timezone: Europe/Amsterdam # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
+# Plugins
+plugins: # previously gems
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-paginate
+
+# Jekyll Feed
+feed:
+  path: atom.xml
+
+# Pagination - https://jekyllrb.com/docs/pagination/
+paginate: 10
+paginate_path: /page:num/
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
+
+# Collections
 collections:
   projects:
     output: true
-    permalink: /projects/:name
+    permalink: /:collection/:path/
 
-# Jekyll-theme configuration
-# theme: jekyll-theme-midnight
-# theme: jekyll-theme-cayman
-
-# Gems configuration
-# example:
-# plugins: [jekyll-paginate, jekyll-feed]
-# feed:
-#   path: feed.xml
-gems:
-  - jekyll-feed
-
-# Rake configuration
-# Username and repo of Github repo, e.g.
-# https://github.com/USERNAME/REPO.git
-# username defaults to ENV['GIT_NAME'] used by Travis
-# repo defaults to USERNAME.github.io
-# Branch defaults to "source" for USERNAME.github.io
-# or "master" otherwise
-
-# Jekyll exclude
-exclude:
-  - README.md
-  - Rakefile
-  - Gemfile
-  - Gemfile.lock
-  - changelog.md
-  - "*.Rmd"
-  - vendor
-  - .travis.yml
-  - node_modules
-  - .git 
+# Front Matter Defaults
+defaults:
+  # _posts
+  - scope:
+      path: "_posts"
+      type: posts
+    values:
+      layout: post
+      read_time: true
+  # _projects
+  - scope:
+      path: "_projects"
+      type: projects
+    values:
+      layout: post
+      read_time: true

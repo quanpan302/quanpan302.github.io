@@ -1,17 +1,12 @@
 ---
-layout:     project
 title:      "Water Accounting"
 company:    "IHE-Delft"
 position:   "Geospatial Programmer"
-keyword:    "Remote Sensing Data, Python Development"
-date:       2019-09-01 12:00:00
-author:     "Quan Pan"
-header-img: "assets/img/projects/WaterAccounting/header.jpg"
+image: 
+  path: /assets/images/projects/WaterAccounting/header.jpg
+  thumbnail: /assets/images/projects/WaterAccounting/thumbnail-400x200.jpg
+  caption: "Remote Sensing Data, Python Development"
 ---
-
-# [](#header-1)Water Accounting
-
-## Introduction
 
 Water accounting is the process of communicating water resources related information and the services generated from consumptive use in a geographical domain, such as a river basin, a country or a land use class; to users such as policy makers, water authorities, managers, etc.
 
@@ -41,4 +36,4 @@ Earth observations from satellite measurements are used to infer variables such 
 
 Architecture of IHEWAengine engine2 Hyperloop.
 
-![](/assets/img/projects/WaterAccounting/architecture.jpg)
+![](/assets/images/projects/WaterAccounting/architecture.jpg)

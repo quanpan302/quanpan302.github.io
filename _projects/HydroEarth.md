@@ -1,17 +1,12 @@
 ---
-layout:     project
 title:      "HydroEarth"
 company:    "Deltares"
 position:   "Data Scientist"
-keyword:    "Model Input Generate, Cloud Applicatioin"
-date:       2019-04-01 12:00:00
-author:     "Quan Pan"
-header-img: "assets/img/projects/HydroEarth/header.jpg"
+image: 
+  path: /assets/images/projects/HydroEarth/header.jpg
+  thumbnail: /assets/images/projects/HydroEarth/thumbnail-400x200.jpg
+  caption: "Model Input Generate, Cloud Applicatioin"
 ---
-
-# [](#header-1)HydroEarth
-
-## Introduction
 
 Global water-related modeling environment in the Cloud.
 
@@ -33,8 +28,8 @@ Google Cloud environement.
 - Google Cloud
 - Docker
 
-![](/assets/img/projects/HydroEarth/architecture.jpg)
+![](/assets/images/projects/HydroEarth/architecture.jpg)
 
 ### Google SaaS
 
-![](/assets/img/projects/HydroEarth/SaaS.jpg)
+![](/assets/images/projects/HydroEarth/SaaS.jpg)

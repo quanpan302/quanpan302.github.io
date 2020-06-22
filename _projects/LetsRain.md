@@ -1,17 +1,12 @@
 ---
-layout:     project
 title:      "Let's Rain"
 company:    "Deltares"
 position:   "Data Scientist"
-keyword:    "Interaction, Simulation, Prototype"
-date:       2019-06-01 12:00:00
-author:     "Quan Pan"
-header-img: "assets/img/projects/LetsRain/header.jpg"
+image: 
+  path: /assets/images/projects/LetsRain/header.jpg
+  thumbnail: /assets/images/projects/LetsRain/thumbnail-400x200.jpg
+  caption: "Interaction, Simulation, Prototype"
 ---
-
-# [](#header-1)Let's Rain
-
-## Introduction
 
 Real time interaction between human and simulation in the cloud environment.
 

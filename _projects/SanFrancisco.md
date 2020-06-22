@@ -1,19 +1,16 @@
 ---
-layout:     project
 title:      "San Francisco Estuary"
 company:    "UNESCO-IHE"
 position:   "MSc"
-keyword:    "Suspended Sediment Concentration, 3D Viewer"
-date:       2011-10-01 12:00:00
-author:     "Quan Pan"
-header-img: "assets/img/projects/SanFrancisco/header.jpg"
+image: 
+  path: /assets/images/projects/SanFrancisco/header.jpg
+  thumbnail: /assets/images/projects/SanFrancisco/thumbnail-400x200.jpg
+  caption: "Suspended Sediment Concentration, 3D Viewer"
 ---
 
-# [](#header-1)San Francisco Estuary
+San Francisco Estuary is located in California state, U.S.A. It is the largest estuary on the west coast of America. 
 
-## Introduction
-
-San Francisco Estuary is located in California state, U.S.A. It is the largest estuary on the west coast of America. This Estuary is the centre of population, commerce, industry, and recreation. In the hinterland the estuary connects to the Sacramento-San Joaquin River Delta which is an extended inland river delta. The Delta lies east of San Francisco Bay. Two main rivers meet in this area, the Sacramento River and San Joaquin River.
+This Estuary is the centre of population, commerce, industry, and recreation. In the hinterland the estuary connects to the Sacramento-San Joaquin River Delta which is an extended inland river delta. The Delta lies east of San Francisco Bay. Two main rivers meet in this area, the Sacramento River and San Joaquin River.
 
 ## Problem
 
@@ -50,5 +47,5 @@ Delft3D-WAQ is a 3-dimensional water quality model framework. It solves the adve
 {% include embed.html id="f4s14N3oxYk" %}
 
 {% comment %}
-![](/assets/img/projects/SanFrancisco/OpenVT.jpg)
+![](/assets/images/projects/SanFrancisco/OpenVT.jpg)
 {% endcomment %}

@@ -1,19 +1,16 @@
 ---
-layout:     project
 title:      "Single Dam Break"
 company:    "UNESCO-IHE"
 position:   "Researcher"
-keyword:    "2D Hydronamic Simulation"
-date:       2013-07-01 12:00:00
-author:     "Quan Pan"
-header-img: "assets/img/projects/SingleDamBreak/header.jpg"
+image: 
+  path: /assets/images/projects/SingleDamBreak/header.jpg
+  thumbnail: /assets/images/projects/SingleDamBreak/thumbnail-400x200.jpg
+  caption: "2D Hydronamic Simulation"
 ---
 
-# [](#header-1)Single Dam Break
+Sedimentation and erosion processes are strongly associated with the hydraulics of any system, and in water resources management they add another dimension to the complicated process of making decisions.
 
-## Introduction
-
-Sedimentation and erosion processes are strongly associated with the hydraulics of any system, and in water resources management they add another dimension to the complicated process of making decisions. The processes of erosion, transportation and sedimentation are natural, have occurred throughout geological time and have helped to shape the present landscape of the world. Investigation of river morphodynamic and sediment processes is of interest to scientists and engineers, hence over the years many tools have been developed to model these processes mathematically. Open source software has the benefit of being freely available, and as such accessible to wider audiences, however support for using open source codes can be limited. One such piece of open source software is XBEACH, which was developed and tested to predict the flooding, sediment transport and morphological changes in coastal environments. 
+The processes of erosion, transportation and sedimentation are natural, have occurred throughout geological time and have helped to shape the present landscape of the world. Investigation of river morphodynamic and sediment processes is of interest to scientists and engineers, hence over the years many tools have been developed to model these processes mathematically. Open source software has the benefit of being freely available, and as such accessible to wider audiences, however support for using open source codes can be limited. One such piece of open source software is XBEACH, which was developed and tested to predict the flooding, sediment transport and morphological changes in coastal environments. 
 
 ## Problem
 
@@ -40,8 +37,8 @@ A series of six benchmark cases were set up to test the XBEACH sediment transpor
 
 ### AutoCAD design
 
-![](/assets/img/projects/SingleDamBreak/autoCAD.jpg)
+![](/assets/images/projects/SingleDamBreak/autoCAD.jpg)
 
 ### Xbeach 2D hydrodynamic and morphodynamic simulation
 
-![](/assets/img/projects/SingleDamBreak/bedlevel.png)
+![](/assets/images/projects/SingleDamBreak/bedlevel.png)

@@ -1,14 +1,15 @@
 ---
-layout:     post
-title:      "PHP Extension"
-date:       2014-02-01 12:00:00
-author:     "QPan"
-keyword:    "PHP Core, Zend Engine, Hacker"
-type:       "SD"
-header-img: "assets/img/posts/header-SD.jpg"
+title: "PHP Extension"
+categories:
+  - SD
+tags:
+  - PHP Core
+  - Zend Engine
+  - Hacker
+last_modified_at: 2014-02-01T12:00:00-10:00
 ---
 
-# [](#header-1)PHP Extension
+PHP Extension
 
 - [PHP at the Core: A Hacker's Guide](https://www.php.net/manual/en/internals2.php)
 - [Zend API: Hacking the Core of PHP](https://www.php.net/manual/en/internals2.ze1.zendapi.php)
@@ -17,7 +18,7 @@ Extending PHP" is easier said than done. PHP has evolved to a full-fledged tool 
 
 This is not the most scientific and professional approach, but the method that's the most fun and gives the best end results. In the following sections, you'll learn quickly how to get the most basic extensions to work almost instantly. After that, you'll learn about Zend's advanced API functionality. 
 
-## [](#header-2)What Is Zend? and What Is PHP?
+## What Is Zend? and What Is PHP?
 
  The name Zend refers to the language engine, PHP's core. The term PHP refers to the complete system as it appears from the outside. This might sound a bit confusing at first, but it's not that complicated (see below). To implement a Web script interpreter, you need three parts:
 
@@ -33,7 +34,7 @@ Zend itself really forms only the language core, implementing PHP at its very ba
 
 ![](/assets/img/posts/2014-02-01-PHPextension/Zend.01-internal-structure.png)
 
-## [](#header-2)External Modules vs Built-in Modules
+## External Modules vs Built-in Modules
 
 **External modules** can be loaded at script runtime using the function dl(). This function loads a shared object from disk and makes its functionality available to the script to which it's being bound. After the script is terminated, the external module is discarded from memory.
 
@@ -43,11 +44,11 @@ External modules are great for third-party products, small additions to PHP that
 
 Built-in modules are best when you have a solid library of functions that remains relatively unchanged, requires better than poor-to-average performance, or is used frequently by many scripts on your site. The need to recompile PHP is quickly compensated by the benefit in speed and ease of use. However, built-in modules are not ideal when rapid development of small additions is required.
 
-## [](#header-2)Creating Extensions
+## Creating Extensions
 
 Before we start discussing code issues, you should familiarize yourself with the source tree to be able to quickly navigate through PHP's files. This is a must-have ability to implement and debug extensions. 
 
-### [](#header-3)Source Layout
+### Source Layout
 
 | Directory    | Contents |
 | ------------ | -------- |
@@ -59,7 +60,7 @@ Before we start discussing code issues, you should familiarize yourself with the
 | TSRM 	Location of the "Thread Safe Resource Manager" (TSRM) for Zend and PHP. |
 | ZendEngine2  | Location of the Zend Engine files; here you'll find all of Zend's API definitions, macros, etc. (important). |
 
-### [](#header-3)A simple extension.
+### A simple extension.
 
 Prepare structure
 

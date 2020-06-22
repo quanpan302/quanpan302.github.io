@@ -1,19 +1,16 @@
 ---
-layout:     project
 title:      "Taihu Lake"
 company:    "IHE-Delft"
 position:   "PhD Researcher"
-keyword:    "Pollutant Release Pattern Optimization, Machine Learning, Web-DSS"
-date:       2016-01-01 12:00:00
-author:     "Quan Pan"
-header-img: "assets/img/projects/TaihuLake/header.jpg"
+image: 
+  path: /assets/images/projects/TaihuLake/header.jpg
+  thumbnail: /assets/images/projects/TaihuLake/thumbnail-400x200.jpg
+  caption: "Pollutant Release Pattern Optimization, Machine Learning, Web-DSS"
 ---
 
-# [](#header-1)Taihu Lake
+Taihu Lake (E 30°56′～31°33′, N 119°54′～120°36′) is the third largest freshwater lake in the Yangtze Delta, on the border of Jiangsu and Zhejiang province, Eastern China.
 
-## Introduction
-
-Taihu Lake (E 30°56′～31°33′, N 119°54′～120°36′) is the third largest freshwater lake in the Yangtze Delta, on the border of Jiangsu and Zhejiang province, Eastern China.  Taihu Lake belongs to Zhejiang Province, Jiangsu Province and Shanghai City. The total lakeshore area of Taihu Lake is 2,427.8 km2 and there are 51 islands of a total area of 89.7 km2 in Taihu Lake. The actual surface area of Taihu Lake is 2,338.1 km2 and the average depth is 1.89 m. Wangyu and Xinmeng river supply water into the lake. Taipu, Xingou and Xicheng river are the outlets of the lake.
+Taihu Lake belongs to Zhejiang Province, Jiangsu Province and Shanghai City. The total lakeshore area of Taihu Lake is 2,427.8 km2 and there are 51 islands of a total area of 89.7 km2 in Taihu Lake. The actual surface area of Taihu Lake is 2,338.1 km2 and the average depth is 1.89 m. Wangyu and Xinmeng river supply water into the lake. Taipu, Xingou and Xicheng river are the outlets of the lake.
 
 ## Problem
 
@@ -32,7 +29,7 @@ The specific objectives are:
 
 ## Methodology
 
-![](/assets/img/projects/TaihuLake/methodology.jpg)
+![](/assets/images/projects/TaihuLake/methodology.jpg)
 
 ## Achievement
 
@@ -42,11 +39,11 @@ The specific objectives are:
 
 ### Delft3D 2D hydrodynamic and water quality simulation
 
-![](/assets/img/projects/TaihuLake/Delft3D.png)
+![](/assets/images/projects/TaihuLake/Delft3D.png)
 
 ### Multi-objective optimization, Machine Learning
 
-![](/assets/img/projects/TaihuLake/optimization.jpg)
+![](/assets/images/projects/TaihuLake/optimization.jpg)
 
 ### Web-based Decision Support System
 
@@ -56,7 +53,7 @@ The specific objectives are:
 - PostGIS
 - OpenLayers
 
-![](/assets/img/projects/TaihuLake/DSS.jpg)
+![](/assets/images/projects/TaihuLake/DSS.jpg)
 
 ### Open Visualization Tool (OpenVT v2)
 
@@ -64,4 +61,4 @@ The specific objectives are:
 - OpenGL
 - NetCDF
 
-![](/assets/img/projects/TaihuLake/OpenVT.jpg)
+![](/assets/images/projects/TaihuLake/OpenVT.jpg)

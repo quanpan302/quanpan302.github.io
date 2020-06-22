@@ -1,14 +1,13 @@
 ---
-layout:     post
-title:      "GeoServer"
-date:       2014-03-01 12:00:00
-author:     "QPan"
-keyword:    "GIS, OGC, LAMP"
-type:       "IT"
-header-img: "assets/img/posts/header-IT.jpg"
+title: "GeoServer"
+categories:
+  - IT
+tags:
+  - GIS
+  - OGC
+  - LAMP
+last_modified_at: 2014-03-01T12:00:00-15:00
 ---
-
-# [](#header-1)GeoServer
 
 [GeoServer](http://geoserver.org/) is an open source software server written in Java that allows users to share and edit geospatial data. Designed for interoperability, it publishes data from any major spatial data source using open standards.
 
@@ -21,37 +20,37 @@ GeoServer implements industry standard [Open Geospatial Consortium](https://www.
 
 Additional formats and publication options are available as extensions including [Web Processing Service](https://www.ogc.org/standards/wps) (WPS), and [Web Map Tile Service](https://www.ogc.org/standards/wmts) (WMTS).
 
-## [](#header-2)Getting started
+## Getting started
 
 [web administration interface](https://docs.geoserver.org/latest/en/user/gettingstarted/web-admin-quickstart/index.html)
 
 GeoServer has a browser-based web administration interface application used to configure all aspects of GeoServer, from adding and publishing data to changing service settings.
 
-### [](#header-3)Access
+### Access
 
 The web admin interface is accessed via a web browser at: `http://<host>:<port>/geoserver`
 
 For a default installation on a server the link is: `http://localhost:8080/geoserver`
 
-### [](#header-3)Log In
+### Log In
 
 The default administration credentials are:
 
 - User name: admin
 - Password: geoserver
 
-## [](#header-2)Data management
+## Data management
 
 GeoServer connects to and publishes data from a wide variety of sources. This section will discuss how to use the GeoServer web interface to accomplish most common tasks, along with the different data formats served by GeoServer.
 
-### [](#header-3)Data settings
+### Data settings
 
 - [Workspaces](https://docs.geoserver.org/latest/en/user/data/webadmin/workspaces.html)
 - [Stores](https://docs.geoserver.org/latest/en/user/data/webadmin/stores.html)
 - [Layers](https://docs.geoserver.org/latest/en/user/data/webadmin/layers.html)
 - [Layer Groups](https://docs.geoserver.org/latest/en/user/data/webadmin/layergroups.html)
 
-### [](#header-3)Vector data
+### Vector data
 
 - [Shapefile](https://docs.geoserver.org/latest/en/user/data/vector/shapefile.html)
 - [Directory of spatial files](https://docs.geoserver.org/latest/en/user/data/vector/directory.html)
@@ -60,7 +59,7 @@ GeoServer connects to and publishes data from a wide variety of sources. This se
 - [GML](https://docs.geoserver.org/latest/en/user/data/vector/gml.html)
 - [Pregeneralized Features](https://docs.geoserver.org/latest/en/user/data/vector/featurepregen.html)
 
-### [](#header-3)Raster data
+### Raster data
 
 - [GeoTIFF](https://docs.geoserver.org/latest/en/user/data/raster/geotiff.html)
 - [GTOPO30](https://docs.geoserver.org/latest/en/user/data/raster/gtopo30.html)
@@ -76,7 +75,7 @@ GeoServer connects to and publishes data from a wide variety of sources. This se
 - [Custom JDBC Access for image data](https://docs.geoserver.org/latest/en/user/data/raster/customjdbcaccess.html)
 - [Coverage Views](https://docs.geoserver.org/latest/en/user/data/raster/coverageview.html)
 
-### [](#header-3)Databases
+### Databases
 
 - [PostGIS](https://docs.geoserver.org/latest/en/user/data/database/postgis.html)
 - [H2](https://docs.geoserver.org/latest/en/user/data/database/h2.html)
@@ -91,14 +90,14 @@ GeoServer connects to and publishes data from a wide variety of sources. This se
 - [Controlling feature ID generation in spatial databases](https://docs.geoserver.org/latest/en/user/data/database/primarykey.html)
 - [Custom SQL session start/stop scripts](https://docs.geoserver.org/latest/en/user/data/database/sqlsession.html)
 
-### [](#header-3)Cascaded service data
+### Cascaded service data
 
 - [External Web Feature Server](https://docs.geoserver.org/latest/en/user/data/cascaded/wfs.html)
 - [Cascaded Web Feature Service Stored Queries](https://docs.geoserver.org/latest/en/user/data/cascaded/stored_query.html)
 - [External Web Map Server](https://docs.geoserver.org/latest/en/user/data/cascaded/wms.html)
 - [External Web Map Tile Server](https://docs.geoserver.org/latest/en/user/data/cascaded/wmts.html)
 
-### [](#header-3)Application schemas
+### Application schemas
 
 GeoServer provides support for a broad selection of simple feature data stores, including property files, shapefiles, and JDBC data stores such as PostGIS and Oracle Spatial. The app-schema module takes one or more of these simple feature data stores and applies a mapping to convert the simple feature types into one or more complex feature types conforming to a GML application schema.
 
@@ -125,7 +124,7 @@ GeoServer provides support for a broad selection of simple feature data stores, 
 
 ![](/assets/img/posts/2014-03-01-GeoServer/App Schema.png)
 
-## [](#header-2)Styling
+## Styling
 
 [Link](https://docs.geoserver.org/latest/en/user/styling/index.html#styling)
 
@@ -137,7 +136,7 @@ GeoServer provides support for a broad selection of simple feature data stores, 
 - MBStyle Styling
 - Styling Workshop
 
-## [](#header-2)Services
+## Services
 
 [Link](https://docs.geoserver.org/latest/en/user/services/index.html#services)
 
@@ -147,7 +146,7 @@ GeoServer provides support for a broad selection of simple feature data stores, 
 - WPS, [Web Processing Service](https://docs.geoserver.org/latest/en/user/services/wps/index.html)
 - CSW, [Catalog Services for the Web](https://docs.geoserver.org/latest/en/user/services/csw/index.html)
 
-## [](#header-2)Filtering
+## Filtering
 
 [Link](https://docs.geoserver.org/latest/en/user/filter/index.html#filtering)
 
@@ -160,7 +159,7 @@ GeoServer provides support for a broad selection of simple feature data stores, 
 - Filter functions
 - Filter Function Reference
 
-## [](#header-2)Server configuration
+## Server configuration
 
 [Link](https://docs.geoserver.org/latest/en/user/configuration/index.html#config)
 
@@ -176,7 +175,7 @@ GeoServer provides support for a broad selection of simple feature data stores, 
 - Demos
 - Tools
 
-## [](#header-2)GeoServer data directory
+## GeoServer data directory
 
 [Link](https://docs.geoserver.org/latest/en/user/datadirectory/index.html#datadir)
 
@@ -192,7 +191,7 @@ For **production use**, it is recommended to define an external data directory (
 - Migrating a data directory between versions
 - Parameterize catalog settings
 
-## [](#header-2)Running in a production environment
+## Running in a production environment
 
 [Link](https://docs.geoserver.org/latest/en/user/production/index.html#production)
 
@@ -212,7 +211,7 @@ GeoServer is geared towards many different uses, from a simple test server to th
     - XStream
 - [Make cluster nodes identifiable from the GUI](https://docs.geoserver.org/latest/en/user/production/identify.html)
 
-## [](#header-2)REST
+## REST
 
 [Link](https://docs.geoserver.org/latest/en/user/rest/index.html#rest)
 
@@ -241,7 +240,7 @@ Operations on resources are implemented with the standard primitives of HTTP: GE
     - Uploading multiple app-schema mapping files
     - Cleaning schemas on internal MongoDB stores
 
-## [](#header-2)Security
+## Security
 
 [Link](https://docs.geoserver.org/latest/en/user/security/index.html#security)
 
@@ -258,7 +257,7 @@ Operations on resources are implemented with the standard primitives of HTTP: GE
 - [Disabling security](https://docs.geoserver.org/latest/en/user/security/disable.html)
 - [Tutorials](https://docs.geoserver.org/latest/en/user/security/tutorials/index.html)
 
-## [](#header-2)GeoWebCache
+## GeoWebCache
 
 [Link](https://docs.geoserver.org/latest/en/user/geowebcache/index.html#gwc)
 
@@ -274,7 +273,7 @@ GeoWebCache is a tiling server. It runs as a proxy between a map client and map 
     - Grid misalignment
     - Direct WMS integration
 
-## [](#header-2)Extensions
+## Extensions
 
 [Link](https://docs.geoserver.org/latest/en/user/extensions/index.html#extensions)
 
@@ -305,7 +304,7 @@ Extensions are modules that add functionality to GeoServer. They are installed a
 - Geofence Plugin
 - Geofence Internal Server
 
-## [](#header-2)Community modules
+## Community modules
 
 [Link](https://docs.geoserver.org/latest/en/user/community/index.html#community)
 
@@ -356,7 +355,7 @@ Extensions are modules that add functionality to GeoServer. They are installed a
 - WPS download community module
 - WPS Remote community module
 
-## [](#header-2)Tutorials
+## Tutorials
 
 [Link](https://docs.geoserver.org/latest/en/user/tutorials/index.html#tutorials)
 
