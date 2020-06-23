@@ -9,7 +9,7 @@ tags:
 last_modified_at: 2014-02-01T12:00:00-10:00
 ---
 
-PHP ships with the extensions most useful to the majority of developers. They are called "core" extensions. PHP extensions are usually called "php_*.dll" (where the star represents the name of the extension) and they are located under the "PHP\ext" folder.
+PHP ships with the extensions most useful to the majority of developers. They are called "core" extensions. PHP extensions are usually called `php_*.dll` (where the star represents the name of the extension) and they are located under the `PHP\ext` folder.
 
 - [PHP at the Core: A Hacker's Guide](https://www.php.net/manual/en/internals2.php)
 - [Zend API: Hacking the Core of PHP](https://www.php.net/manual/en/internals2.ze1.zendapi.php)
@@ -62,12 +62,11 @@ Before we start discussing code issues, you should familiarize yourself with the
 
 ### A simple extension.
 
-Prepare structure
+**Prepare structure**
 
-```
-:~/cvs/php4/ext:> ./ext_skel --extname=my_module
 Creating directory my_module
-Creating basic files: config.m4 .cvsignore my_module.c php_my_module.h CREDITS EXPERIMENTAL tests/001.phpt my_module.php [done].
+
+Creating basic files: `config.m4 my_module.c php_my_module.h` and `tests/001.phpt my_module.php`.
 
 To use your new extension, you will have to execute the following steps:
 
@@ -83,9 +82,8 @@ To use your new extension, you will have to execute the following steps:
 Repeat steps 3-6 until you are satisfied with ext/my_module/config.m4 and
 step 6 confirms that your module is compiled into PHP. Then, start writing
 code and repeat the last two steps as often as necessary.
-```
 
-config.m4
+**config.m4**
 
 ```bash
 dnl config.m4 for extension my_module
@@ -152,7 +150,7 @@ if test "$PHP_MY_MODULE" != "no"; then
 fi
 ```
 
-my_module.c
+**my_module.c**
 
 ```c
 /* include standard header */
