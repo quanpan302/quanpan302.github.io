@@ -70,14 +70,14 @@ Creating basic files: `config.m4 my_module.c php_my_module.h` and `tests/001.php
 
 To use your new extension, you will have to execute the following steps:
 
-1.  $ cd ..
-2.  $ vi ext/my_module/config.m4
-3.  $ ./buildconf
-4.  $ ./configure --[with|enable]-my_module
-5.  $ make
-6.  $ ./php -f ext/my_module/my_module.php
-7.  $ vi ext/my_module/my_module.c
-8.  $ make
+1.  `cd ..`
+2.  `vi ext/my_module/config.m4`
+3.  `./buildconf`
+4.  `./configure --[with|enable]-my_module`
+5.  `make`
+6.  `./php -f ext/my_module/my_module.php`
+7.  `vi ext/my_module/my_module.c`
+8.  `make`
 
 Repeat steps 3-6 until you are satisfied with ext/my_module/config.m4 and
 step 6 confirms that your module is compiled into PHP. Then, start writing
