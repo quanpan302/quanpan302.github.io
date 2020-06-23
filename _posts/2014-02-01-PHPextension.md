@@ -57,7 +57,7 @@ Before we start discussing code issues, you should familiarize yourself with the
 | php-src/main | This directory contains the main php macros and definitions. (important) |
 | php-src/pear | Directory for the PHP Extension and Application Repository. This directory contains core PEAR files. |
 | php-src/sapi | Contains the code for the different server abstraction layers. |
-| TSRM 	Location of the "Thread Safe Resource Manager" (TSRM) for Zend and PHP. |
+| TSRM         | Location of the "Thread Safe Resource Manager" (TSRM) for Zend and PHP. |
 | ZendEngine2  | Location of the Zend Engine files; here you'll find all of Zend's API definitions, macros, etc. (important). |
 
 ### A simple extension.
