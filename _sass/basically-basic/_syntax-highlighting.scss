@@ -18,6 +18,11 @@ figure.highlight {
   }
 }
 
+code.highlighter-rouge {
+  color: $base08;
+  font-family: $monospace-font-family;
+}
+
 .highlight table {
   margin-bottom: 0;
   font-size: 1em;

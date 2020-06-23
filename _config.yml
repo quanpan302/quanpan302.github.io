@@ -20,8 +20,11 @@ lang: en-US
 title: QPan
 email: quanpan302@hotmail.com
 description: "My Website"
-baseurl: ""  # the subpath of your site, e.g. /blog
-url: "http://www.quanpan302.com"  # the base hostname & protocol for your site, e.g. http://example.com
+# baseurl: the subpath of your site, e.g. /blog
+baseurl: ""
+# url: the base hostname & protocol for your site, e.g. http://example.com
+url: "http://www.quanpan302.com"
+
 author:
   name: Quan Pan
   twitter: quanpan302
@@ -38,9 +41,9 @@ search: true
 search_full_content: true
 search_provider: lunr
 algolia:
-  application_id: # YOUR_APPLICATION_ID
-  index_name: # YOUR_INDEX_NAME
-  search_only_api_key: # YOUR_SEARCH_ONLY_API_KEY
+  application_id:
+  index_name:
+  search_only_api_key:
   powered_by: # true (default), false
 liquid:
   error_mode: strict
@@ -64,13 +67,15 @@ kramdown:
   enable_coderay: false
 
 # Sass/SCSS
+# http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
 sass:
   sass_dir: _sass
-  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+  style: compressed
 
 # Outputting
+# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 permalink: /:categories/:title/
-timezone: Europe/Amsterdam # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/Amsterdam
 
 # Plugins
 plugins: # previously gems
@@ -83,7 +88,8 @@ plugins: # previously gems
 feed:
   path: atom.xml
 
-# Pagination - https://jekyllrb.com/docs/pagination/
+# Pagination
+# https://jekyllrb.com/docs/pagination/
 paginate: 10
 paginate_path: /page:num/
 

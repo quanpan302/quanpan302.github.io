@@ -1,11 +1,10 @@
 ---
-layout:     post
-title:      "Template"
-date:       yyyy-mm-dd 12:00:00
-author:     "QPan"
-keyword:    "keyword"
-type:       "KG"
-header-img: "assets/img/posts/header-KG.jpg"
+title: "Template"
+categories:
+  - IT
+tags:
+  - Blade
+last_modified_at: yyyy-mm-ddT12:00:00-10:00
 ---
 
 {% comment %}
@@ -22,7 +21,7 @@ header-img: "assets/img/posts/header-KG.jpg"
     - SD, Software Development
 {% endcomment %}
 
-# [](#header-1)Header1
+# Header1
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
@@ -34,13 +33,13 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-## [](#header-2)Header2
+## Header2
 
 > This is a blockquote following a header.
 >
 > When something is important enough, you do it even if the odds are not in your favor.
 
-### [](#header-3)Header3
+### Header3
 
 ```js
 // Javascript code with syntax highlighting.
