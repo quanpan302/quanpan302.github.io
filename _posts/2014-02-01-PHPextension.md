@@ -9,7 +9,7 @@ tags:
 last_modified_at: 2014-02-01T12:00:00-10:00
 ---
 
-PHP Extension
+PHP ships with the extensions most useful to the majority of developers. They are called "core" extensions. PHP extensions are usually called "php_*.dll" (where the star represents the name of the extension) and they are located under the "PHP\ext" folder.
 
 - [PHP at the Core: A Hacker's Guide](https://www.php.net/manual/en/internals2.php)
 - [Zend API: Hacking the Core of PHP](https://www.php.net/manual/en/internals2.ze1.zendapi.php)
