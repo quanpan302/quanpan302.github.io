@@ -24,28 +24,28 @@ The main **aim** of data models is to support the development of information sys
 
 [Flat Model](https://en.wikipedia.org/wiki/Flat-file_database)
 
-![](/assets/img/posts/2014-12-01-DataModel/Flat Model.png)
+![](/assets/images/posts/2014-12-01-DataModel/Flat Model.png)
 
 [Hierarchical Model](https://en.wikipedia.org/wiki/Hierarchical_database_model)
 
-![](/assets/img/posts/2014-12-01-DataModel/Hierarchical Model.png)
+![](/assets/images/posts/2014-12-01-DataModel/Hierarchical Model.png)
 
 [Network Model](https://en.wikipedia.org/wiki/Network_model)
 
-![](/assets/img/posts/2014-12-01-DataModel/Network Model.png)
+![](/assets/images/posts/2014-12-01-DataModel/Network Model.png)
 
 [Relational Model](https://en.wikipedia.org/wiki/Relational_model)
 
-![](/assets/img/posts/2014-12-01-DataModel/Relational Model.png)
+![](/assets/images/posts/2014-12-01-DataModel/Relational Model.png)
 
 [Object-relational Model](https://en.wikipedia.org/wiki/Object-relational_database)
 [Object-role Modeling](https://en.wikipedia.org/wiki/Object-role_modeling)
 
-![](/assets/img/posts/2014-12-01-DataModel/Concept-oriented Model.png)
+![](/assets/images/posts/2014-12-01-DataModel/Concept-oriented Model.png)
 
 [Star Schema](https://en.wikipedia.org/wiki/Star_schema)
 
-![](/assets/img/posts/2014-12-01-DataModel/Star Schema.png)
+![](/assets/images/posts/2014-12-01-DataModel/Star Schema.png)
 
 ## Data model theory
 
@@ -55,6 +55,15 @@ The main **aim** of data models is to support the development of information sys
 
 [Unified Modeling Language](https://en.wikipedia.org/wiki/Unified_Modeling_Language)
 
+### Data Vault Modeling, [link](https://medium.com/rv-data/overhauling-our-data-warehouse-with-data-vault-403fe163271d)
+
+The data vault methodology is not a new idea; Dan Linstedt, the creator of the method, started developing it in the 1990’s. As defined by Linstedt in an article published to the Data Administration Newsletter in 2002:
+
+> The Data Vault is a detail oriented, historical tracking and uniquely linked set of normalized tables that support one or more functional areas of business. It is a hybrid approach encompassing the best of breed between 3rd normal form (3NF) and star schema. The design is flexible, scalable, consistent and adaptable to the needs of the enterprise. It is a data model that is architected specifically to meet the needs of enterprise data warehouses.
+
+The data vault model contains three main entities; **hubs**, **links**, and **satellites**. There is a single hub table for each business key, and it includes some metadata about these keys as well. In some cases, a business entity cannot be identified by a single key, so composite keys are allowed. Link tables connect two or more hubs - they define the relationships and interactions between entities. Satellite tables contain non-identifying descriptive attributes about hubs and links.
+
 ## Data modeling tools
 
 [Comparison of database tools](https://en.wikipedia.org/wiki/Comparison_of_database_tools)
+
