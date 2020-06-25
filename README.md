@@ -1,6 +1,6 @@
 # Topics
 
-Template: [yyyy-mm-dd-Template.md](./yyyy-mm-dd-Template.md)
+Template: [yyyy-mm-dd-Template.md](/__backup//yyyy-mm-dd-Template.md)
 
 Post types:
 - AI, Artificial Intelligence
