@@ -1,11 +1,9 @@
 ---
-layout:     post
-title:      "OpenLayers.js"
-date:       2014-05-01 12:00:00
-author:     "QPan"
-keyword:    "JavaScript, Map"
-type:       "IT"
-header-img: "assets/img/posts/header-IT.jpg"
+title: "OpenLayers.js"
+categories:
+  - IT
+tags:
+  - Map
+  - Javascript
+last_modified_at: 2014-05-01T12:00:00-10:00
 ---
-
-# [](#header-1)OpenLayers.js

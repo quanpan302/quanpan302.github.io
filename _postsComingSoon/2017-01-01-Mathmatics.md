@@ -1,12 +1,8 @@
 ---
-layout:     post
-title:      "Mathematics"
-date:       2017-01-01 12:00:00
-author:     "QPan"
-keyword:    "Mathematics"
-type:       "KG"
-header-img: "assets/img/posts/header-KG.jpg"
+title: "Mathematics"
+categories:
+  - KG
+tags:
+  - Mathematics
+last_modified_at: 2017-01-01T12:00:00-10:00
 ---
-
-# [](#header-1)Mathematics
-

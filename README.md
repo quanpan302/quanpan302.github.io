@@ -2,6 +2,16 @@
 
 Template: [yyyy-mm-dd-Template.md](./yyyy-mm-dd-Template.md)
 
+Post types:
+- AI, Artificial Intelligence
+- DS, Data Science
+- KG, Knowledge
+- IT, Internet Technology
+- MA, Mathematics
+- PH, Physics
+- RS, Remote Sensing
+- SD, Software Development
+
 ## 2011
 
 Grid generation,

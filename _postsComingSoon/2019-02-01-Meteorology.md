@@ -1,11 +1,8 @@
 ---
-layout:     post
-title:      "Meteorology"
-date:       2019-02-01 12:00:00
-author:     "QPan"
-keyword:    "Meteorology"
-type:       "KG"
-header-img: "assets/img/posts/header-KG.jpg"
+title: "Meteorology"
+categories:
+  - KG
+tags:
+  - Physics
+last_modified_at: 2019-02-01T12:00:00-10:00
 ---
-
-# [](#header-1)Meteorology

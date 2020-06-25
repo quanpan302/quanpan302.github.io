@@ -32,7 +32,7 @@ Zend itself really forms only the language core, implementing PHP at its very ba
 - PHP takes parts 2 and 3. 
 - Together they form the complete PHP package.
 
-![](/assets/img/posts/2014-02-01-PHPextension/Zend.01-internal-structure.png)
+![](/assets/images/posts/2014-02-01-PHPextension/Zend.01-internal-structure.png)
 
 ## External Modules vs Built-in Modules
 

@@ -1,12 +1,8 @@
 ---
-layout:     post
-title:      "Statistics"
-date:       2017-02-01 12:00:00
-author:     "QPan"
-keyword:    "Statistics"
-type:       "KG"
-header-img: "assets/img/posts/header-KG.jpg"
+title: "Statistics"
+categories:
+  - KG
+tags:
+  - Mathematics
+last_modified_at: 2017-02-01T12:00:00-10:00
 ---
-
-# [](#header-1)Statistics
-

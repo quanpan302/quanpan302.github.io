@@ -9,16 +9,6 @@ last_modified_at: yyyy-mm-ddT12:00:00-10:00
 
 {% comment %}
   https://github.com/github/linguist/blob/master/lib/linguist/languages.yml
-
-  Post types:
-    - AI, Artificial Intelligence
-    - DS, Data Science
-    - KG, Knowledge
-    - IT, Internet Technology
-    - MA, Mathematics
-    - PH, Physics
-    - RS, Remote Sensing
-    - SD, Software Development
 {% endcomment %}
 
 # Header1
