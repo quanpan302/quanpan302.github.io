@@ -8,7 +8,7 @@ tags:
 last_modified_at: 2018-01-02T12:00:00-01:00
 ---
 
-Remote sensing is the acquisition of information about an object or phenomenon without making physical contact with the object and thus in contrast to on-site observation, especially the Earth, [Remote sensing satellite and data overview](https://en.wikipedia.org/wiki/Remote_sensing_satellite_and_data_overview).
+**Remote sensing** is the acquisition of information about an object or phenomenon without making physical contact with the object and thus in contrast to on-site observation, especially the Earth, [Remote sensing satellite and data overview](https://en.wikipedia.org/wiki/Remote_sensing_satellite_and_data_overview).
 
 Remote sensing is used in numerous fields, including **geography**, **land surveying** and most **Earth science disciplines**, for example:
 
