@@ -56,7 +56,7 @@ Python
 ## 2020
 
 
-# Cheat Sheet
+# [Cheat Sheet](https://lzone.de/cheat-sheet/)
 
 ## Markdown, [Link](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
