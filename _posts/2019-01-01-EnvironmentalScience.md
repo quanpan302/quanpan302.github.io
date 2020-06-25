@@ -25,5 +25,5 @@ Environmental science emerged from the fields of natural history and medicine du
 - [Environmental impact assessment](https://en.wikipedia.org/wiki/Environmental_impact_assessment), [Category](https://en.wikipedia.org/wiki/Category:Environmental_impact_assessment)
   - [Netherlands Commission for Environmental Assessment](http://www.eia.nl/en)
   - [International Association for Impact Assessment](https://www.iaia.org)
-  - [FAO](assets/images/posts//FAO-Environmental%20aImpact%20aAssessment.pdf)
+  - [FAO](/assets/images/posts/2019-01-01-EnvironmentalScience/FAO-Environmental%20aImpact%20aAssessment.pdf)
 - [Environmental impact statement](https://en.wikipedia.org/wiki/Environmental_impact_statement)
