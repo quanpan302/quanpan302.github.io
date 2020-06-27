@@ -1,0 +1,27 @@
+---
+title: "Artificial Intelligence"
+categories:
+  - KG
+tags:
+  - KG
+  - AI
+  - ML
+  - DL
+  - RL
+last_modified_at: 2100-01-01T12:00:00-01:00
+---
+
+**Artificial Intelligence** is "a system's ability to correctly interpret external data, to learn from such data, and to use those learnings to achieve specific goals and tasks through flexible adaptation."
+
+Challenges:
+
+- Reasoning, problem solving (推理，解决问题)
+- Knowledge representation (知识表示)
+- Planning (规划)
+- Learning (学习)
+- Natural language processing (自然语言处理)
+- Perception (知觉)
+- Motion and manipulation (运动和操纵)
+- Social intelligence (社会智慧)
+- General intelligence (一般智慧)
+
