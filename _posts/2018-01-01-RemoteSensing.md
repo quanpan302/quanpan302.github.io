@@ -5,6 +5,7 @@ categories:
 tags:
   - Radar
   - Laser
+  - Photograph
 last_modified_at: 2018-01-02T12:00:00-01:00
 ---
 
