@@ -8,7 +8,7 @@ tags:
 last_modified_at: 2018-03-05T12:00:00-01:00
 ---
 
-**Typescript** 
+**[Typescript.js](https://www.typescriptlang.org/)** is a super-set of JavaScript, it doesn't have a default template - there would be too many. Instead, other projects have their own TypeScript bootstrap templates with their own context. These projects provide templates which include TypeScript support.
 
 ## Typescript.js and React.js
 
