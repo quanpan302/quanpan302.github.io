@@ -85,8 +85,8 @@ A domain constraint specifies the permissible values for a given attribute, whil
 
 [Sixth normal form](https://en.wikipedia.org/wiki/Sixth_normal_form) is intended to decompose relation variables to irreducible components. Though this may be relatively unimportant for non-temporal relation variables, it can be important when dealing with temporal variables or other interval data.
 
-| UNF (1970) | 1NF (1970) | 2NF (1971) | 3NF (1971) | EKNF (1982) | BCNF (1974) | 4NF (1977) | ETNF (2012) | 5NF (1979) | DKNF (1981) | 6NF (2003) |
-| ---------- | ---------- | ---------- | ---------- | ----------- | ----------- | ---------- | ----------- | ---------- | ----------- | ---------- |
+| Features | UNF (1970) | 1NF (1970) | 2NF (1971) | 3NF (1971) | EKNF (1982) | BCNF (1974) | 4NF (1977) | ETNF (2012) | 5NF (1979) | DKNF (1981) | 6NF (2003) |
+| -------: | ---------- | ---------- | ---------- | ---------- | ----------- | ----------- | ---------- | ----------- | ---------- | ----------- | ---------- |
 | Primary key (no duplicate tuples) | Maybe | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes |
 | No repeating groups | Maybe | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes |
 | Atomic columns (cells have single value) | No | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes |
