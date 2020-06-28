@@ -1,5 +1,5 @@
 ---
-title: "ECMAScript.js"
+title: "ECMAScript"
 categories:
   - SD
 tags:
@@ -8,16 +8,16 @@ tags:
 last_modified_at: 2016-01-06T12:00:00-01:00
 ---
 
-**[ECMAScript.js](https://en.wikipedia.org/wiki/ECMAScript)** is a general-purpose programming language, standardized by [Ecma International](http://www.ecma-international.org/) according to the document [ECMA-262](https://www.ecma-international.org/publications/standards/Ecma-262.htm). It was inspired by JavaScript and JScript and was created to help foster multiple independent implementations. ECMAScript is commonly used for client-side scripting on the World Wide Web, and it is increasingly being used for writing server applications and services using Node.js.
+**[ECMAScript](https://en.wikipedia.org/wiki/ECMAScript)** is a general-purpose programming language, standardized by [Ecma International](http://www.ecma-international.org/) according to the document [ECMA-262](https://www.ecma-international.org/publications/standards/Ecma-262.htm). It was inspired by JavaScript and JScript and was created to help foster multiple independent implementations. ECMAScript is commonly used for client-side scripting on the World Wide Web, and it is increasingly being used for writing server applications and services using Node.js.
 
 [ECMA-262.pdf](https://www.ecma-international.org/publications/standards/Ecma-262.htm), [Github-ecma262](https://github.com/tc39/ecma262), [Github-test262](https://github.com/tc39/test262)
 
-- [2015](/assets/images/posts/2016-01-06-ECMAScriptJS/ECMAScript2015-ECMA-262.pdf), [Github](https://github.com/lukehoban/es6features#readme)
-- [2016](/assets/images/posts/2016-01-06-ECMAScriptJS/ECMAScript2016-ECMA-262.pdf)
-- [2017](/assets/images/posts/2016-01-06-ECMAScriptJS/ECMAScript2017-ECMA-262.pdf)
-- [2018](/assets/images/posts/2016-01-06-ECMAScriptJS/ECMAScript2018-ECMA-262.pdf)
-- [2019](/assets/images/posts/2016-01-06-ECMAScriptJS/ECMAScript2019-ECMA-262.pdf)
-- [2020](/assets/images/posts/2016-01-06-ECMAScriptJS/ECMAScript2020-ECMA-262.pdf)
+- [2015](/assets/images/posts/2016-01-06-ECMAScript/ECMAScript2015-ECMA-262.pdf), [Github](https://github.com/lukehoban/es6features#readme)
+- [2016](/assets/images/posts/2016-01-06-ECMAScript/ECMAScript2016-ECMA-262.pdf)
+- [2017](/assets/images/posts/2016-01-06-ECMAScript/ECMAScript2017-ECMA-262.pdf)
+- [2018](/assets/images/posts/2016-01-06-ECMAScript/ECMAScript2018-ECMA-262.pdf)
+- [2019](/assets/images/posts/2016-01-06-ECMAScript/ECMAScript2019-ECMA-262.pdf)
+- [2020](/assets/images/posts/2016-01-06-ECMAScript/ECMAScript2020-ECMA-262.pdf)
 
 ECMAScript version history
 
