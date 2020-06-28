@@ -8,7 +8,7 @@ tags:
 last_modified_at: 2014-12-01T12:00:00-10:00
 ---
 
-A data model (or datamodel) is an abstract model that **organizes** elements of data and **standardizes** how they relate to one another and to the properties of real-world entities. For instance, a data model may specify that the data element representing a car be composed of a number of other elements which, in turn, represent the color and size of the car and define its owner.
+**Data model (or Datamodel)** is an abstract model that **organizes** elements of data and **standardizes** how they relate to one another and to the properties of real-world entities. For instance, a data model may specify that the data element representing a car be composed of a number of other elements which, in turn, represent the color and size of the car and define its owner.
 
 The main **aim** of data models is to support the development of information systems by providing the definition and format of data.
 
