@@ -90,7 +90,7 @@ feed:
 
 # Pagination
 # https://jekyllrb.com/docs/pagination/
-paginate: 12
+paginate: 24
 paginate_path: /page:num/
 
 # Exclude from processing.
