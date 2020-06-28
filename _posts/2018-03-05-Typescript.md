@@ -16,9 +16,27 @@ last_modified_at: 2018-03-05T12:00:00-01:00
 
 **object** is a type that represents the non-primitive type, i.e. anything that is not `number`, `string`, `boolean`, `symbol`, `null`, or `undefined`.
 
-## Typescript.js and React.js
+### [Types](https://www.typescriptlang.org/docs/handbook/basic-types.html)
 
-[example](https://www.staging-typescript.org/docs/handbook/react.html)
+### [Interfaces](https://www.typescriptlang.org/docs/handbook/interfaces.html)
+
+### [Functions](https://www.typescriptlang.org/docs/handbook/functions.html)
+
+### [Literal Types](https://www.typescriptlang.org/docs/handbook/literal-types.html)
+
+### [Unions and Intersection Types](https://www.typescriptlang.org/docs/handbook/unions-and-intersections.html)
+
+### [Classes](https://www.typescriptlang.org/docs/handbook/classes.html)
+
+### [Enums](https://www.typescriptlang.org/docs/handbook/enums.html)
+
+### [Generics](https://www.typescriptlang.org/docs/handbook/generics.html)
+
+## Handbook
+
+### [React.js](https://www.staging-typescript.org/docs/handbook/react.html)
+
+Install create-react-app
 
 ```bash
 node -v
@@ -26,21 +44,23 @@ node -v
 ls /usr/local/lib/node_modules/
 
 sudo npm install -g create-react-app
+```
 
+Create our new project, Project layout:
+
+```bash
 create-react-app react-with-ts --template=typescript
 ```
 
-Project layout
-
 ```
 react-with-ts/
-├─ .gitignore
-├─ node_modules/
-├─ public/
-├─ src/
-│  └─ ...
-├─ package.json
-├─ tsconfig.json
-
-└─ tslint.json
+  ├─ .gitignore
+  ├─ node_modules/
+  ├─ public/
+  ├─ src/
+  │  └─ ...
+  ├─ package.json
+  ├─ tsconfig.json
+  
+  └─ tslint.json
 ```
