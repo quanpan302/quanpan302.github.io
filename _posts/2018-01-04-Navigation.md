@@ -1,11 +1,11 @@
 ---
 title: "Navigation"
 categories:
-  - SD
+  - KG
 tags:
   - GIS
   - GDAL
-last_modified_at: 2018-01-03T12:00:00-01:00
+last_modified_at: 2018-01-04T12:00:00-01:00
 ---
 
 **Navigation** is a field of study that focuses on the process of monitoring and controlling the movement of a craft or vehicle from one place to another. The field of navigation includes four general categories: land navigation, marine navigation, aeronautic navigation, and space navigation.
@@ -22,7 +22,7 @@ The NDS standard is documented regarding database structures, interoperability r
 - Investigation Modules: Execution framework for testing NDS databases on target hardware
 - Database Inspector: Desktop tool for visualizing NDS databases
 
-![](/assets/images/posts/2018-01-03-Navigation/Overview_buildingblocks-nds-with-HAD.jpg)
+![](/assets/images/posts/2018-01-04-Navigation/Overview_buildingblocks-nds-with-HAD.jpg)
 
 ## [Map database management](https://en.wikipedia.org/wiki/Map_database_management)
 
@@ -58,7 +58,7 @@ Major GDF5.0 enhancements include
 - comprehensive character set and phonetic representations
 - new XML and SQL based delivery formats
 
-[Information Exchange between GIS and Geospatial ITS Databases Based on a Generic Model.pdf](/assets/images/posts/2018-01-03-Navigation/Information%20Exchange%20between%20GIS%20and%20Geospatial%20ITS%20Databases%20Based%20on%20a%20Generic%20Model.pdf)
+[Information Exchange between GIS and Geospatial ITS Databases Based on a Generic Model.pdf](/assets/images/posts/2018-01-04-Navigation/Information%20Exchange%20between%20GIS%20and%20Geospatial%20ITS%20Databases%20Based%20on%20a%20Generic%20Model.pdf)
 
 ## [Geocode](https://en.wikipedia.org/wiki/Geocode)
 
