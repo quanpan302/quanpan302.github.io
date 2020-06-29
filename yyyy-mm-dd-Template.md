@@ -7,12 +7,12 @@ tags:
 last_modified_at: yyyy-mm-ddT12:00:00-10:00
 ---
 
-Processed through Liquid (run)
+# Processed through Liquid (run)
 {% comment %}
   https://github.com/github/linguist/blob/master/lib/linguist/languages.yml
 {% endcomment %}
 
-Passed through Liquid (skip)
+# Passed through Liquid (skip)
 {% raw %}
   Jinja Templating, {% ... %} , {{ ... }}
 {% endraw %}
