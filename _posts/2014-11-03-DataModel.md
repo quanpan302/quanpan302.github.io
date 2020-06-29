@@ -5,7 +5,7 @@ categories:
 tags:
   - Database
   - Diagram
-last_modified_at: 2014-12-01T12:00:00-10:00
+last_modified_at: 2014-11-03T12:00:00-10:00
 ---
 
 **Data model (or Datamodel)** is an abstract model that **organizes** elements of data and **standardizes** how they relate to one another and to the properties of real-world entities. For instance, a data model may specify that the data element representing a car be composed of a number of other elements which, in turn, represent the color and size of the car and define its owner.
@@ -24,28 +24,28 @@ The main **aim** of data models is to support the development of information sys
 
 [Flat Model](https://en.wikipedia.org/wiki/Flat-file_database)
 
-![](/assets/images/posts/2014-12-01-DataModel/Flat Model.png)
+![](/assets/images/posts/2014-11-03-DataModel/Flat%20Model.png)
 
 [Hierarchical Model](https://en.wikipedia.org/wiki/Hierarchical_database_model)
 
-![](/assets/images/posts/2014-12-01-DataModel/Hierarchical Model.png)
+![](/assets/images/posts/2014-11-03-DataModel/Hierarchical%20Model.png)
 
 [Network Model](https://en.wikipedia.org/wiki/Network_model)
 
-![](/assets/images/posts/2014-12-01-DataModel/Network Model.png)
+![](/assets/images/posts/2014-11-03-DataModel/Network%20Model.png)
 
 [Relational Model](https://en.wikipedia.org/wiki/Relational_model)
 
-![](/assets/images/posts/2014-12-01-DataModel/Relational Model.png)
+![](/assets/images/posts/2014-11-03-DataModel/Relational%20Model.png)
 
 [Object-relational Model](https://en.wikipedia.org/wiki/Object-relational_database)
 [Object-role Modeling](https://en.wikipedia.org/wiki/Object-role_modeling)
 
-![](/assets/images/posts/2014-12-01-DataModel/Concept-oriented Model.png)
+![](/assets/images/posts/2014-11-03-DataModel/Concept-oriented%20Model.png)
 
 [Star Schema](https://en.wikipedia.org/wiki/Star_schema)
 
-![](/assets/images/posts/2014-12-01-DataModel/Star Schema.png)
+![](/assets/images/posts/2014-11-03-DataModel/Star%20Schema.png)
 
 ## Data model theory
 
