@@ -8,7 +8,7 @@ tags:
 last_modified_at: 2018-01-03T12:00:00-01:00
 ---
 
-**Navigation**
+**Navigation** is a field of study that focuses on the process of monitoring and controlling the movement of a craft or vehicle from one place to another. The field of navigation includes four general categories: land navigation, marine navigation, aeronautic navigation, and space navigation.
 
 ## [Navigation Data Standard (NDS)](https://en.wikipedia.org/wiki/Navigation_Data_Standard)
 
