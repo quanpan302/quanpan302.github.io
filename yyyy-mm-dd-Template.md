@@ -11,6 +11,10 @@ last_modified_at: yyyy-mm-ddT12:00:00-10:00
   https://github.com/github/linguist/blob/master/lib/linguist/languages.yml
 {% endcomment %}
 
+{% raw %}
+  Jinja Templating, {% ... %} , {{ ... }}
+{% endraw %}
+
 Post types:
 
 - AI, Artificial Intelligence
