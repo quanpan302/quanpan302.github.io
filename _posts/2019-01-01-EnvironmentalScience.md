@@ -20,6 +20,25 @@ Environmental science emerged from the fields of natural history and medicine du
 - **Environmental chemistry**
 - **Geosciences**
 
+## [Environmental restoration](https://en.wikipedia.org/wiki/Environmental_restoration)
+
+**Environmental restoration** is closely allied with (or perhaps sometimes used interchangeably with) ecological restoration or environmental remediation.
+
+### Approaches
+
+Environmental restoration involves many different approaches and technologies depending on the requirements of the situation.
+
+- It can involve heavy equipment like cranes, graders, bulldozers, or excavators, and also hand processes like the planting of trees and other vegetation.
+- It can involve high-tech processes such as those applied in the careful environmental control required in fish-hatchery procedures.
+- Today, computerized regulation is often being utilized in these processes.
+- Computer-based mapping has also become an important dimension of restorative work, as has computer modelling.
+
+## [Restoration ecology](https://en.wikipedia.org/wiki/Restoration_ecology)
+
+**Restoration ecology** is the scientific study supporting the practice of **ecological restoration**, which is the practice of renewing and restoring degraded, damaged, or destroyed ecosystems and habitats in the environment by active human intervention (介入) and action.
+
+Effective restoration requires an explicit goal or policy, preferably an unambiguous (明确的) one that is articulated, accepted, and codified. Restoration goals reflect societal choices from among competing policy priorities, but extracting such goals is typically contentious and politically challenging.
+
 ## Impact Assessment
 
 - [Environmental impact assessment](https://en.wikipedia.org/wiki/Environmental_impact_assessment), [Category](https://en.wikipedia.org/wiki/Category:Environmental_impact_assessment)
@@ -27,13 +46,3 @@ Environmental science emerged from the fields of natural history and medicine du
   - [International Association for Impact Assessment](https://www.iaia.org)
   - [FAO](/assets/images/posts/2019-01-01-EnvironmentalScience/FAO-Environmental%20Impact%20Assessment.pdf)
 - [Environmental impact statement](https://en.wikipedia.org/wiki/Environmental_impact_statement)
-
-## [Environmental restoration](https://en.wikipedia.org/wiki/Environmental_restoration)
-
-**Environmental restoration** is closely allied with (or perhaps sometimes used interchangeably with) ecological restoration or environmental remediation.
-
-## [Restoration ecology](https://en.wikipedia.org/wiki/Restoration_ecology)
-
-**Restoration ecology** is the scientific study supporting the practice of **ecological restoration**, which is the practice of renewing and restoring degraded, damaged, or destroyed ecosystems and habitats in the environment by active human intervention (介入) and action.
-
-Effective restoration requires an explicit goal or policy, preferably an unambiguous (明确的) one that is articulated, accepted, and codified. Restoration goals reflect societal choices from among competing policy priorities, but extracting such goals is typically contentious and politically challenging.
