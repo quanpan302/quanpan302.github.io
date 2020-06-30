@@ -46,3 +46,8 @@ Effective restoration requires an explicit goal or policy, preferably an unambig
   - [International Association for Impact Assessment](https://www.iaia.org)
   - [FAO](/assets/images/posts/2019-01-01-EnvironmentalScience/FAO-Environmental%20Impact%20Assessment.pdf)
 - [Environmental impact statement](https://en.wikipedia.org/wiki/Environmental_impact_statement)
+
+## Links
+
+- [Environment And Ecology](http://environment-ecology.com)
+- [Nature](https://www.nature.com/scitable/knowledge/library/restoration-ecology-13339059/)
