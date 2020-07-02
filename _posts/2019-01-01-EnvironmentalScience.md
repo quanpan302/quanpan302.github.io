@@ -20,9 +20,17 @@ Environmental science emerged from the fields of natural history and medicine du
 - **Environmental chemistry**
 - **Geosciences**
 
-## [Environmental restoration](https://en.wikipedia.org/wiki/Environmental_restoration)
+## Impact Assessment
 
-**Environmental restoration** is closely allied with (or perhaps sometimes used interchangeably with) ecological restoration or environmental remediation.
+- [Environmental impact assessment](https://en.wikipedia.org/wiki/Environmental_impact_assessment), [Category](https://en.wikipedia.org/wiki/Category:Environmental_impact_assessment)
+  - [Netherlands Commission for Environmental Assessment](http://www.eia.nl/en)
+  - [International Association for Impact Assessment](https://www.iaia.org)
+  - [FAO](/assets/images/posts/2019-01-01-EnvironmentalScience/FAO-Environmental%20Impact%20Assessment.pdf)
+- [Environmental impact statement](https://en.wikipedia.org/wiki/Environmental_impact_statement)
+
+## [Environmental Restoration](https://en.wikipedia.org/wiki/Environmental_restoration)
+
+**Environmental Restoration** is closely allied with (or perhaps sometimes used interchangeably with) ecological restoration or environmental remediation.
 
 ### Approaches
 
@@ -33,19 +41,50 @@ Environmental restoration involves many different approaches and technologies de
 - Today, computerized regulation is often being utilized in these processes.
 - Computer-based mapping has also become an important dimension of restorative work, as has computer modelling.
 
-## [Restoration ecology](https://en.wikipedia.org/wiki/Restoration_ecology)
+## [Restoration Ecology](https://en.wikipedia.org/wiki/Restoration_ecology)
 
-**Restoration ecology** is the scientific study supporting the practice of **ecological restoration**, which is the practice of renewing and restoring degraded, damaged, or destroyed ecosystems and habitats in the environment by active human intervention (介入) and action.
+**Restoration Ecology** is the scientific study supporting the practice of **ecological restoration**, which is the practice of renewing and restoring degraded, damaged, or destroyed ecosystems and habitats in the environment by active human intervention (介入) and action.
 
 Effective restoration requires an explicit goal or policy, preferably an unambiguous (明确的) one that is articulated, accepted, and codified. Restoration goals reflect societal choices from among competing policy priorities, but extracting such goals is typically contentious and politically challenging.
 
-## Impact Assessment
+### "FOUNDATIONS OF RESTORATION ECOLOGY" by Donald A. Falk, Margaret A. Palmer, and Joy B. Zedler
 
-- [Environmental impact assessment](https://en.wikipedia.org/wiki/Environmental_impact_assessment), [Category](https://en.wikipedia.org/wiki/Category:Environmental_impact_assessment)
-  - [Netherlands Commission for Environmental Assessment](http://www.eia.nl/en)
-  - [International Association for Impact Assessment](https://www.iaia.org)
-  - [FAO](/assets/images/posts/2019-01-01-EnvironmentalScience/FAO-Environmental%20Impact%20Assessment.pdf)
-- [Environmental impact statement](https://en.wikipedia.org/wiki/Environmental_impact_statement)
+#### Ecological Theory and Restoration Ecology
+
+Ecological restoration is to move a damaged system to an ecological state that is within some acceptable limits relative to a less disturbed system.
+
+Science-based restorations follow:
+
+- explicitly stated goals
+- a restoration design informed by eco-logical knowledge
+- quantitative assessment of system responses employing pre- and postrestoration data collection
+- analysis and application of results to inform subsequent efforts
+
+**Broad areas of ecological theory that are foundational to the science of restoration ecology**
+
+1. Ecological Theory and the Restoration of Populations and Communities
+   - Population and ecological genetics
+   - Ecophysiological and functional ecology
+   - Demography (人口统计学), population dynamics, metapopulation ecology
+   - Community ecology
+   - Evolutionary ecology
+   - Fine-scale heterogeneity (异质性)
+2. Restoring Ecological Function
+   - Food webs
+   - Ecological dynamics and trajectories
+   - Biodiversity and ecosystem functioning
+   - Modeling and simulations
+   - Invasive species and community invasibility (社区入侵)
+3. Restoration Ecology in Context
+   - Research design and statistical analysis
+   - Macroecology (宏观生态学)
+   - Paleoecology (古生态学), climate change
+
+#### Population and Ecological Genetics in Restoration Ecology
+
+
+
+
 
 ## Links
 
