@@ -107,11 +107,6 @@ Broad areas of ecological theory that are foundational to the science of restora
 
 ## Links
 
-### Model and Data
-
-- [ECOBAS](http://ecobas.org/)
-  - [Modelling and Simulation Links](http://ecobas.org/www-server/mod-info/all.html)
-  - [List of Textbooks on Ecological Modelling](http://ecobas.org/www-server/mod-info/show.php?%20%20%20%20%20%20%20%20%20%20%20URL=http://homepage.ruhr-uni-bochum.de/Michael.Knorrenschild/embooks.html&%20%20%20%20%20%20%20%20%20%20%20DT=List%20of%20ecological%20modelling%20books)
 - UN
   - **UNEP**, [United Nations Environment Programme](https://www.unenvironment.org/)
   - **UNEP GRID-Geneva**, [ited Nations Environment Programme, Global Resource Information Database at Geneva](https://unepgrid.ch/en)
@@ -145,9 +140,13 @@ Broad areas of ecological theory that are foundational to the science of restora
 - [BirdRadar](https://www.esciencecenter.nl/projects/birdradar/), eScience Center, Netherlands
 - [eEcology](https://www.esciencecenter.nl/projects/eecology/), eScience Center, Netherlands
 
-## Products
+## Data and Model
 
-#### GEDI, [NASA, Global Ecosystem Dynamics Investigation](https://gedi.umd.edu/)
+- [ECOBAS](http://ecobas.org/)
+  - [Modelling and Simulation Links](http://ecobas.org/www-server/mod-info/all.html)
+  - [List of Textbooks on Ecological Modelling](http://ecobas.org/www-server/mod-info/show.php?%20%20%20%20%20%20%20%20%20%20%20URL=http://homepage.ruhr-uni-bochum.de/Michael.Knorrenschild/embooks.html&%20%20%20%20%20%20%20%20%20%20%20DT=List%20of%20ecological%20modelling%20books)
+
+### GEDI, [NASA, Global Ecosystem Dynamics Investigation](https://gedi.umd.edu/)
 
 | Algorithm Theoretical Basis Documents (ATBDs) | ATBD name | Data products | Resolution | Version | Date |
 | --------------------------------------------- | --------- | ------------- | ---------- | ------- | ---- |
