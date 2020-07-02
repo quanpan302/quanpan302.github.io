@@ -20,6 +20,8 @@ Remote sensing is used in numerous fields, including **geography**, **land surve
 - glaciology
 - geology
 
+“Most maps are about how we as a civi- lization, as different cultures, perceive our lives in this box that we live in” (quoted in Shapiro 2015).
+
 ## Types of data acquisition techniques
 
 Within the scope of the combat against desertification, remote sensing allows researchers to follow up and monitor risk areas in the long term, to determine desertification factors, to support decision-makers in defining relevant measures of environmental management, and to assess their impacts.
