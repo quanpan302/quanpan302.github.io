@@ -51,11 +51,11 @@ Effective restoration requires an explicit goal or policy, preferably an unambig
 
 The restorationist **alters**:
 
-- The local distribution of light and energy aboveground, and water and chemistry belowground.
-- Postrestoration conditions may favor plants with different photosynthetic pathways, as well as species that can tolerate novel microclimatic conditions of temperature and humidity.
-- Belowground, plant tolerance for changes in macro- and micronutrients, as well as exposure to increased concentrations of toxic metals and changes to soil pH, salinity, and water, can be critical to the outcome of restoration.
-- The altered hydrological environment can influence plant rooting depth, root/shoot allocation, and the reliance on mycorrhizal symbioses.
-- Restoration exposes plants to a wide range of physiological stressors, and outcomes will depend on the ability of species to tolerate altered environments.
+- The local distribution of **_light_** and **_energy_** aboveground, and **_water_** and **_chemistry_** belowground.
+- Postrestoration conditions may favor plants with different **_photosynthetic pathways_**, as well as species that can tolerate **_novel microclimatic conditions_** of temperature and humidity.
+- Belowground, plant tolerance for changes in **_macro- and micro nutrients_**, as well as exposure to increased concentrations of **_toxic metals_** and changes to **_soil pH_**, **_salinity_**, and **_water_**, can be critical to the outcome of restoration.
+- The altered hydrological environment can influence **_plant rooting depth_**, **_root/shoot allocation_**, and the reliance on **_mycorrhizal symbioses (菌根共生)_**.
+- Restoration exposes plants to a wide range of **_physiological stressors (生理应激源)_**, and outcomes will depend on the ability of species to tolerate altered environments.
 
 
 #### Ecological Theory and Restoration Ecology
