@@ -107,6 +107,15 @@ Broad areas of ecological theory that are foundational to the science of restora
 
 ### "Ecological Informatics", by Michener, William K. Recknagel, Friedrich
 
+Ecological Informatics is an emerging discipline that takes into account the data- intensive nature of ecology, the valuable information content of ecological data, and the need to communicate results and inform decisions, including those related to research, conservation and resource management.
+
+Ecological Entities range from genomes, individual organisms, populations, communities, ecosystems to landscapes and the biosphere, and are highly complex and distinctly evolving.
+
+1. Managing Ecological Data
+2. Analysis, Synthesis and Forecasting of Ecological Data
+3. Case Studies
+
+
 ## Links
 
 ### Official
