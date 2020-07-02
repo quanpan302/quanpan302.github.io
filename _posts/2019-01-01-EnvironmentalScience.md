@@ -135,3 +135,8 @@ Website
 - [Environment And Ecology](http://environment-ecology.com)
 - [Nature](https://www.nature.com/scitable/knowledge/library/restoration-ecology-13339059/)
 
+Projects
+
+- [eEcoLiDAR, eScience Center, Netherlands](https://www.esciencecenter.nl/projects/eecolidar/)
+- [BirdRadar, eScience Center, Netherlands](https://www.esciencecenter.nl/projects/birdradar/)
+- [eEcology, eScience Center, Netherlands](https://www.esciencecenter.nl/projects/eecology/)
