@@ -151,9 +151,9 @@ Broad areas of ecological theory that are foundational to the science of restora
 
 | Algorithm Theoretical Basis Documents (ATBDs) | ATBD name | Data products | Version | Date |
 | --------------------------------------------- | --------- | ------------- | ------- | ---- |
-L1A-2A | Transmit and Receive Waveform Interpretation and Generation of L1A and L2A products | 1A: Raw waveforms, 2A: Ground elevation, canopy top height, relative height (RH) metrics | [1.0](/assets/images/posts/2019-01-01-EnvironmentalScience/) | 12-2019 |
-L1B | Waveform Geolocation for L1 and L2 Products | Geolocated waveforms | [1.0](/assets/images/posts/2019-01-01-EnvironmentalScience/) | 12-2019 |
-L2B | Footprint Canopy Cover and Vertical Profile Metrics | Canopy Cover Fraction (CCF), CCF profile, Leaf Area Index (LAI), LAI profile | [1.0](/assets/images/posts/2019-01-01-EnvironmentalScience/) | 12-2019 |
+L1A-2A | Transmit and Receive Waveform Interpretation and Generation of L1A and L2A products | 1A: Raw waveforms, 2A: Ground elevation, canopy top height, relative height (RH) metrics | [1.0.pdf](/assets/images/posts/2019-01-01-EnvironmentalScience/) | 12-2019 |
+L1B | Waveform Geolocation for L1 and L2 Products | Geolocated waveforms | [1.0.pdf](/assets/images/posts/2019-01-01-EnvironmentalScience/) | 12-2019 |
+L2B | Footprint Canopy Cover and Vertical Profile Metrics | Canopy Cover Fraction (CCF), CCF profile, Leaf Area Index (LAI), LAI profile | [1.0.pdf](/assets/images/posts/2019-01-01-EnvironmentalScience/) | 12-2019 |
 L3 | Gridded Land Surface Metrics | Gridded Level 2 metrics | 1.0 | TBD |
 L4A | Footprint Above Ground Biomass Density  | Footprint level above ground biomass | 1.0 | TBD |
 L4B | Gridded Biomass Product | Gridded Above Ground Biomass Density (AGBD) | 1.0 | TBD |
