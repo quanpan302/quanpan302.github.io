@@ -141,9 +141,9 @@ Broad areas of ecological theory that are foundational to the science of restora
 
 ### Projects
 
-- [eEcoLiDAR, eScience Center, Netherlands](https://www.esciencecenter.nl/projects/eecolidar/)
-- [BirdRadar, eScience Center, Netherlands](https://www.esciencecenter.nl/projects/birdradar/)
-- [eEcology, eScience Center, Netherlands](https://www.esciencecenter.nl/projects/eecology/)
+- [eEcoLiDAR](https://www.esciencecenter.nl/projects/eecolidar/), eScience Center, Netherlands
+- [BirdRadar](https://www.esciencecenter.nl/projects/birdradar/), eScience Center, Netherlands
+- [eEcology](https://www.esciencecenter.nl/projects/eecology/), eScience Center, Netherlands
 
 ## Products
 
