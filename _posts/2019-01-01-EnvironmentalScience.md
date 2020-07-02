@@ -126,9 +126,13 @@ Model and Data
   - **Interreg**, [Interreg CENTRAL EUROPE](https://www.interreg-central.eu/Content.Node/Environment.html)
   - **CEDAR**, [Central European Environmental Data Request Facility](http://www.cedar.at/sitemap.htm)
 - Country
-  - [Australia, Department of Agriculture, Water and the Environment](https://www.environment.gov.au/)
-  - [UK, Department for Environment Food & Rural Affairs](https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs)
-  - [China, Ministry of Ecology and Environment](http://english.mee.gov.cn/)
+  - Australia
+    - [Department of Agriculture, Water and the Environment](https://www.environment.gov.au/)
+    - [Survey, spatial data and maps](https://www.planning.act.gov.au/tools-resources/survey-spatial-data-maps)
+  - China
+    - [Ministry of Ecology and Environment](http://english.mee.gov.cn/)
+  - UK
+    - [Department for Environment Food & Rural Affairs](https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs)
 
 Website
 
@@ -140,3 +144,9 @@ Projects
 - [eEcoLiDAR, eScience Center, Netherlands](https://www.esciencecenter.nl/projects/eecolidar/)
 - [BirdRadar, eScience Center, Netherlands](https://www.esciencecenter.nl/projects/birdradar/)
 - [eEcology, eScience Center, Netherlands](https://www.esciencecenter.nl/projects/eecology/)
+
+Products
+
+**GEDI**, [NASA, Global Ecosystem Dynamics Investigation](https://gedi.umd.edu/)
+
+![](/assets/images/posts/2019-01-01-EnvironmentalScience/GEDI-data_products_table.png)
