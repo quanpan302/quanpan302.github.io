@@ -49,6 +49,15 @@ Effective restoration requires an explicit goal or policy, preferably an unambig
 
 ### "FOUNDATIONS OF RESTORATION ECOLOGY" by Donald A. Falk, Margaret A. Palmer, and Joy B. Zedler
 
+The restorationist **alters**:
+
+- The local distribution of light and energy aboveground, and water and chemistry belowground.
+- Postrestoration conditions may favor plants with different photosynthetic pathways, as well as species that can tolerate novel microclimatic conditions of temperature and humidity.
+- Belowground, plant tolerance for changes in macro- and micronutrients, as well as exposure to increased concentrations of toxic metals and changes to soil pH, salinity, and water, can be critical to the outcome of restoration.
+- The altered hydrological environment can influence plant rooting depth, root/shoot allocation, and the reliance on mycorrhizal symbioses.
+- Restoration exposes plants to a wide range of physiological stressors, and outcomes will depend on the ability of species to tolerate altered environments.
+
+
 #### Ecological Theory and Restoration Ecology
 
 Ecological restoration is to move a damaged system to an ecological state that is within some acceptable limits relative to a less disturbed system.
@@ -60,7 +69,7 @@ Science-based restorations follow:
 - quantitative assessment of system responses employing pre- and postrestoration data collection
 - analysis and application of results to inform subsequent efforts
 
-**Broad areas of ecological theory that are foundational to the science of restoration ecology**
+Broad areas of ecological theory that are foundational to the science of restoration ecology:
 
 1. Ecological Theory and the Restoration of Populations and Communities
    - Population and ecological genetics
@@ -81,8 +90,6 @@ Science-based restorations follow:
    - Paleoecology (古生态学), climate change
 
 #### Population and Ecological Genetics in Restoration Ecology
-
-
 
 
 
