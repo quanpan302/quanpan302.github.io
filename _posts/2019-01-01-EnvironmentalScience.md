@@ -107,7 +107,7 @@ Broad areas of ecological theory that are foundational to the science of restora
 
 ## Links
 
-Model and Data
+### Model and Data
 
 - [ECOBAS](http://ecobas.org/)
   - [Modelling and Simulation Links](http://ecobas.org/www-server/mod-info/all.html)
@@ -134,19 +134,28 @@ Model and Data
   - UK
     - [Department for Environment Food & Rural Affairs](https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs)
 
-Website
+### Website
 
 - [Environment And Ecology](http://environment-ecology.com)
 - [Nature](https://www.nature.com/scitable/knowledge/library/restoration-ecology-13339059/)
 
-Projects
+### Projects
 
 - [eEcoLiDAR, eScience Center, Netherlands](https://www.esciencecenter.nl/projects/eecolidar/)
 - [BirdRadar, eScience Center, Netherlands](https://www.esciencecenter.nl/projects/birdradar/)
 - [eEcology, eScience Center, Netherlands](https://www.esciencecenter.nl/projects/eecology/)
 
-Products
+## Products
 
-**GEDI**, [NASA, Global Ecosystem Dynamics Investigation](https://gedi.umd.edu/)
+#### GEDI, [NASA, Global Ecosystem Dynamics Investigation](https://gedi.umd.edu/)
+
+| Algorithm Theoretical Basis Documents (ATBDs) | ATBD name | Data products | Version | Date |
+| --------------------------------------------- | --------- | ------------- | ------- | ---- |
+L1A-2A | Transmit and Receive Waveform Interpretation and Generation of L1A and L2A products | 1A: Raw waveforms, 2A: Ground elevation, canopy top height, relative height (RH) metrics | [1.0](/assets/images/posts/2019-01-01-EnvironmentalScience/) | 12-2019 |
+L1B | Waveform Geolocation for L1 and L2 Products | Geolocated waveforms | [1.0](/assets/images/posts/2019-01-01-EnvironmentalScience/) | 12-2019 |
+L2B | Footprint Canopy Cover and Vertical Profile Metrics | Canopy Cover Fraction (CCF), CCF profile, Leaf Area Index (LAI), LAI profile | [1.0](/assets/images/posts/2019-01-01-EnvironmentalScience/) | 12-2019 |
+L3 | Gridded Land Surface Metrics | Gridded Level 2 metrics | 1.0 | TBD |
+L4A | Footprint Above Ground Biomass Density  | Footprint level above ground biomass | 1.0 | TBD |
+L4B | Gridded Biomass Product | Gridded Above Ground Biomass Density (AGBD) | 1.0 | TBD |
 
 ![](/assets/images/posts/2019-01-01-EnvironmentalScience/GEDI-data_products_table.png)
