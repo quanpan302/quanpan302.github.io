@@ -47,7 +47,7 @@ Environmental restoration involves many different approaches and technologies de
 
 Effective restoration requires an explicit goal or policy, preferably an unambiguous (明确的) one that is articulated, accepted, and codified. Restoration goals reflect societal choices from among competing policy priorities, but extracting such goals is typically contentious and politically challenging.
 
-### "FOUNDATIONS OF RESTORATION ECOLOGY" by Donald A. Falk, Margaret A. Palmer, and Joy B. Zedler
+### "FOUNDATIONS OF RESTORATION ECOLOGY" by Donald A. Falk, Margaret A. Palmer, and Joy B. Zedler [PDF](https://www.researchgate.net/publication/40777417_Foundations_of_Restoration_Ecology)
 
 The restorationist **alters**:
 
