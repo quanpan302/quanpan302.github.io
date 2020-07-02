@@ -28,6 +28,19 @@ Environmental science emerged from the fields of natural history and medicine du
   - [FAO](/assets/images/posts/2019-01-01-EnvironmentalScience/FAO-Environmental%20Impact%20Assessment.pdf)
 - [Environmental impact statement](https://en.wikipedia.org/wiki/Environmental_impact_statement)
 
+## [Ecosystem model](https://en.wikipedia.org/wiki/Ecosystem_model) (Ecological Modelling)
+
+**Ecosystem model** is an abstract, usually mathematical, representation of an ecological system (ranging in scale from an individual population, to an ecological community, or even an entire biome (生物群落)), which is studied to better understand the real system.
+
+There are two major types of ecological models, which are generally applied to different types of problems:
+
+1. Analytic models are typically relatively simple (often linear) systems, that can be accurately described by a set of mathematical equations whose behavior is well-known.
+2. Simulation / Computational models use numerical techniques to solve problems for which analytic solutions are impractical or impossible.
+
+[Modelling and Simulation Links](http://ecobas.org/www-server/mod-info/all.html)
+
+
+
 ## [Environmental Restoration](https://en.wikipedia.org/wiki/Environmental_restoration)
 
 **Environmental Restoration** is closely allied with (or perhaps sometimes used interchangeably with) ecological restoration or environmental remediation.
@@ -94,5 +107,8 @@ Broad areas of ecological theory that are foundational to the science of restora
 
 ## Links
 
+- [ECOBAS](http://ecobas.org/)
+  - [Modelling and Simulation Links](http://ecobas.org/www-server/mod-info/all.html)
+  - [List of Textbooks on Ecological Modelling](http://ecobas.org/www-server/mod-info/show.php?%20%20%20%20%20%20%20%20%20%20%20URL=http://homepage.ruhr-uni-bochum.de/Michael.Knorrenschild/embooks.html&%20%20%20%20%20%20%20%20%20%20%20DT=List%20of%20ecological%20modelling%20books)
 - [Environment And Ecology](http://environment-ecology.com)
 - [Nature](https://www.nature.com/scitable/knowledge/library/restoration-ecology-13339059/)
