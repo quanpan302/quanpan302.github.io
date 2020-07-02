@@ -60,7 +60,9 @@ Environmental restoration involves many different approaches and technologies de
 
 Effective restoration requires an explicit goal or policy, preferably an unambiguous (明确的) one that is articulated, accepted, and codified. Restoration goals reflect societal choices from among competing policy priorities, but extracting such goals is typically contentious and politically challenging.
 
-### "FOUNDATIONS OF RESTORATION ECOLOGY" by Donald A. Falk, Margaret A. Palmer, and Joy B. Zedler ([PDF](https://www.researchgate.net/publication/40777417_Foundations_of_Restoration_Ecology))
+## Book
+
+### "FOUNDATIONS OF RESTORATION ECOLOGY" by Donald A. Falk, Margaret A. Palmer, and Joy B. Zedler
 
 The restorationist **alters**:
 
@@ -103,7 +105,7 @@ Broad areas of ecological theory that are foundational to the science of restora
 
 #### Population and Ecological Genetics in Restoration Ecology
 
-
+### "Ecological Informatics", by Michener, William K. Recknagel, Friedrich
 
 ## Links
 
@@ -120,7 +122,6 @@ Broad areas of ecological theory that are foundational to the science of restora
 - USA
   - **EPA**, [United States, Environmental Protection Agency](https://www.epa.gov/)
   - **USGS**, [United States, Geological Survey](https://www.usgs.gov/)
-  - **ORNL**, [Ridge National Laboratory, Distributed Active Archive Center](https://daac.ornl.gov/)
 - Australia
   - [Department of Agriculture, Water and the Environment](https://www.environment.gov.au/)
   - [Survey, spatial data and maps](https://www.planning.act.gov.au/tools-resources/survey-spatial-data-maps)
@@ -143,8 +144,8 @@ Broad areas of ecological theory that are foundational to the science of restora
 ## Products
 
 - [ECOBAS](http://ecobas.org/)
-  - [Modelling and Simulation Links](http://ecobas.org/www-server/mod-info/all.html)
   - [List of Textbooks on Ecological Modelling](http://ecobas.org/www-server/mod-info/show.php?%20%20%20%20%20%20%20%20%20%20%20URL=http://homepage.ruhr-uni-bochum.de/Michael.Knorrenschild/embooks.html&%20%20%20%20%20%20%20%20%20%20%20DT=List%20of%20ecological%20modelling%20books)
+  - [Modelling and Simulation Links](http://ecobas.org/www-server/mod-info/all.html)
 
 ### Data
 
@@ -158,5 +159,9 @@ L2B | Footprint Canopy Cover and Vertical Profile Metrics | Canopy Cover Fractio
 L3 | Gridded Land Surface Metrics | Gridded Level 2 metrics | 1 km (~0.6 mi) grid | 1.0 | TBD |
 L4A | Footprint Above Ground Biomass Density  | Footprint level above ground biomass | 25 m (~82 ft) diameter | 1.0 | TBD |
 L4B | Gridded Biomass Product | Gridded Above Ground Biomass Density (AGBD) | 1 km (~0.6 mi) grid | 1.0 | TBD |
+
+#### ORNL, [Ridge National Laboratory, Distributed Active Archive Center](https://daac.ornl.gov/)
+
+
 
 ### Model
