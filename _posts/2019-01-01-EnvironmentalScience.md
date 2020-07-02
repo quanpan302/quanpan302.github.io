@@ -47,7 +47,7 @@ Environmental restoration involves many different approaches and technologies de
 
 Effective restoration requires an explicit goal or policy, preferably an unambiguous (明确的) one that is articulated, accepted, and codified. Restoration goals reflect societal choices from among competing policy priorities, but extracting such goals is typically contentious and politically challenging.
 
-### "FOUNDATIONS OF RESTORATION ECOLOGY" by Donald A. Falk, Margaret A. Palmer, and Joy B. Zedler [PDF](https://www.researchgate.net/publication/40777417_Foundations_of_Restoration_Ecology)
+### "FOUNDATIONS OF RESTORATION ECOLOGY" by Donald A. Falk, Margaret A. Palmer, and Joy B. Zedler ([PDF](https://www.researchgate.net/publication/40777417_Foundations_of_Restoration_Ecology))
 
 The restorationist **alters**:
 
@@ -56,7 +56,6 @@ The restorationist **alters**:
 - Belowground, plant tolerance for changes in **_macro- and micro nutrients_**, as well as exposure to increased concentrations of **_toxic metals_** and changes to **_soil pH_**, **_salinity_**, and **_water_**, can be critical to the outcome of restoration.
 - The altered hydrological environment can influence **_plant rooting depth_**, **_root/shoot allocation_**, and the reliance on **_mycorrhizal symbioses (菌根共生)_**.
 - Restoration exposes plants to a wide range of **_physiological stressors (生理应激源)_**, and outcomes will depend on the ability of species to tolerate altered environments.
-
 
 #### Ecological Theory and Restoration Ecology
 
@@ -71,20 +70,20 @@ Science-based restorations follow:
 
 Broad areas of ecological theory that are foundational to the science of restoration ecology:
 
-1. Ecological Theory and the Restoration of Populations and Communities
+1. Ecological Theory and the Restoration of Populations and Communities (Page 24)
    - Population and ecological genetics
    - Ecophysiological and functional ecology
    - Demography (人口统计学), population dynamics, metapopulation ecology
    - Community ecology
    - Evolutionary ecology
    - Fine-scale heterogeneity (异质性)
-2. Restoring Ecological Function
+2. Restoring Ecological Function (Page 154)
    - Food webs
    - Ecological dynamics and trajectories
    - Biodiversity and ecosystem functioning
    - Modeling and simulations
    - Invasive species and community invasibility (社区入侵)
-3. Restoration Ecology in Context
+3. Restoration Ecology in Context (Page 270)
    - Research design and statistical analysis
    - Macroecology (宏观生态学)
    - Paleoecology (古生态学), climate change
