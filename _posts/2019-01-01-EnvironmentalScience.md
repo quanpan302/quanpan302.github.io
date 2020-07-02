@@ -107,27 +107,27 @@ Broad areas of ecological theory that are foundational to the science of restora
 
 ## Links
 
+### Official
+
 - UN
   - **UNEP**, [United Nations Environment Programme](https://www.unenvironment.org/)
   - **UNEP GRID-Geneva**, [ited Nations Environment Programme, Global Resource Information Database at Geneva](https://unepgrid.ch/en)
   - **UNSD**, [United Nations Environmental Indicators](https://unstats.un.org/unsd/envstats/qindicators.cshtml)
-
-- USA
-  - **EPA**, [United States, Environmental Protection Agency](https://www.epa.gov/)
-  - **USGS**, [United States, Geological Survey](https://www.usgs.gov/)
-  - **ORNL**, [Ridge National Laboratory, Distributed Active Archive Center](https://daac.ornl.gov/)
 - Europ
   - **DGE**, [European Commission Environment Directorate General](https://ec.europa.eu/environment/index_en.htm)
   - **Interreg**, [Interreg CENTRAL EUROPE](https://www.interreg-central.eu/Content.Node/Environment.html)
   - **CEDAR**, [Central European Environmental Data Request Facility](http://www.cedar.at/sitemap.htm)
-- Country
-  - Australia
-    - [Department of Agriculture, Water and the Environment](https://www.environment.gov.au/)
-    - [Survey, spatial data and maps](https://www.planning.act.gov.au/tools-resources/survey-spatial-data-maps)
-  - China
-    - [Ministry of Ecology and Environment](http://english.mee.gov.cn/)
-  - UK
-    - [Department for Environment Food & Rural Affairs](https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs)
+- USA
+  - **EPA**, [United States, Environmental Protection Agency](https://www.epa.gov/)
+  - **USGS**, [United States, Geological Survey](https://www.usgs.gov/)
+  - **ORNL**, [Ridge National Laboratory, Distributed Active Archive Center](https://daac.ornl.gov/)
+- Australia
+  - [Department of Agriculture, Water and the Environment](https://www.environment.gov.au/)
+  - [Survey, spatial data and maps](https://www.planning.act.gov.au/tools-resources/survey-spatial-data-maps)
+- China
+  - [Ministry of Ecology and Environment](http://english.mee.gov.cn/)
+- UK
+  - [Department for Environment Food & Rural Affairs](https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs)
 
 ### Website
 
@@ -140,13 +140,15 @@ Broad areas of ecological theory that are foundational to the science of restora
 - [BirdRadar](https://www.esciencecenter.nl/projects/birdradar/), eScience Center, Netherlands
 - [eEcology](https://www.esciencecenter.nl/projects/eecology/), eScience Center, Netherlands
 
-## Data and Model
+## Products
 
 - [ECOBAS](http://ecobas.org/)
   - [Modelling and Simulation Links](http://ecobas.org/www-server/mod-info/all.html)
   - [List of Textbooks on Ecological Modelling](http://ecobas.org/www-server/mod-info/show.php?%20%20%20%20%20%20%20%20%20%20%20URL=http://homepage.ruhr-uni-bochum.de/Michael.Knorrenschild/embooks.html&%20%20%20%20%20%20%20%20%20%20%20DT=List%20of%20ecological%20modelling%20books)
 
-### GEDI, [NASA, Global Ecosystem Dynamics Investigation](https://gedi.umd.edu/)
+### Data
+
+#### GEDI, [NASA, Global Ecosystem Dynamics Investigation](https://gedi.umd.edu/)
 
 | Algorithm Theoretical Basis Documents (ATBDs) | ATBD name | Data products | Resolution | Version | Date |
 | --------------------------------------------- | --------- | ------------- | ---------- | ------- | ---- |
@@ -156,3 +158,5 @@ L2B | Footprint Canopy Cover and Vertical Profile Metrics | Canopy Cover Fractio
 L3 | Gridded Land Surface Metrics | Gridded Level 2 metrics | 1 km (~0.6 mi) grid | 1.0 | TBD |
 L4A | Footprint Above Ground Biomass Density  | Footprint level above ground biomass | 25 m (~82 ft) diameter | 1.0 | TBD |
 L4B | Gridded Biomass Product | Gridded Above Ground Biomass Density (AGBD) | 1 km (~0.6 mi) grid | 1.0 | TBD |
+
+### Model
