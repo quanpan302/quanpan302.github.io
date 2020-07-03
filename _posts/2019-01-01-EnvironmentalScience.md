@@ -92,7 +92,7 @@ Broad areas of ecological theory that are foundational to the science of restora
    - Community ecology
    - Evolutionary ecology
    - Fine-scale heterogeneity (异质性)
-2. Restoring Ecological Function (Page 154)
+2. Restoring Ecological Function (Page 152)
    - Food webs
    - Ecological dynamics and trajectories
    - Biodiversity and ecosystem functioning
