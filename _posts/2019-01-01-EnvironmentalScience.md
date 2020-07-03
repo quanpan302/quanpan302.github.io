@@ -39,7 +39,7 @@ There are two major types of ecological models, which are generally applied to d
 
 [Modelling and Simulation Links](http://ecobas.org/www-server/mod-info/all.html)
 
-
+### [Species distribution modelling](https://en.wikipedia.org/wiki/Species_distribution_modelling)
 
 ## [Environmental Restoration](https://en.wikipedia.org/wiki/Environmental_restoration)
 
@@ -171,6 +171,12 @@ L4B | Gridded Biomass Product | Gridded Above Ground Biomass Density (AGBD) | 1 
 
 #### ORNL, [Ridge National Laboratory, Distributed Active Archive Center](https://daac.ornl.gov/)
 
+#### GBIF, [Global Biodiversity Information Facility ](https://www.gbif.org/)
 
+#### OBIS, [Ocean Biodiversity Information System](https://obis.org/)
+
+#### GENESYS, [Plant Genetic Resources for Food and Agriculture (PGRFA)](https://www.genesys-pgr.org/)
+
+#### BCCVL, [Biodiversity and Climate Change Virtual Laboratory](http://bccvl.org.au/)
 
 ### Model
