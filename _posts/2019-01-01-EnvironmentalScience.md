@@ -118,7 +118,9 @@ Ecological Entities range from genomes, individual organisms, populations, commu
 
 ## Models
 
-### [IMAGE3.0, PBL, NL](https://models.pbl.nl/image/index.php/Welcome_to_IMAGE_3.0_Documentation), [Documentation](/assets/images/posts/2019-01-01-EnvironmentalScience/PBL_IMAGE3.0-integrated_assessment_of_global_environmental_change.pdf)
+### Integrated assessment model
+
+#### [IMAGE3.0](https://models.pbl.nl/image/index.php/Welcome_to_IMAGE_3.0_Documentation), PBL, NL, [Documentation](/assets/images/posts/2019-01-01-EnvironmentalScience/PBL_IMAGE3.0-integrated_assessment_of_global_environmental_change.pdf)
 
 ![](/assets/images/posts/2019-01-01-EnvironmentalScience/PBL_IMAGE3.0-Framework.png)
 
