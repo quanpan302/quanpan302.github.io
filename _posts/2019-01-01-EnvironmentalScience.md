@@ -169,14 +169,65 @@ L3 | Gridded Land Surface Metrics | Gridded Level 2 metrics | 1 km (~0.6 mi) gri
 L4A | Footprint Above Ground Biomass Density  | Footprint level above ground biomass | 25 m (~82 ft) diameter | 1.0 | TBD |
 L4B | Gridded Biomass Product | Gridded Above Ground Biomass Density (AGBD) | 1 km (~0.6 mi) grid | 1.0 | TBD |
 
-#### ORNL, [Ridge National Laboratory, Distributed Active Archive Center](https://daac.ornl.gov/)
+- ORNL, [Ridge National Laboratory, Distributed Active Archive Center](https://daac.ornl.gov/)
+- GBIF, [Global Biodiversity Information Facility ](https://www.gbif.org/)
+- OBIS, [Ocean Biodiversity Information System](https://obis.org/)
+- GENESYS, [Plant Genetic Resources for Food and Agriculture (PGRFA)](https://www.genesys-pgr.org/)
+- BCCVL, [Biodiversity and Climate Change Virtual Laboratory](http://bccvl.org.au/)
 
-#### GBIF, [Global Biodiversity Information Facility ](https://www.gbif.org/)
+Database:
 
-#### OBIS, [Ocean Biodiversity Information System](https://obis.org/)
-
-#### GENESYS, [Plant Genetic Resources for Food and Agriculture (PGRFA)](https://www.genesys-pgr.org/)
-
-#### BCCVL, [Biodiversity and Climate Change Virtual Laboratory](http://bccvl.org.au/)
+- AR4 (IPCC) database               (Subject:: climate, socio-economic and environmental data)
+- CRU database                      (Subject:: climate)
+- EDGAR database                    (Subject:: The Emissions Database for Global Atmospheric Research)
+- EU-watch database                 (Subject:: Climate)
+- Enerdata Global Energy & CO2 Data (Subject:: Enerdata Global Energy & CO2 Data)
+- FAOSTAT database                  (Subject:: agriculture, food)
+- GAINS database                    (Subject:: Air pollutants and greenhouse gases)
+- GLOBE Digital Elevation Model
+- GLWD database
+- GTAP database                     (Subject:: Economic data)
+- GlobCover database
+- HWSD database                     (Subject:: Soil properties)
+- HYDE database                     (Subject:: History Database of the Global Environment)
+- HydroSHEDS database               (Subject:: Elevation)
+- IEA database                      (Subject:: energy)
+- IIASA database                    (Subject:: Land-use)
+- IUCN dataset                      (Subject:: Fishery)
+- Lake-Depth Data Set
+- S-World database
+- WDPA database                     (Subject:: Protected areas)
+- WEC-Uranium                       (Subject:: World Energy Council - Uranium resource data)
+- WHO database                      (Subject:: health)
+- WISE database                     (Subject:: soil)
+- Wildfinder database               (Subject:: Distribution of species)
+- World Bank database                (Subject:: Human Development)
+- WorldClim database
 
 ### Model
+
+- AD RICE model                     (Subject:: Damage and adaptaptation costs)
+- CLUMondo model                    (Subject:: agriculture)
+- DICE model                        (Subject:: climate change)
+- DIVA model                        (Subject:: Consequences of sea-level rise and socio-economic development)
+- EFIGTM model                      (Subject:: Forestry)
+- ENV-Growth model                  (Subject:: Economy)
+- ENV-Linkages model                (Subject:: economics and environment)
+- FAIR model                        (Subject:: Policy response)
+- FUND model                        (Subject:: climate change)
+- GCAM model                        (Subject:: climate change)
+- GISMO model                       (Subject:: Impacts on human development)
+- GLOBIO model                      (Subject:: Impacts on biodiversity)
+- GLOFRIS model                     (Subject:: Flood risk assessment)
+- GRIP model                        (Subject:: Roads)
+- GUAM model                        (Subject:: health)
+- IMAGE land management model       (Subject:: Land management)
+- IMPACT model                      (Subject:: Agricultural economy)
+- LPJmL model                       (Subject:: Carbon, vegetation, agriculture and water)
+- Global Urban Air quality Model    (Subject:: Global Urban Air quality)
+- MAGICC model                      (Subject:: climate)
+- MAGNET model                      (Subject:: Agricultural economy)
+- PCR-GLOBWB model                  (Subject:: Water balance)
+- POLES model                       (Subject:: energy)
+- RICE model                        (Subject:: Damage costs)
+- TIMER model                       (Subject:: Energy supply and demand)
