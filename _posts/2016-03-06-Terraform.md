@@ -5,7 +5,7 @@ categories:
 tags:
   - Cloud
   - Infrastructure as Code
-last_modified_at: 2013-01-05T12:00:00-15:00
+last_modified_at: 2016-03-06T12:00:00-15:00
 ---
 
 **[Terraform](https://www.terraform.io/)** ([Github](https://github.com/hashicorp/terraform)) is a tool for building, changing, and versioning infrastructure safely and efficiently. Terraform can manage existing and popular service providers as well as custom in-house solutions.
