@@ -9,6 +9,11 @@ last_modified_at: 2016-02-01T12:00:00-01:00
 
 **[Microservice](https://en.wikipedia.org/wiki/Microservices)** is a variant of the **service-oriented architecture (SOA)** structural style – arranges an application as a collection of loosely coupled services. In a microservices architecture, services are fine-grained and the protocols are lightweight.
 
+- [Enterprise application integration](#enterprise-application-integration)
+- [Framework](#framework)
+- [Architecture](#architecture)
+- [Middleware](#middleware)
+
 ## [Enterprise application integration](https://en.wikipedia.org/wiki/Enterprise_application_integration)
 
 [Category](https://en.wikipedia.org/wiki/Category:Enterprise_application_integration)
@@ -24,9 +29,13 @@ Currently, there are many variations of thought on what constitutes the best inf
 - A connector, or agent model where each vendor, application, or interface can build a single component that can speak natively to that application and communicate with the centralized broker.
 - A system model that defines the APIs, data flow and rules of engagement to the system such that components can be built to interface with it in a standardized way.
 
+## Framework
+
 ### [Enterprise architecture framework](https://en.wikipedia.org/wiki/Enterprise_architecture_framework)
 
 **Enterprise architecture framework (EA framework)** defines how to create and use an enterprise architecture. An architecture framework provides principles and practices for creating and using the architecture description of a system. It structures architects' thinking by dividing the architecture description into domains, layers, or views, and offers models - typically matrices and diagrams - for documenting each view. This allows for making systemic design decisions on all the components of the system and making long-term decisions around new design requirements, sustainability, and support.
+
+## Architecture
 
 ### [Event-driven architecture](https://en.wikipedia.org/wiki/Event-driven_architecture)
 
@@ -47,6 +56,8 @@ Currently, there are many variations of thought on what constitutes the best inf
 ### [Web-oriented architecture](https://en.wikipedia.org/wiki/Web-oriented_architecture)
 
 **Web-oriented architecture (WOA)** was coined in 2006 by Nick Gall of the Gartner's group. It is a software architecture style that extends service-oriented architecture (SOA) to web-based applications. WOA was originally created by many web applications and sites, such as social websites and personal websites.
+
+## Middleware
 
 ### [Message-oriented middleware](https://en.wikipedia.org/wiki/Message-oriented_middleware)
 
