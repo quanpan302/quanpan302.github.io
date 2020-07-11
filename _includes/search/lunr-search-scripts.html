@@ -36,11 +36,23 @@
       {%- assign lang = "en" -%}
   {%- endcase -%}
   <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+
+  {% comment %}
+  Original can't be loaded
   <script src="{{ '/assets/javascripts/lunr/lunr.min.js' | absolute_url }}"></script>
   <script src="{{ '/assets/javascripts/lunr/lunr.store.js' | absolute_url }}"></script>
+  {% endcomment %}
+  <script src="{{ '/assets/javascripts/lunr/lunr.min.js' | relative_url }}"></script>
+  <script src="{{ '/assets/javascripts/lunr/lunr.store.js' | relative_url }}"></script>
+
   {%- unless lang == "en" -%}
+    {% comment %}
+    Original can't be loaded
     <script src="{{ '/assets/javascripts/lunr/lunr.stemmer.support.min.js' | absolute_url }}"></script>
     <script src="{{ '/assets/javascripts/lunr/lunr.' | append: lang | append: '.min.js' | absolute_url }}"></script>
+    {% endcomment %}
+  <script src="{{ '/assets/javascripts/lunr/lunr.stemmer.support.min.js' | relative_url }}"></script>
+  <script src="{{ '/assets/javascripts/lunr/lunr.' | append: lang | append: '.min.js' | relative_url }}"></script>
   {%- endunless %}
   <script>
     var idx = lunr(function () {
