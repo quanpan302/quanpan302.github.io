@@ -13,7 +13,7 @@ last_modified_at: 2016-02-03T12:00:00-01:00
 - [Web UI (Dashboard)](#web-ui-dashboard)
 - [Examples](#examples)
 
-## [Components]()https://kubernetes.io/docs/concepts/overview/components/
+## [Components](https://kubernetes.io/docs/concepts/overview/components/)
 
 ## [Web UI (Dashboard)](https://kubernetes.io/docs/tasks/access-application-cluster/web-ui-dashboard/)
 
