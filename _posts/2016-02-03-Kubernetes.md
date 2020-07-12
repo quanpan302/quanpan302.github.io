@@ -16,6 +16,22 @@ last_modified_at: 2016-02-03T12:00:00-01:00
 
 ## [Components](https://kubernetes.io/docs/concepts/overview/components/)
 
+- Control Plane Components
+  - kube-apiserver
+  - etcd
+  - kube-scheduler
+  - kube-controller-manager
+  - cloud-controller-manager
+- Node Components
+  - kubelet
+  - kube-proxy
+  - Container runtime
+- Addons
+  - DNS
+  - Web UI (Dashboard)
+  - Container Resource Monitoring
+  - Cluster-level Logging
+
 ![](/assets/images/posts/2016-02-03-Kubernetes/components.png)
 
 ## [Web UI (Dashboard)](https://kubernetes.io/docs/tasks/access-application-cluster/web-ui-dashboard/)
