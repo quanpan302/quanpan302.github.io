@@ -34,4 +34,4 @@ Post types:
   - [pypandoc](https://pypi.org/project/pypandoc/)
   - [MiKTeX](https://miktex.org/)
   - [MacTeX](http://www.tug.org/mactex/)
-  
+- [Kubernetes](https://kubernetes.io/docs/reference/kubectl/cheatsheet/)
