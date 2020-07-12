@@ -16,6 +16,8 @@ last_modified_at: 2016-02-03T12:00:00-01:00
 
 ## [Components](https://kubernetes.io/docs/concepts/overview/components/)
 
+![](/assets/images/posts/2016-02-03-Kubernetes/components.png)
+
 ## [Web UI (Dashboard)](https://kubernetes.io/docs/tasks/access-application-cluster/web-ui-dashboard/)
 
 ### Deploying the Dashboard UI 
@@ -25,16 +27,6 @@ last_modified_at: 2016-02-03T12:00:00-01:00
 ```bash
 kubectl apply -f https://raw.githubusercontent.com/kubernetes/dashboard/v2.0.0/aio/deploy/recommended.yaml
 ```
-
-#### Run locally
-
-```bash
-kubectl proxy
-```
-
-#### Visit
-
-[127.0.0.1:8001](http://localhost:8001/api/v1/namespaces/kubernetes-dashboard/services/https:kubernetes-dashboard:/proxy/)
 
 #### [Login](https://github.com/kubernetes/dashboard/blob/master/docs/user/access-control/creating-sample-user.md)
 
@@ -79,6 +71,16 @@ kubectl -n kubernetes-dashboard describe secret $(kubectl -n kubernetes-dashboar
 kubectl create -f dashboard-admin.yaml
 ```
 
+#### Run locally
+
+```bash
+kubectl proxy
+```
+
+#### Visit
+
+[127.0.0.1:8001](http://localhost:8001/api/v1/namespaces/kubernetes-dashboard/services/https:kubernetes-dashboard:/proxy/)
+
 ### Delete the Dashboard UI
 
 #### Check
@@ -103,6 +105,4 @@ kubectl delete deployment kubernetes-dashboard --namespace=kube-system
 
 ```bash
 ls -al $HOME/.kube
-
-
 ```
