@@ -9,12 +9,16 @@ last_modified_at: 2016-02-03T12:00:00-01:00
 
 **[Kubernetes](https://kubernetes.io)** ([Github](https://github.com/kubernetes/kubernetes), [Docs](https://kubernetes.io/docs/concepts/overview/components/)) is a portable, extensible, open-source platform for managing containerized workloads and services, that facilitates both declarative configuration and automation. It has a large, rapidly growing ecosystem. Kubernetes services, support, and tools are widely available.
 
-- [Components](#components)
-- [Web UI (Dashboard)](#web-ui-dashboard)
+- [Concepts](#concepts)
+  - [Components](#components)
+  - [Cluster Architecture](#cluster-architecture)
 - [Reference](#reference)
 - [Examples](#examples)
+  - [Web UI (Dashboard)](#web-ui-dashboard)
 
-## [Components](https://kubernetes.io/docs/concepts/overview/components/)
+## [Concepts](https://kubernetes.io/docs/concepts/)
+
+### [Components](https://kubernetes.io/docs/concepts/overview/components/)
 
 - Control Plane Components
   - kube-apiserver
@@ -34,17 +38,23 @@ last_modified_at: 2016-02-03T12:00:00-01:00
 
 ![](/assets/images/posts/2016-02-03-Kubernetes/components.png)
 
-## [Web UI (Dashboard)](https://kubernetes.io/docs/tasks/access-application-cluster/web-ui-dashboard/)
+### [Cluster Architecture](https://kubernetes.io/docs/concepts/architecture/)
 
-### Deploying the Dashboard UI 
+## [Reference](https://jamesdefabia.github.io/docs/reference/)
 
-#### Download
+## Examples
+
+### [Web UI (Dashboard)](https://kubernetes.io/docs/tasks/access-application-cluster/web-ui-dashboard/)
+
+#### Deploying the Dashboard UI 
+
+##### Download
 
 ```bash
 kubectl apply -f https://raw.githubusercontent.com/kubernetes/dashboard/v2.0.0/aio/deploy/recommended.yaml
 ```
 
-#### [Login](https://github.com/kubernetes/dashboard/blob/master/docs/user/access-control/creating-sample-user.md)
+##### [Login](https://github.com/kubernetes/dashboard/blob/master/docs/user/access-control/creating-sample-user.md)
 
 For each of the following snippets for **ServiceAccount** and **ClusterRoleBinding**, you should copy them to new manifest files like `dashboard-admin.yaml` and use `kubectl apply -f dashboard-admin.yaml` to create them.
 
@@ -87,38 +97,28 @@ kubectl -n kubernetes-dashboard describe secret $(kubectl -n kubernetes-dashboar
 kubectl create -f dashboard-admin.yaml
 ```
 
-#### Run locally
+##### Run locally
 
 ```bash
 kubectl proxy
 ```
 
-#### Visit
+##### Visit
 
 [127.0.0.1:8001](http://localhost:8001/api/v1/namespaces/kubernetes-dashboard/services/https:kubernetes-dashboard:/proxy/)
 
-### Delete the Dashboard UI
+#### Delete the Dashboard UI
 
-#### Check
+##### Check
 
 ```bash
 kubectl get secret,sa,role,rolebinding,services,deployments --namespace=kube-system | grep dashboard
 ```
 
-#### Delete
+##### Delete
 
 ```bash
 kubectl delete -f https://raw.githubusercontent.com/kubernetes/dashboard/master/aio/deploy/recommended.yaml
 
 kubectl delete deployment kubernetes-dashboard --namespace=kube-system
-```
-
-## [Reference](https://jamesdefabia.github.io/docs/reference/)
-
-## Examples
-
-[Creating a kubeconfig file for a self-hosted Kubernetes cluster](http://docs.shippable.com/deploy/tutorial/create-kubeconfig-for-self-hosted-kubernetes-cluster/)
-
-```bash
-ls -al $HOME/.kube
 ```
