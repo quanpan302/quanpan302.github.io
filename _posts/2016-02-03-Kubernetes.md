@@ -12,7 +12,9 @@ last_modified_at: 2016-02-03T12:00:00-01:00
 - [Concepts](#concepts)
   - [Components](#components)
   - [Cluster Architecture](#cluster-architecture)
+- [Tasks](#tasks)
 - [Reference](#reference)
+  - [Standardized Glossary](#standardized-glossary)
 - [Examples](#examples)
   - [Web UI (Dashboard)](#web-ui-dashboard)
 
@@ -40,7 +42,11 @@ last_modified_at: 2016-02-03T12:00:00-01:00
 
 ### [Cluster Architecture](https://kubernetes.io/docs/concepts/architecture/)
 
-## [Reference](https://jamesdefabia.github.io/docs/reference/)
+## [Tasks](https://kubernetes.io/docs/tasks/)
+
+## [Reference](https://kubernetes.io/docs/reference/)
+
+### [Standardized Glossary](https://kubernetes.io/docs/reference/glossary/)
 
 ## Examples
 
