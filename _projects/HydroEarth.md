@@ -20,8 +20,8 @@ Google Cloud environement.
 
 ## Achievement
 
-- [website](https://hydro-earth.netlify.app/#/){:target="_blank"}
-- [Github](https://github.com/openearth/hydro-earth){:target="_blank"}
+- website [![](/assets/images/icon/external-link.svg)](https://hydro-earth.netlify.app/#/){:target="_blank"}
+- Github [![](/assets/images/icon/external-link.svg)](https://github.com/openearth/hydro-earth){:target="_blank"}
 
 ### Architecture update
 
