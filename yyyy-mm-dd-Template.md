@@ -36,7 +36,7 @@ Post types:
 
 ![](/assets/images/icon/external-link.svg)
 
-[Interoperability and FAIRness through a novel combination of Web technologies.pdf](/assets/images/posts/2018-12-01-FAIR/Interoperability%20and%20FAIRness%20through%20a%20novel%20combination%20of%20Web%20technologies.pdf)
+[external link.svg](/assets/images/icon/external%20link.svg){:target="_blank"}
 
 km<sup>2</sup> 
 km<sub>2</sub> 
