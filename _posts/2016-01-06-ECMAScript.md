@@ -8,16 +8,16 @@ tags:
 last_modified_at: 2016-01-06T12:00:00-01:00
 ---
 
-**[ECMAScript](https://en.wikipedia.org/wiki/ECMAScript)** is a general-purpose programming language, standardized by [Ecma International](http://www.ecma-international.org/) according to the document [ECMA-262](https://www.ecma-international.org/publications/standards/Ecma-262.htm). It was inspired by JavaScript and JScript and was created to help foster multiple independent implementations. ECMAScript is commonly used for client-side scripting on the World Wide Web, and it is increasingly being used for writing server applications and services using Node.js.
+**[ECMAScript](https://en.wikipedia.org/wiki/ECMAScript){:target="_blank"}** is a general-purpose programming language, standardized by [Ecma International](http://www.ecma-international.org/){:target="_blank"} according to the document [ECMA-262](https://www.ecma-international.org/publications/standards/Ecma-262.htm){:target="_blank"}. It was inspired by JavaScript and JScript and was created to help foster multiple independent implementations. ECMAScript is commonly used for client-side scripting on the World Wide Web, and it is increasingly being used for writing server applications and services using Node.js.
 
-[ECMA-262.pdf](https://www.ecma-international.org/publications/standards/Ecma-262.htm), [Github-ecma262](https://github.com/tc39/ecma262), [Github-test262](https://github.com/tc39/test262)
+[ECMA-262.pdf](https://www.ecma-international.org/publications/standards/Ecma-262.htm){:target="_blank"}, [Github-ecma262](https://github.com/tc39/ecma262){:target="_blank"}, [Github-test262](https://github.com/tc39/test262){:target="_blank"}
 
-- [2015](/assets/images/posts/2016-01-06-ECMAScript/ECMAScript2015-ECMA-262.pdf), [Github](https://github.com/lukehoban/es6features#readme)
-- [2016](/assets/images/posts/2016-01-06-ECMAScript/ECMAScript2016-ECMA-262.pdf)
-- [2017](/assets/images/posts/2016-01-06-ECMAScript/ECMAScript2017-ECMA-262.pdf)
-- [2018](/assets/images/posts/2016-01-06-ECMAScript/ECMAScript2018-ECMA-262.pdf)
-- [2019](/assets/images/posts/2016-01-06-ECMAScript/ECMAScript2019-ECMA-262.pdf)
-- [2020](/assets/images/posts/2016-01-06-ECMAScript/ECMAScript2020-ECMA-262.pdf)
+- [2015](/assets/images/posts/2016-01-06-ECMAScript/ECMAScript2015-ECMA-262.pdf){:target="_blank"}, [Github](https://github.com/lukehoban/es6features#readme){:target="_blank"}
+- [2016](/assets/images/posts/2016-01-06-ECMAScript/ECMAScript2016-ECMA-262.pdf){:target="_blank"}
+- [2017](/assets/images/posts/2016-01-06-ECMAScript/ECMAScript2017-ECMA-262.pdf){:target="_blank"}
+- [2018](/assets/images/posts/2016-01-06-ECMAScript/ECMAScript2018-ECMA-262.pdf){:target="_blank"}
+- [2019](/assets/images/posts/2016-01-06-ECMAScript/ECMAScript2019-ECMA-262.pdf){:target="_blank"}
+- [2020](/assets/images/posts/2016-01-06-ECMAScript/ECMAScript2020-ECMA-262.pdf){:target="_blank"}
 
 ECMAScript version history
 
@@ -38,7 +38,7 @@ ECMAScript version history
 
 ## [List of ECMAScript engines](https://en.wikipedia.org/wiki/List_of_ECMAScript_engines)
 
-These are new generation ECMAScript engines for web browsers, all implementing [just-in-time compilation (**JIT**)](https://en.wikipedia.org/wiki/Just-in-time_compilation) or variations of that idea. The performance benefits for just-in-time compilation make it much more suitable for web applications written in JavaScript. 
+These are new generation ECMAScript engines for web browsers, all implementing [just-in-time compilation (**JIT**)](https://en.wikipedia.org/wiki/Just-in-time_compilation){:target="_blank"} or variations of that idea. The performance benefits for just-in-time compilation make it much more suitable for web applications written in JavaScript. 
 
 - Carakan: A JavaScript engine developed by Opera Software ASA, included in the 10.50 release of the Opera web browser, until switching to V8 with Opera 15 (released in 2013).
 - Chakra (JScript9): A JScript engine used in Internet Explorer. It was first previewed at MIX 10 as part of the Internet Explorer 9 Platform Preview.

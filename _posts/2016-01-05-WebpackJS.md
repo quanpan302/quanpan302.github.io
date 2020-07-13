@@ -8,27 +8,27 @@ tags:
 last_modified_at: 2016-01-05T12:00:00-01:00
 ---
 
-**[Webpack.js](https://webpack.js.org/)** is a static module bundler for modern JavaScript applications. When webpack processes your application, it internally builds a dependency graph which maps every module your project needs and generates one or more bundles.
+**[Webpack.js](https://webpack.js.org/){:target="_blank"}** is a static module bundler for modern JavaScript applications. When webpack processes your application, it internally builds a dependency graph which maps every module your project needs and generates one or more bundles.
 
 ## Core Concepts
 
-### [Entry](https://webpack.js.org/concepts/entry-points/)
+### [Entry](https://webpack.js.org/concepts/entry-points/){:target="_blank"}
 
-### [Output](https://webpack.js.org/concepts/output/)
+### [Output](https://webpack.js.org/concepts/output/){:target="_blank"}
 
-### [Loaders](https://webpack.js.org/concepts/loaders/)
+### [Loaders](https://webpack.js.org/concepts/loaders/){:target="_blank"}
 
-### [Plugins](https://webpack.js.org/concepts/plugins/)
+### [Plugins](https://webpack.js.org/concepts/plugins/){:target="_blank"}
 
-### [Mode](https://webpack.js.org/concepts/#mode)
+### [Mode](https://webpack.js.org/concepts/#mode){:target="_blank"}
 
-### [Browser Compatibility](https://webpack.js.org/concepts/#browser-compatibility)
+### [Browser Compatibility](https://webpack.js.org/concepts/#browser-compatibility){:target="_blank"}
 
 ### Environment, webpack runs on Node.js version 8.x and higher.
 
-## [Modules](https://webpack.js.org/concepts/modules/)
+## [Modules](https://webpack.js.org/concepts/modules/){:target="_blank"}
 
-## [Manifest](https://webpack.js.org/concepts/manifest/)
+## [Manifest](https://webpack.js.org/concepts/manifest/){:target="_blank"}
 
 In a typical application or site built with webpack, there are three main types of code:
 
