@@ -20,6 +20,8 @@ last_modified_at: 2016-02-03T12:00:00-01:00
   - [Storage](#storage)
   - [Policies](#policies)
   - [Scheduling and Eviction](#scheduling-and-eviction)
+  - [Cluster Administration](#cluster-administration)
+  - [Extending Kubernetes](#extending-kubernetes)
 - [Tasks](#tasks)
 - [Reference](#reference)
   - [Standardized Glossary](#standardized-glossary)
@@ -65,6 +67,10 @@ last_modified_at: 2016-02-03T12:00:00-01:00
 ### [Policies](https://kubernetes.io/docs/concepts/policy/)
 
 ### [Scheduling and Eviction](https://kubernetes.io/docs/concepts/scheduling-eviction/)
+
+### [Cluster Administration](https://kubernetes.io/docs/concepts/cluster-administration/)
+
+### [Extending Kubernetes](https://kubernetes.io/docs/concepts/extend-kubernetes/)
 
 ## [Tasks](https://kubernetes.io/docs/tasks/)
 
