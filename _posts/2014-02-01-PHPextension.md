@@ -11,12 +11,16 @@ last_modified_at: 2014-02-01T12:00:00-10:00
 
 PHP ships with the extensions most useful to the majority of developers. They are called "core" extensions. PHP extensions are usually called `php_*.dll` (where the star represents the name of the extension) and they are located under the `PHP\ext` folder.
 
-- [PHP at the Core: A Hacker's Guide](https://www.php.net/manual/en/internals2.php)
-- [Zend API: Hacking the Core of PHP](https://www.php.net/manual/en/internals2.ze1.zendapi.php)
+- [What Is Zend? and What Is PHP?](#what-is-zend-and-what-is-php)
+- [External Modules vs Built-in Modules](#external-modules-vs-built-in-modules)
+- [Creating Extensions](#creating-extensions)
 
 Extending PHP" is easier said than done. PHP has evolved to a full-fledged tool consisting of a few megabytes of source code, and to hack a system like this quite a few things have to be learned and considered.
 
 This is not the most scientific and professional approach, but the method that's the most fun and gives the best end results. In the following sections, you'll learn quickly how to get the most basic extensions to work almost instantly. After that, you'll learn about Zend's advanced API functionality. 
+
+- [PHP at the Core: A Hacker's Guide](https://www.php.net/manual/en/internals2.php){:target="_blank"}
+- [Zend API: Hacking the Core of PHP](https://www.php.net/manual/en/internals2.ze1.zendapi.php){:target="_blank"}
 
 ## What Is Zend? and What Is PHP?
 
