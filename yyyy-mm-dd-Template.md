@@ -36,7 +36,7 @@ image, space %20
 ![](/assets/images/posts/)
 
 external link
-{% include icon-external-link.html href="http://www.quanpan302.com/" %}
+{% include icon-external-link.html href="http://www.quanpan302.com" %}
 or
 ![](){:target="_blank"}
 
