@@ -9,20 +9,20 @@ tags:
 last_modified_at: 2014-03-01T12:00:00-15:00
 ---
 
-[GeoServer](http://geoserver.org/) is an open source software server written in Java that allows users to share and edit geospatial data. Designed for interoperability, it publishes data from any major spatial data source using open standards.
+[GeoServer](http://geoserver.org/){:target="_blank"} is an open source software server written in Java that allows users to share and edit geospatial data. Designed for interoperability, it publishes data from any major spatial data source using open standards.
 
-GeoServer implements industry standard [Open Geospatial Consortium](https://www.ogc.org/standards) (OGC) protocols such as
+GeoServer implements industry standard [Open Geospatial Consortium](https://www.ogc.org/standards){:target="_blank"} (OGC) protocols such as
 
-- [Web Feature Service](https://www.ogc.org/standards/wfs) (WFS)
-- [Web Map Service](https://www.ogc.org/standards/wms) (WMS)
-- [Web Coverage Service](https://www.ogc.org/standards/wcs) (WCS).
-- [OGC Web Services](https://www.ogc.org/standards/owc) (OWS) services
+- [Web Feature Service](https://www.ogc.org/standards/wfs){:target="_blank"} (WFS)
+- [Web Map Service](https://www.ogc.org/standards/wms){:target="_blank"} (WMS)
+- [Web Coverage Service](https://www.ogc.org/standards/wcs){:target="_blank"} (WCS).
+- [OGC Web Services](https://www.ogc.org/standards/owc){:target="_blank"} (OWS) services
 
-Additional formats and publication options are available as extensions including [Web Processing Service](https://www.ogc.org/standards/wps) (WPS), and [Web Map Tile Service](https://www.ogc.org/standards/wmts) (WMTS).
+Additional formats and publication options are available as extensions including [Web Processing Service](https://www.ogc.org/standards/wps){:target="_blank"} (WPS), and [Web Map Tile Service](https://www.ogc.org/standards/wmts){:target="_blank"} (WMTS).
 
 ## Getting started
 
-[web administration interface](https://docs.geoserver.org/latest/en/user/gettingstarted/web-admin-quickstart/index.html)
+[web administration interface](https://docs.geoserver.org/latest/en/user/gettingstarted/web-admin-quickstart/index.html){:target="_blank"}
 
 GeoServer has a browser-based web administration interface application used to configure all aspects of GeoServer, from adding and publishing data to changing service settings.
 
@@ -45,88 +45,88 @@ GeoServer connects to and publishes data from a wide variety of sources. This se
 
 ### Data settings
 
-- [Workspaces](https://docs.geoserver.org/latest/en/user/data/webadmin/workspaces.html)
-- [Stores](https://docs.geoserver.org/latest/en/user/data/webadmin/stores.html)
-- [Layers](https://docs.geoserver.org/latest/en/user/data/webadmin/layers.html)
-- [Layer Groups](https://docs.geoserver.org/latest/en/user/data/webadmin/layergroups.html)
+- [Workspaces](https://docs.geoserver.org/latest/en/user/data/webadmin/workspaces.html){:target="_blank"}
+- [Stores](https://docs.geoserver.org/latest/en/user/data/webadmin/stores.html){:target="_blank"}
+- [Layers](https://docs.geoserver.org/latest/en/user/data/webadmin/layers.html){:target="_blank"}
+- [Layer Groups](https://docs.geoserver.org/latest/en/user/data/webadmin/layergroups.html){:target="_blank"}
 
 ### Vector data
 
-- [Shapefile](https://docs.geoserver.org/latest/en/user/data/vector/shapefile.html)
-- [Directory of spatial files](https://docs.geoserver.org/latest/en/user/data/vector/directory.html)
-- [Java Properties](https://docs.geoserver.org/latest/en/user/data/vector/properties.html)
-- [GeoPackage](https://docs.geoserver.org/latest/en/user/data/vector/geopkg.html)
-- [GML](https://docs.geoserver.org/latest/en/user/data/vector/gml.html)
-- [Pregeneralized Features](https://docs.geoserver.org/latest/en/user/data/vector/featurepregen.html)
+- [Shapefile](https://docs.geoserver.org/latest/en/user/data/vector/shapefile.html){:target="_blank"}
+- [Directory of spatial files](https://docs.geoserver.org/latest/en/user/data/vector/directory.html){:target="_blank"}
+- [Java Properties](https://docs.geoserver.org/latest/en/user/data/vector/properties.html){:target="_blank"}
+- [GeoPackage](https://docs.geoserver.org/latest/en/user/data/vector/geopkg.html){:target="_blank"}
+- [GML](https://docs.geoserver.org/latest/en/user/data/vector/gml.html){:target="_blank"}
+- [Pregeneralized Features](https://docs.geoserver.org/latest/en/user/data/vector/featurepregen.html){:target="_blank"}
 
 ### Raster data
 
-- [GeoTIFF](https://docs.geoserver.org/latest/en/user/data/raster/geotiff.html)
-- [GTOPO30](https://docs.geoserver.org/latest/en/user/data/raster/gtopo30.html)
-- [WorldImage](https://docs.geoserver.org/latest/en/user/data/raster/worldimage.html)
-- [ImageMosaic](https://docs.geoserver.org/latest/en/user/data/raster/imagemosaic/index.html)
-- [GeoPackage](https://docs.geoserver.org/latest/en/user/data/raster/geopkg.html)
-- [ArcGrid](https://docs.geoserver.org/latest/en/user/data/raster/arcgrid.html)
-- [GDAL Image Formats](https://docs.geoserver.org/latest/en/user/data/raster/gdal.html)
-- [Oracle Georaster](https://docs.geoserver.org/latest/en/user/data/raster/oraclegeoraster.html)
-- [Postgis Raster](https://docs.geoserver.org/latest/en/user/data/raster/postgisraster.html)
-- [ImagePyramid](https://docs.geoserver.org/latest/en/user/data/raster/imagepyramid.html)
-- [Image Mosaic JDBC](https://docs.geoserver.org/latest/en/user/data/raster/imagemosaicjdbc.html)
-- [Custom JDBC Access for image data](https://docs.geoserver.org/latest/en/user/data/raster/customjdbcaccess.html)
-- [Coverage Views](https://docs.geoserver.org/latest/en/user/data/raster/coverageview.html)
+- [GeoTIFF](https://docs.geoserver.org/latest/en/user/data/raster/geotiff.html){:target="_blank"}
+- [GTOPO30](https://docs.geoserver.org/latest/en/user/data/raster/gtopo30.html){:target="_blank"}
+- [WorldImage](https://docs.geoserver.org/latest/en/user/data/raster/worldimage.html){:target="_blank"}
+- [ImageMosaic](https://docs.geoserver.org/latest/en/user/data/raster/imagemosaic/index.html){:target="_blank"}
+- [GeoPackage](https://docs.geoserver.org/latest/en/user/data/raster/geopkg.html){:target="_blank"}
+- [ArcGrid](https://docs.geoserver.org/latest/en/user/data/raster/arcgrid.html){:target="_blank"}
+- [GDAL Image Formats](https://docs.geoserver.org/latest/en/user/data/raster/gdal.html){:target="_blank"}
+- [Oracle Georaster](https://docs.geoserver.org/latest/en/user/data/raster/oraclegeoraster.html){:target="_blank"}
+- [Postgis Raster](https://docs.geoserver.org/latest/en/user/data/raster/postgisraster.html){:target="_blank"}
+- [ImagePyramid](https://docs.geoserver.org/latest/en/user/data/raster/imagepyramid.html){:target="_blank"}
+- [Image Mosaic JDBC](https://docs.geoserver.org/latest/en/user/data/raster/imagemosaicjdbc.html){:target="_blank"}
+- [Custom JDBC Access for image data](https://docs.geoserver.org/latest/en/user/data/raster/customjdbcaccess.html){:target="_blank"}
+- [Coverage Views](https://docs.geoserver.org/latest/en/user/data/raster/coverageview.html){:target="_blank"}
 
 ### Databases
 
-- [PostGIS](https://docs.geoserver.org/latest/en/user/data/database/postgis.html)
-- [H2](https://docs.geoserver.org/latest/en/user/data/database/h2.html)
-- [B2](https://docs.geoserver.org/latest/en/user/data/database/db2.html)
-- [MySQL](https://docs.geoserver.org/latest/en/user/data/database/mysql.html)
-- [Oracle](https://docs.geoserver.org/latest/en/user/data/database/oracle.html)
-- [Microsoft SQL Server and SQL Azure](https://docs.geoserver.org/latest/en/user/data/database/sqlserver.html)
-- [Teradata](https://docs.geoserver.org/latest/en/user/data/database/teradata.html)
-- [Database Connection Pooling](https://docs.geoserver.org/latest/en/user/data/database/connection-pooling.html)
-- [JNDI](https://docs.geoserver.org/latest/en/user/data/database/jndi.html)
-- [SQL Views](https://docs.geoserver.org/latest/en/user/data/database/sqlview.html)
-- [Controlling feature ID generation in spatial databases](https://docs.geoserver.org/latest/en/user/data/database/primarykey.html)
-- [Custom SQL session start/stop scripts](https://docs.geoserver.org/latest/en/user/data/database/sqlsession.html)
+- [PostGIS](https://docs.geoserver.org/latest/en/user/data/database/postgis.html){:target="_blank"}
+- [H2](https://docs.geoserver.org/latest/en/user/data/database/h2.html){:target="_blank"}
+- [B2](https://docs.geoserver.org/latest/en/user/data/database/db2.html){:target="_blank"}
+- [MySQL](https://docs.geoserver.org/latest/en/user/data/database/mysql.html){:target="_blank"}
+- [Oracle](https://docs.geoserver.org/latest/en/user/data/database/oracle.html){:target="_blank"}
+- [Microsoft SQL Server and SQL Azure](https://docs.geoserver.org/latest/en/user/data/database/sqlserver.html){:target="_blank"}
+- [Teradata](https://docs.geoserver.org/latest/en/user/data/database/teradata.html){:target="_blank"}
+- [Database Connection Pooling](https://docs.geoserver.org/latest/en/user/data/database/connection-pooling.html){:target="_blank"}
+- [JNDI](https://docs.geoserver.org/latest/en/user/data/database/jndi.html){:target="_blank"}
+- [SQL Views](https://docs.geoserver.org/latest/en/user/data/database/sqlview.html){:target="_blank"}
+- [Controlling feature ID generation in spatial databases](https://docs.geoserver.org/latest/en/user/data/database/primarykey.html){:target="_blank"}
+- [Custom SQL session start/stop scripts](https://docs.geoserver.org/latest/en/user/data/database/sqlsession.html){:target="_blank"}
 
 ### Cascaded service data
 
-- [External Web Feature Server](https://docs.geoserver.org/latest/en/user/data/cascaded/wfs.html)
-- [Cascaded Web Feature Service Stored Queries](https://docs.geoserver.org/latest/en/user/data/cascaded/stored_query.html)
-- [External Web Map Server](https://docs.geoserver.org/latest/en/user/data/cascaded/wms.html)
-- [External Web Map Tile Server](https://docs.geoserver.org/latest/en/user/data/cascaded/wmts.html)
+- [External Web Feature Server](https://docs.geoserver.org/latest/en/user/data/cascaded/wfs.html){:target="_blank"}
+- [Cascaded Web Feature Service Stored Queries](https://docs.geoserver.org/latest/en/user/data/cascaded/stored_query.html){:target="_blank"}
+- [External Web Map Server](https://docs.geoserver.org/latest/en/user/data/cascaded/wms.html){:target="_blank"}
+- [External Web Map Tile Server](https://docs.geoserver.org/latest/en/user/data/cascaded/wmts.html){:target="_blank"}
 
 ### Application schemas
 
 GeoServer provides support for a broad selection of simple feature data stores, including property files, shapefiles, and JDBC data stores such as PostGIS and Oracle Spatial. The app-schema module takes one or more of these simple feature data stores and applies a mapping to convert the simple feature types into one or more complex feature types conforming to a GML application schema.
 
-- [Complex Features](https://docs.geoserver.org/latest/en/user/data/app-schema/complex-features.html)
-- [Installation](https://docs.geoserver.org/latest/en/user/data/app-schema/installation.html)
-- [WFS Service Settings](https://docs.geoserver.org/latest/en/user/data/app-schema/wfs-service-settings.html)
-- [Configuration](https://docs.geoserver.org/latest/en/user/data/app-schema/configuration.html)
-- [Mapping File](https://docs.geoserver.org/latest/en/user/data/app-schema/mapping-file.html)
-- [Application Schema Resolution](https://docs.geoserver.org/latest/en/user/data/app-schema/app-schema-resolution.html)
-- [Supported GML Versions](https://docs.geoserver.org/latest/en/user/data/app-schema/supported-gml-versions.html)
-- [Secondary Namespaces](https://docs.geoserver.org/latest/en/user/data/app-schema/secondary-namespaces.html)
-- [CQL functions](https://docs.geoserver.org/latest/en/user/data/app-schema/cql-functions.html)
-- [Property Interpolation](https://docs.geoserver.org/latest/en/user/data/app-schema/property-interpolation.html)
-- [Data Stores](https://docs.geoserver.org/latest/en/user/data/app-schema/data-stores.html)
-- [Feature Chaining](https://docs.geoserver.org/latest/en/user/data/app-schema/feature-chaining.html)
-- [Polymorphism](https://docs.geoserver.org/latest/en/user/data/app-schema/polymorphism.html)
-- [Data Access Integration](https://docs.geoserver.org/latest/en/user/data/app-schema/data-access-integration.html)
-- [WMS Support](https://docs.geoserver.org/latest/en/user/data/app-schema/wms-support.html)
-- [WFS 2.0 Support](https://docs.geoserver.org/latest/en/user/data/app-schema/wfs-2.0-support.html)
-- [Joining Support For Performance](https://docs.geoserver.org/latest/en/user/data/app-schema/joining.html)
-- [Tutorial](https://docs.geoserver.org/latest/en/user/data/app-schema/tutorial.html)
-- [MongoDB Tutorial](https://docs.geoserver.org/latest/en/user/data/app-schema/mongo-tutorial.html)
-- [Apache Solr Tutorial](https://docs.geoserver.org/latest/en/user/data/app-schema/solr-tutorial.html)
+- [Complex Features](https://docs.geoserver.org/latest/en/user/data/app-schema/complex-features.html){:target="_blank"}
+- [Installation](https://docs.geoserver.org/latest/en/user/data/app-schema/installation.html){:target="_blank"}
+- [WFS Service Settings](https://docs.geoserver.org/latest/en/user/data/app-schema/wfs-service-settings.html){:target="_blank"}
+- [Configuration](https://docs.geoserver.org/latest/en/user/data/app-schema/configuration.html){:target="_blank"}
+- [Mapping File](https://docs.geoserver.org/latest/en/user/data/app-schema/mapping-file.html){:target="_blank"}
+- [Application Schema Resolution](https://docs.geoserver.org/latest/en/user/data/app-schema/app-schema-resolution.html){:target="_blank"}
+- [Supported GML Versions](https://docs.geoserver.org/latest/en/user/data/app-schema/supported-gml-versions.html){:target="_blank"}
+- [Secondary Namespaces](https://docs.geoserver.org/latest/en/user/data/app-schema/secondary-namespaces.html){:target="_blank"}
+- [CQL functions](https://docs.geoserver.org/latest/en/user/data/app-schema/cql-functions.html){:target="_blank"}
+- [Property Interpolation](https://docs.geoserver.org/latest/en/user/data/app-schema/property-interpolation.html){:target="_blank"}
+- [Data Stores](https://docs.geoserver.org/latest/en/user/data/app-schema/data-stores.html){:target="_blank"}
+- [Feature Chaining](https://docs.geoserver.org/latest/en/user/data/app-schema/feature-chaining.html){:target="_blank"}
+- [Polymorphism](https://docs.geoserver.org/latest/en/user/data/app-schema/polymorphism.html){:target="_blank"}
+- [Data Access Integration](https://docs.geoserver.org/latest/en/user/data/app-schema/data-access-integration.html){:target="_blank"}
+- [WMS Support](https://docs.geoserver.org/latest/en/user/data/app-schema/wms-support.html){:target="_blank"}
+- [WFS 2.0 Support](https://docs.geoserver.org/latest/en/user/data/app-schema/wfs-2.0-support.html){:target="_blank"}
+- [Joining Support For Performance](https://docs.geoserver.org/latest/en/user/data/app-schema/joining.html){:target="_blank"}
+- [Tutorial](https://docs.geoserver.org/latest/en/user/data/app-schema/tutorial.html){:target="_blank"}
+- [MongoDB Tutorial](https://docs.geoserver.org/latest/en/user/data/app-schema/mongo-tutorial.html){:target="_blank"}
+- [Apache Solr Tutorial](https://docs.geoserver.org/latest/en/user/data/app-schema/solr-tutorial.html){:target="_blank"}
 
 ![](/assets/images/posts/2014-03-01-GeoServer/App Schema.png)
 
 ## Styling
 
-[Link](https://docs.geoserver.org/latest/en/user/styling/index.html#styling)
+[Link](https://docs.geoserver.org/latest/en/user/styling/index.html#styling){:target="_blank"}
 
 - Styles
 - SLD Styling
@@ -138,17 +138,17 @@ GeoServer provides support for a broad selection of simple feature data stores, 
 
 ## Services
 
-[Link](https://docs.geoserver.org/latest/en/user/services/index.html#services)
+[Link](https://docs.geoserver.org/latest/en/user/services/index.html#services){:target="_blank"}
 
-- WMS, [Web Map Service](https://docs.geoserver.org/latest/en/user/services/wms/index.html)
-- WFS, [Web Feature Service](https://docs.geoserver.org/latest/en/user/services/wfs/index.html)
-- WCS, [Web Coverage Service](https://docs.geoserver.org/latest/en/user/services/wcs/index.html)
-- WPS, [Web Processing Service](https://docs.geoserver.org/latest/en/user/services/wps/index.html)
-- CSW, [Catalog Services for the Web](https://docs.geoserver.org/latest/en/user/services/csw/index.html)
+- WMS, [Web Map Service](https://docs.geoserver.org/latest/en/user/services/wms/index.html){:target="_blank"}
+- WFS, [Web Feature Service](https://docs.geoserver.org/latest/en/user/services/wfs/index.html){:target="_blank"}
+- WCS, [Web Coverage Service](https://docs.geoserver.org/latest/en/user/services/wcs/index.html){:target="_blank"}
+- WPS, [Web Processing Service](https://docs.geoserver.org/latest/en/user/services/wps/index.html){:target="_blank"}
+- CSW, [Catalog Services for the Web](https://docs.geoserver.org/latest/en/user/services/csw/index.html){:target="_blank"}
 
 ## Filtering
 
-[Link](https://docs.geoserver.org/latest/en/user/filter/index.html#filtering)
+[Link](https://docs.geoserver.org/latest/en/user/filter/index.html#filtering){:target="_blank"}
 
 - in WMS requests, to select which features should be displayed on a map
 - in WFS requests, to specify the features to be returned
@@ -161,7 +161,7 @@ GeoServer provides support for a broad selection of simple feature data stores, 
 
 ## Server configuration
 
-[Link](https://docs.geoserver.org/latest/en/user/configuration/index.html#config)
+[Link](https://docs.geoserver.org/latest/en/user/configuration/index.html#config){:target="_blank"}
 
 - Status
 - Contact Information
@@ -177,7 +177,7 @@ GeoServer provides support for a broad selection of simple feature data stores, 
 
 ## GeoServer data directory
 
-[Link](https://docs.geoserver.org/latest/en/user/datadirectory/index.html#datadir)
+[Link](https://docs.geoserver.org/latest/en/user/datadirectory/index.html#datadir){:target="_blank"}
 
 The GeoServer data directory is the location in the file system where GeoServer stores its configuration information.
 
@@ -193,27 +193,27 @@ For **production use**, it is recommended to define an external data directory (
 
 ## Running in a production environment
 
-[Link](https://docs.geoserver.org/latest/en/user/production/index.html#production)
+[Link](https://docs.geoserver.org/latest/en/user/production/index.html#production){:target="_blank"}
 
 GeoServer is geared towards many different uses, from a simple test server to the enterprise-level data server. While many optimizations for GeoServer are set by default, here are some extra considerations to keep in mind when running GeoServer in a production environment.
 
-- [Java Considerations](https://docs.geoserver.org/latest/en/user/production/java.html)
-- [Container Considerations](https://docs.geoserver.org/latest/en/user/production/container.html)
-- [Configuration Considerations](https://docs.geoserver.org/latest/en/user/production/config.html)
-- [Data Considerations](https://docs.geoserver.org/latest/en/user/production/data.html)
-- [Linux init scripts](https://docs.geoserver.org/latest/en/user/production/linuxscript.html)
-- [Other Considerations](https://docs.geoserver.org/latest/en/user/production/misc.html)
-- [Troubleshooting](https://docs.geoserver.org/latest/en/user/production/troubleshooting.html)
+- [Java Considerations](https://docs.geoserver.org/latest/en/user/production/java.html){:target="_blank"}
+- [Container Considerations](https://docs.geoserver.org/latest/en/user/production/container.html){:target="_blank"}
+- [Configuration Considerations](https://docs.geoserver.org/latest/en/user/production/config.html){:target="_blank"}
+- [Data Considerations](https://docs.geoserver.org/latest/en/user/production/data.html){:target="_blank"}
+- [Linux init scripts](https://docs.geoserver.org/latest/en/user/production/linuxscript.html){:target="_blank"}
+- [Other Considerations](https://docs.geoserver.org/latest/en/user/production/misc.html){:target="_blank"}
+- [Troubleshooting](https://docs.geoserver.org/latest/en/user/production/troubleshooting.html){:target="_blank"}
     - Checking WFS requests
     - Leveraging GeoServer own log
     - Logging service requests
     - Using JDK tools to get stack and memory dumps
     - XStream
-- [Make cluster nodes identifiable from the GUI](https://docs.geoserver.org/latest/en/user/production/identify.html)
+- [Make cluster nodes identifiable from the GUI](https://docs.geoserver.org/latest/en/user/production/identify.html){:target="_blank"}
 
 ## REST
 
-[Link](https://docs.geoserver.org/latest/en/user/rest/index.html#rest)
+[Link](https://docs.geoserver.org/latest/en/user/rest/index.html#rest){:target="_blank"}
 
 GeoServer provides a RESTful interface through which clients can retrieve information about an instance and make configuration changes. Using the REST interface’s simple HTTP calls, clients can configure GeoServer without needing to use the Web administration interface.
 
@@ -242,40 +242,40 @@ Operations on resources are implemented with the standard primitives of HTTP: GE
 
 ## Security
 
-[Link](https://docs.geoserver.org/latest/en/user/security/index.html#security)
+[Link](https://docs.geoserver.org/latest/en/user/security/index.html#security){:target="_blank"}
 
-- [Security settings](https://docs.geoserver.org/latest/en/user/security/webadmin/index.html)
-- [Role system](https://docs.geoserver.org/latest/en/user/security/usergrouprole/index.html)
-- [Authentication](https://docs.geoserver.org/latest/en/user/security/auth/index.html)
-- [Passwords](https://docs.geoserver.org/latest/en/user/security/passwd.html)
-- [Root account](https://docs.geoserver.org/latest/en/user/security/root.html)
-- [Service Security](https://docs.geoserver.org/latest/en/user/security/service.html)
-    - [OGC Web Services](https://www.ogc.org/standards/owc) (OWS) services
+- [Security settings](https://docs.geoserver.org/latest/en/user/security/webadmin/index.html){:target="_blank"}
+- [Role system](https://docs.geoserver.org/latest/en/user/security/usergrouprole/index.html){:target="_blank"}
+- [Authentication](https://docs.geoserver.org/latest/en/user/security/auth/index.html){:target="_blank"}
+- [Passwords](https://docs.geoserver.org/latest/en/user/security/passwd.html){:target="_blank"}
+- [Root account](https://docs.geoserver.org/latest/en/user/security/root.html){:target="_blank"}
+- [Service Security](https://docs.geoserver.org/latest/en/user/security/service.html){:target="_blank"}
+    - [OGC Web Services](https://www.ogc.org/standards/owc){:target="_blank"} (OWS) services
     - REST services
-- [Layer security](https://docs.geoserver.org/latest/en/user/security/layer.html)
-- [REST Security](https://docs.geoserver.org/latest/en/user/security/rest.html)
-- [Disabling security](https://docs.geoserver.org/latest/en/user/security/disable.html)
-- [Tutorials](https://docs.geoserver.org/latest/en/user/security/tutorials/index.html)
+- [Layer security](https://docs.geoserver.org/latest/en/user/security/layer.html){:target="_blank"}
+- [REST Security](https://docs.geoserver.org/latest/en/user/security/rest.html){:target="_blank"}
+- [Disabling security](https://docs.geoserver.org/latest/en/user/security/disable.html){:target="_blank"}
+- [Tutorials](https://docs.geoserver.org/latest/en/user/security/tutorials/index.html){:target="_blank"}
 
 ## GeoWebCache
 
-[Link](https://docs.geoserver.org/latest/en/user/geowebcache/index.html#gwc)
+[Link](https://docs.geoserver.org/latest/en/user/geowebcache/index.html#gwc){:target="_blank"}
 
 GeoWebCache is a tiling server. It runs as a proxy between a map client and map server, caching (storing) tiles as they are requested, eliminating redundant request processing and thus saving large amounts of processing time. GeoWebCache is integrated with GeoServer, though it is also available as a standalone product for use with other map servers.
 
-- [GeoWebCache settings](https://docs.geoserver.org/latest/en/user/geowebcache/webadmin/index.html)
-- [Using GeoWebCache](https://docs.geoserver.org/latest/en/user/geowebcache/using.html)
-- [Configuration](https://docs.geoserver.org/latest/en/user/geowebcache/config.html)
-- [Seeding and refreshing](https://docs.geoserver.org/latest/en/user/geowebcache/seeding.html)
-- [HTTP Response Headers](https://docs.geoserver.org/latest/en/user/geowebcache/responseheaders.html)
-- [GeoWebCache REST API](https://docs.geoserver.org/latest/en/user/geowebcache/rest/index.html)
-- [Troubleshooting](https://docs.geoserver.org/latest/en/user/geowebcache/troubleshooting.html)
+- [GeoWebCache settings](https://docs.geoserver.org/latest/en/user/geowebcache/webadmin/index.html){:target="_blank"}
+- [Using GeoWebCache](https://docs.geoserver.org/latest/en/user/geowebcache/using.html){:target="_blank"}
+- [Configuration](https://docs.geoserver.org/latest/en/user/geowebcache/config.html){:target="_blank"}
+- [Seeding and refreshing](https://docs.geoserver.org/latest/en/user/geowebcache/seeding.html){:target="_blank"}
+- [HTTP Response Headers](https://docs.geoserver.org/latest/en/user/geowebcache/responseheaders.html){:target="_blank"}
+- [GeoWebCache REST API](https://docs.geoserver.org/latest/en/user/geowebcache/rest/index.html){:target="_blank"}
+- [Troubleshooting](https://docs.geoserver.org/latest/en/user/geowebcache/troubleshooting.html){:target="_blank"}
     - Grid misalignment
     - Direct WMS integration
 
 ## Extensions
 
-[Link](https://docs.geoserver.org/latest/en/user/extensions/index.html#extensions)
+[Link](https://docs.geoserver.org/latest/en/user/extensions/index.html#extensions){:target="_blank"}
 
 Extensions are modules that add functionality to GeoServer. They are installed as add-ons to the base GeoServer installation.
 
@@ -306,7 +306,7 @@ Extensions are modules that add functionality to GeoServer. They are installed a
 
 ## Community modules
 
-[Link](https://docs.geoserver.org/latest/en/user/community/index.html#community)
+[Link](https://docs.geoserver.org/latest/en/user/community/index.html#community){:target="_blank"}
 
 - ArcSDE
 - Authentication with OAuth2
@@ -357,5 +357,5 @@ Extensions are modules that add functionality to GeoServer. They are installed a
 
 ## Tutorials
 
-[Link](https://docs.geoserver.org/latest/en/user/tutorials/index.html#tutorials)
+[Link](https://docs.geoserver.org/latest/en/user/tutorials/index.html#tutorials){:target="_blank"}
 
