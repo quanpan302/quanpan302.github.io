@@ -32,11 +32,13 @@ Post types:
 
 ## Examples
 
+image, space %20
 ![](/assets/images/posts/)
 
-![](/assets/images/icon/external-link.svg)
-
-[external link.svg](/assets/images/icon/external%20link.svg){:target="_blank"}
+external link
+{% include icon-external-link.html href="http://www.quanpan302.com/" %}
+or
+![](){:target="_blank"}
 
 km<sup>2</sup> 
 km<sub>2</sub> 

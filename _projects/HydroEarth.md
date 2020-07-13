@@ -21,7 +21,7 @@ Google Cloud environement.
 ## Achievement
 
 - website {% include icon-external-link.html href="https://hydro-earth.netlify.app/#/" %}
-- Github [<i class="fas fa-external-link-alt"></i>](https://github.com/openearth/hydro-earth){:target="_blank"}
+- Github {% include icon-external-link.html href="https://github.com/openearth/hydro-earth" %}
 
 ### Architecture update
 
