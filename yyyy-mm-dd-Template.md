@@ -28,11 +28,11 @@ Post types:
 - RS, Remote Sensing
 - SD, Software Development
 
-![](/assets/images/posts/)
-
 - [Examples](#examples)
 
 ## Examples
+
+![](/assets/images/posts/)
 
 [Interoperability and FAIRness through a novel combination of Web technologies.pdf](/assets/images/posts/2018-12-01-FAIR/Interoperability%20and%20FAIRness%20through%20a%20novel%20combination%20of%20Web%20technologies.pdf)
 
