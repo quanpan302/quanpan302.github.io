@@ -8,7 +8,7 @@ tags:
 last_modified_at: 2016-03-06T12:00:00-15:00
 ---
 
-**[Terraform](https://www.terraform.io/)** ([Github](https://github.com/hashicorp/terraform), [Docs](https://www.terraform.io/docs/index.html)) is a tool for building, changing, and versioning infrastructure safely and efficiently. Terraform can manage existing and popular service providers as well as custom in-house solutions.
+**[Terraform](https://www.terraform.io/){:target="_blank"}** ([Github](https://github.com/hashicorp/terraform){:target="_blank"}, [Docs](https://www.terraform.io/docs/index.html){:target="_blank"}) is a tool for building, changing, and versioning infrastructure safely and efficiently. Terraform can manage existing and popular service providers as well as custom in-house solutions.
 
 - [Example](#example)
 

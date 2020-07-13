@@ -7,7 +7,7 @@ tags:
 last_modified_at: 2016-02-03T12:00:00-01:00
 ---
 
-**[Kubernetes](https://kubernetes.io)** ([Github](https://github.com/kubernetes/kubernetes), [Docs](https://kubernetes.io/docs/concepts/overview/components/)) is a portable, extensible, open-source platform for managing containerized workloads and services, that facilitates both declarative configuration and automation. It has a large, rapidly growing ecosystem. Kubernetes services, support, and tools are widely available.
+**[Kubernetes](https://kubernetes.io){:target="_blank"}** ([Github](https://github.com/kubernetes/kubernetes){:target="_blank"}, [Docs](https://kubernetes.io/docs/concepts/overview/components/){:target="_blank"}) is a portable, extensible, open-source platform for managing containerized workloads and services, that facilitates both declarative configuration and automation. It has a large, rapidly growing ecosystem. Kubernetes services, support, and tools are widely available.
 
 - [Concepts](#concepts)
   - [Components](#components)
@@ -28,9 +28,9 @@ last_modified_at: 2016-02-03T12:00:00-01:00
 - [Examples](#examples)
   - [Web UI (Dashboard)](#web-ui-dashboard)
 
-## [Concepts](https://kubernetes.io/docs/concepts/)
+## [Concepts](https://kubernetes.io/docs/concepts/){:target="_blank"}
 
-### [Components](https://kubernetes.io/docs/concepts/overview/components/)
+### [Components](https://kubernetes.io/docs/concepts/overview/components/){:target="_blank"}
 
 - Control Plane Components
   - kube-apiserver
@@ -48,39 +48,39 @@ last_modified_at: 2016-02-03T12:00:00-01:00
   - Container Resource Monitoring
   - Cluster-level Logging
 
-![](/assets/images/posts/2016-02-03-Kubernetes/components.png)
+![](/assets/images/posts/2016-02-03-Kubernetes/components.png){:target="_blank"}
 
-### [Cluster Architecture](https://kubernetes.io/docs/concepts/architecture/)
+### [Cluster Architecture](https://kubernetes.io/docs/concepts/architecture/){:target="_blank"}
 
-### [Containers](https://kubernetes.io/docs/concepts/containers/)
+### [Containers](https://kubernetes.io/docs/concepts/containers/){:target="_blank"}
 
-### [Workloads](https://kubernetes.io/docs/concepts/workloads/)
+### [Workloads](https://kubernetes.io/docs/concepts/workloads/){:target="_blank"}
 
-### [Services, Load Balancing, and Networking](https://kubernetes.io/docs/concepts/services-networking/)
+### [Services, Load Balancing, and Networking](https://kubernetes.io/docs/concepts/services-networking/){:target="_blank"}
 
-### [Storage](https://kubernetes.io/docs/concepts/storage/)
+### [Storage](https://kubernetes.io/docs/concepts/storage/){:target="_blank"}
 
-### [Configuration](https://kubernetes.io/docs/concepts/configuration/)
+### [Configuration](https://kubernetes.io/docs/concepts/configuration/){:target="_blank"}
 
-### [Security](https://kubernetes.io/docs/concepts/security/)
+### [Security](https://kubernetes.io/docs/concepts/security/){:target="_blank"}
 
-### [Policies](https://kubernetes.io/docs/concepts/policy/)
+### [Policies](https://kubernetes.io/docs/concepts/policy/){:target="_blank"}
 
-### [Scheduling and Eviction](https://kubernetes.io/docs/concepts/scheduling-eviction/)
+### [Scheduling and Eviction](https://kubernetes.io/docs/concepts/scheduling-eviction/){:target="_blank"}
 
-### [Cluster Administration](https://kubernetes.io/docs/concepts/cluster-administration/)
+### [Cluster Administration](https://kubernetes.io/docs/concepts/cluster-administration/){:target="_blank"}
 
-### [Extending Kubernetes](https://kubernetes.io/docs/concepts/extend-kubernetes/)
+### [Extending Kubernetes](https://kubernetes.io/docs/concepts/extend-kubernetes/){:target="_blank"}
 
-## [Tasks](https://kubernetes.io/docs/tasks/)
+## [Tasks](https://kubernetes.io/docs/tasks/){:target="_blank"}
 
-## [Reference](https://kubernetes.io/docs/reference/)
+## [Reference](https://kubernetes.io/docs/reference/){:target="_blank"}
 
-### [Standardized Glossary](https://kubernetes.io/docs/reference/glossary/)
+### [Standardized Glossary](https://kubernetes.io/docs/reference/glossary/){:target="_blank"}
 
 ## Examples
 
-### [Web UI (Dashboard)](https://kubernetes.io/docs/tasks/access-application-cluster/web-ui-dashboard/)
+### [Web UI (Dashboard)](https://kubernetes.io/docs/tasks/access-application-cluster/web-ui-dashboard/){:target="_blank"}
 
 #### Deploying the Dashboard UI 
 
@@ -90,7 +90,7 @@ last_modified_at: 2016-02-03T12:00:00-01:00
 kubectl apply -f https://raw.githubusercontent.com/kubernetes/dashboard/v2.0.0/aio/deploy/recommended.yaml
 ```
 
-##### [Login](https://github.com/kubernetes/dashboard/blob/master/docs/user/access-control/creating-sample-user.md)
+##### [Login](https://github.com/kubernetes/dashboard/blob/master/docs/user/access-control/creating-sample-user.md){:target="_blank"}
 
 For each of the following snippets for **ServiceAccount** and **ClusterRoleBinding**, you should copy them to new manifest files like `dashboard-admin.yaml` and use `kubectl apply -f dashboard-admin.yaml` to create them.
 
@@ -141,7 +141,7 @@ kubectl proxy
 
 ##### Visit
 
-[127.0.0.1:8001](http://localhost:8001/api/v1/namespaces/kubernetes-dashboard/services/https:kubernetes-dashboard:/proxy/)
+[127.0.0.1:8001](http://localhost:8001/api/v1/namespaces/kubernetes-dashboard/services/https:kubernetes-dashboard:/proxy/){:target="_blank"}
 
 #### Delete the Dashboard UI
 
