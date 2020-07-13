@@ -12,4 +12,5 @@ last_modified_at: 2015-02-01T12:00:00-01:00
 
 - [Software development process](#software-development-process)
 
-## Software development process{% include icon-external-link.html href="https://en.wikipedia.org/wiki/Software_development_process" %}
+## Software development process
+{% include icon-external-link.html href="https://en.wikipedia.org/wiki/Software_development_process" %}
