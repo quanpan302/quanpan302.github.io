@@ -38,7 +38,7 @@ image, space %20
 external link
 {% include icon-external-link.html href="http://www.quanpan302.com" %}
 or
-![](){:target="_blank"}
+{:target="_blank"}
 
 km<sup>2</sup> 
 km<sub>2</sub> 

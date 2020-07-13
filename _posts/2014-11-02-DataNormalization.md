@@ -8,7 +8,7 @@ tags:
 last_modified_at: 2014-11-02T12:00:00-10:00
 ---
 
-**[Data Normalization](https://en.wikipedia.org/wiki/Database_normalization)**  is the process of structuring a relational database in accordance with a series of so-called normal forms in order to reduce data redundancy and improve data integrity.
+**[Data Normalization](https://en.wikipedia.org/wiki/Database_normalization){:target="_blank"}**  is the process of structuring a relational database in accordance with a series of so-called normal forms in order to reduce data redundancy and improve data integrity.
 
 Normalization entails organizing the columns (attributes) and tables (relations) of a database to ensure that their dependencies are properly enforced by database integrity constraints. It is accomplished by applying some formal rules either by a process of synthesis (creating a new database design) or decomposition (improving an existing database design). 
 
@@ -23,11 +23,11 @@ The objectives of normalization beyond 1NF (first normal form):
 
 ### UN
 
-[Unnormalized form](https://en.wikipedia.org/wiki/Unnormalized_form)
+[Unnormalized form](https://en.wikipedia.org/wiki/Unnormalized_form){:target="_blank"}
 
 ### 1NF
 
-[First normal form](https://en.wikipedia.org/wiki/First_normal_form) is a property of a relation in a relational database. A relation is in first normal form if and only if the domain of each attribute contains only atomic (indivisible) values, and the value of each attribute contains only a single value from that domain.
+[First normal form](https://en.wikipedia.org/wiki/First_normal_form){:target="_blank"} is a property of a relation in a relational database. A relation is in first normal form if and only if the domain of each attribute contains only atomic (indivisible) values, and the value of each attribute contains only a single value from that domain.
 
 First normal form enforces these criteria:
 
@@ -37,7 +37,7 @@ First normal form enforces these criteria:
 
 ### 2NF
 
-[Second normal form](https://en.wikipedia.org/wiki/Second_normal_form) is a normal form used in database normalization.
+[Second normal form](https://en.wikipedia.org/wiki/Second_normal_form){:target="_blank"} is a normal form used in database normalization.
 
 A relation is in the second normal form if it fulfills the following two requirements:
 
@@ -46,7 +46,7 @@ A relation is in the second normal form if it fulfills the following two require
 
 ### 3NF
 
-[Third normal form](https://en.wikipedia.org/wiki/Third_normal_form) is a [database schema](https://en.wikipedia.org/wiki/Database_schema) design approach for relational databases which uses normalizing principles to
+[Third normal form](https://en.wikipedia.org/wiki/Third_normal_form){:target="_blank"} is a [database schema](https://en.wikipedia.org/wiki/Database_schema){:target="_blank"} design approach for relational databases which uses normalizing principles to
 
  - reduce the duplication of data
  - avoid data anomalies
@@ -57,33 +57,33 @@ A relation is in the second normal form if it fulfills the following two require
 
 ### EKNF
 
-[Elementary key normal form](https://en.wikipedia.org/wiki/Elementary_key_normal_form) is a subtle enhancement on third normal form, thus EKNF tables are in 3NF by definition. This happens when there is more than one unique compound key and they overlap. Such cases can cause redundant information in the overlapping column(s). 
+[Elementary key normal form](https://en.wikipedia.org/wiki/Elementary_key_normal_form){:target="_blank"} is a subtle enhancement on third normal form, thus EKNF tables are in 3NF by definition. This happens when there is more than one unique compound key and they overlap. Such cases can cause redundant information in the overlapping column(s). 
 
 ### BCNF
 
-[Boyce–Codd normal form (or BCNF or 3.5NF)](https://en.wikipedia.org/wiki/Boyce%E2%80%93Codd_normal_form) is a normal form used in database normalization. It is a slightly stronger version of the third normal form (3NF).
+[Boyce–Codd normal form (or BCNF or 3.5NF)](https://en.wikipedia.org/wiki/Boyce%E2%80%93Codd_normal_form){:target="_blank"} is a normal form used in database normalization. It is a slightly stronger version of the third normal form (3NF).
 
 ### 4NF
 
-[Fourth normal form](https://en.wikipedia.org/wiki/Fourth_normal_form) is a normal form used in database normalization. 4NF is concerned with a more general type of dependency known as a [multivalued dependency](https://en.wikipedia.org/wiki/Multivalued_dependency). Multivalued dependency is a full constraint between two sets of attributes in a relation. 
+[Fourth normal form](https://en.wikipedia.org/wiki/Fourth_normal_form){:target="_blank"} is a normal form used in database normalization. 4NF is concerned with a more general type of dependency known as a [multivalued dependency](https://en.wikipedia.org/wiki/Multivalued_dependency){:target="_blank"}. Multivalued dependency is a full constraint between two sets of attributes in a relation. 
 
 ### ETNF
 
-[Essential tuple normal form](https://en.wikipedia.org/wiki/Essential_tuple_normal_form)
+[Essential tuple normal form](https://en.wikipedia.org/wiki/Essential_tuple_normal_form){:target="_blank"}
 
 ### 5NF
 
-[Fifth normal form](https://en.wikipedia.org/wiki/Fifth_normal_form) also known as **project-join normal form (PJ/NF)**, is a level of database normalization designed to reduce redundancy in relational databases recording multi-valued facts by isolating semantically related multiple relationships. A table is said to be in the 5NF if and only if every non-trivial [join dependency](https://en.wikipedia.org/wiki/Join_dependency) in that table is implied by the candidate keys. 
+[Fifth normal form](https://en.wikipedia.org/wiki/Fifth_normal_form){:target="_blank"} also known as **project-join normal form (PJ/NF)**, is a level of database normalization designed to reduce redundancy in relational databases recording multi-valued facts by isolating semantically related multiple relationships. A table is said to be in the 5NF if and only if every non-trivial [join dependency](https://en.wikipedia.org/wiki/Join_dependency){:target="_blank"} in that table is implied by the candidate keys. 
 
 ### DKNF
 
-[Domain-key normal form](https://en.wikipedia.org/wiki/Domain-key_normal_form) is a normal form used in database normalization which requires that the database contains no constraints other than domain constraints and key constraints.
+[Domain-key normal form](https://en.wikipedia.org/wiki/Domain-key_normal_form){:target="_blank"} is a normal form used in database normalization which requires that the database contains no constraints other than domain constraints and key constraints.
 
-A domain constraint specifies the permissible values for a given attribute, while a key constraint specifies the attributes that uniquely identify a row in a given table. The domain/key normal form is achieved when every constraint on the relation is a [logical consequence](https://en.wikipedia.org/wiki/Logical_consequence) of the definition of keys and domains, and enforcing key and domain restraints and conditions causes all constraints to be met. Thus, it avoids all non-temporal anomalies. 
+A domain constraint specifies the permissible values for a given attribute, while a key constraint specifies the attributes that uniquely identify a row in a given table. The domain/key normal form is achieved when every constraint on the relation is a [logical consequence](https://en.wikipedia.org/wiki/Logical_consequence){:target="_blank"} of the definition of keys and domains, and enforcing key and domain restraints and conditions causes all constraints to be met. Thus, it avoids all non-temporal anomalies. 
 
 ### 6NF
 
-[Sixth normal form](https://en.wikipedia.org/wiki/Sixth_normal_form) is intended to decompose relation variables to irreducible components. Though this may be relatively unimportant for non-temporal relation variables, it can be important when dealing with temporal variables or other interval data.
+[Sixth normal form](https://en.wikipedia.org/wiki/Sixth_normal_form){:target="_blank"} is intended to decompose relation variables to irreducible components. Though this may be relatively unimportant for non-temporal relation variables, it can be important when dealing with temporal variables or other interval data.
 
 | Features | UNF (1970) | 1NF (1970) | 2NF (1971) | 3NF (1971) | EKNF (1982) | BCNF (1974) | 4NF (1977) | ETNF (2012) | 5NF (1979) | DKNF (1981) | 6NF (2003) |
 | -------: | ---------- | ---------- | ---------- | ---------- | ----------- | ----------- | ---------- | ----------- | ---------- | ----------- | ---------- |
