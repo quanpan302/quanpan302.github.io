@@ -9,24 +9,32 @@ last_modified_at: 2016-02-03T12:00:00-01:00
 
 **[Kubernetes](https://kubernetes.io){:target="_blank"}** ([Github](https://github.com/kubernetes/kubernetes){:target="_blank"}, [Docs](https://kubernetes.io/docs/concepts/overview/components/){:target="_blank"}) is a portable, extensible, open-source platform for managing containerized workloads and services, that facilitates both declarative configuration and automation. It has a large, rapidly growing ecosystem. Kubernetes services, support, and tools are widely available.
 
-- [Concepts](#concepts)
-  - [Components](#components)
-  - [Cluster Architecture](#cluster-architecture)
-  - [Containers](#containers)
-  - [Workloads](#workloads)
-  - [Services, Load Balancing, and Networking](#services-load-balancing-and-networking)
-  - [Configuration](#configuration)
-  - [Security](#security)
-  - [Storage](#storage)
-  - [Policies](#policies)
-  - [Scheduling and Eviction](#scheduling-and-eviction)
-  - [Cluster Administration](#cluster-administration)
-  - [Extending Kubernetes](#extending-kubernetes)
-- [Tasks](#tasks)
-- [Reference](#reference)
-  - [Standardized Glossary](#standardized-glossary)
+- [Concepts{:target="_blank"}](#conceptstarget_blank)
+  - [Components{:target="_blank"}](#componentstarget_blank)
+  - [Cluster Architecture{:target="_blank"}](#cluster-architecturetarget_blank)
+  - [Containers{:target="_blank"}](#containerstarget_blank)
+  - [Workloads{:target="_blank"}](#workloadstarget_blank)
+  - [Services, Load Balancing, and Networking{:target="_blank"}](#services-load-balancing-and-networkingtarget_blank)
+  - [Storage{:target="_blank"}](#storagetarget_blank)
+  - [Configuration{:target="_blank"}](#configurationtarget_blank)
+  - [Security{:target="_blank"}](#securitytarget_blank)
+  - [Policies{:target="_blank"}](#policiestarget_blank)
+  - [Scheduling and Eviction{:target="_blank"}](#scheduling-and-evictiontarget_blank)
+  - [Cluster Administration{:target="_blank"}](#cluster-administrationtarget_blank)
+  - [Extending Kubernetes{:target="_blank"}](#extending-kubernetestarget_blank)
+- [Tasks{:target="_blank"}](#taskstarget_blank)
+- [Reference{:target="_blank"}](#referencetarget_blank)
+  - [Standardized Glossary{:target="_blank"}](#standardized-glossarytarget_blank)
 - [Examples](#examples)
-  - [Web UI (Dashboard)](#web-ui-dashboard)
+  - [Web UI (Dashboard){:target="_blank"}](#web-ui-dashboardtarget_blank)
+    - [Deploying the Dashboard UI](#deploying-the-dashboard-ui)
+      - [Download](#download)
+      - [Login{:target="_blank"}](#logintarget_blank)
+      - [Run locally](#run-locally)
+      - [Visit](#visit)
+    - [Delete the Dashboard UI](#delete-the-dashboard-ui)
+      - [Check](#check)
+      - [Delete](#delete)
 
 ## [Concepts](https://kubernetes.io/docs/concepts/){:target="_blank"}
 
@@ -136,6 +144,9 @@ kubectl create -f dashboard-admin.yaml
 ##### Run locally
 
 ```bash
+kubectl get secrets
+kubectl describe secrets default-token-drrn4
+
 kubectl proxy
 ```
 
