@@ -245,20 +245,32 @@ Valid
 
 ## Keywords
 
-| keywords  | keywords | keywords |
-| --------- | -------- | -------- |
-| break     | case     | catch    |
-| class     | const    | continue |
-| debugger  | default  | delete   |
-| do        | else     | enum     |
-| export    | extends  | false    |
-| finally   | for      | function |
-| If        | import   | in       |
-| istanceOf | new      | null     |
-| return    | super    | switch   |
-| this      | throw    | true     |
-| try       | typeOf   | var      |
-| void      | while    | with     |
+| keywords  | keywords   | keywords    |
+| --------- | ---------- | ----------- |
+| **Reserved words**                   |
+| break     | case       | catch       |
+| class     | const      | continue    |
+| debugger  | default    | delete      |
+| do        | else       | enum        |
+| export    | extends    | false       |
+| finally   | for        | function    |
+| If        | import     | in          |
+| istanceOf | new        | null        |
+| return    | super      | switch      |
+| this      | throw      | true        |
+| try       | typeOf     | var         |
+| void      | while      | with        |
+| **Strict Mode Reserved Words**       |
+| as        | implements | interface   |
+| let       | package    | private     |
+| protected | public     | static      |
+| yield     |            |             |
+| ** Contextual keywords**             |
+| any       | boolean    | constructor |
+| declare   | get        | module      |
+| require   | number     | set         |
+| string    | symbol     | type        |
+| from      | of         |             |
 
 
 ## Handbook
