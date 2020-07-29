@@ -223,13 +223,39 @@ tom.move(34);
 ### [Enums](https://www.staging-typescript.org/docs/handbook/enums.html)
 
 ```javascript
+enum Response {
+  No = 0,
+  Yes = 1
+}
 
+function respond(recipient: string, message: Response): void {
+  // ...
+}
+
+respond("Princess Caroline", Response.Yes);
 ```
 
 ### [Generics](https://www.staging-typescript.org/docs/handbook/generics.html)
 
 ```javascript
+// Generic Types
+function identity<T>(arg: T): T {
+  return arg;
+}
+let output = identity<string>("myString"); // type of output will be 'string'
+let output = identity("myString"); // type of output will be 'string'
 
+// Generic Classes
+class GenericNumber<T> {
+  zeroValue: T;
+  add: (x: T, y: T) => T;
+}
+
+let myGenericNumber = new GenericNumber<number>();
+myGenericNumber.zeroValue = 0;
+myGenericNumber.add = function(x, y) {
+  return x + y;
+};
 ```
 
 
