@@ -12,20 +12,24 @@ last_modified_at: 2019-01-01T12:00:00-01:00
 
 - [Components](#components)
 - [Impact Assessment](#impact-assessment)
-- [Ecosystem model](#ecosystem-model-ecological-modelling)
-- [Environmental Restoration](#environmental-restoration)
-- [Restoration Ecology](#restoration-ecology)
+- [Ecosystem model{:target="_blank"} (Ecological Modelling)](#ecosystem-modeltarget_blank-ecological-modelling)
+  - [Species distribution modelling{:target="_blank"}](#species-distribution-modellingtarget_blank)
+- [Environmental Restoration{:target="_blank"}](#environmental-restorationtarget_blank)
+  - [Approaches](#approaches)
+- [Restoration Ecology{:target="_blank"}](#restoration-ecologytarget_blank)
 - [Book](#book)
-  - [FOUNDATIONS OF RESTORATION ECOLOGY](#foundations-of-restoration-ecology-by-donald-a-falk-margaret-a-palmer-and-joy-b-zedler)
-  - [Ecological Informatics](#ecological-informatics-by-michener-william-k-recknagel-friedrich)
+  - ["FOUNDATIONS OF RESTORATION ECOLOGY" by Donald A. Falk, Margaret A. Palmer, and Joy B. Zedler](#foundations-of-restoration-ecology-by-donald-a-falk-margaret-a-palmer-and-joy-b-zedler)
+    - [Ecological Theory and Restoration Ecology](#ecological-theory-and-restoration-ecology)
+    - [Population and Ecological Genetics in Restoration Ecology](#population-and-ecological-genetics-in-restoration-ecology)
+  - ["Ecological Informatics", by Michener, William K. Recknagel, Friedrich](#ecological-informatics-by-michener-william-k-recknagel-friedrich)
 - [Links](#links)
-- [Products](#products)
   - [Official](#official)
   - [Website](#website)
   - [Projects](#projects)
 - [Products](#products)
   - [Data](#data)
-  - [Database](#database)
+    - [GEDI, NASA, Global Ecosystem Dynamics Investigation{:target="_blank"}](#gedi-nasa-global-ecosystem-dynamics-investigationtarget_blank)
+    - [Database](#database)
   - [Model](#model)
 
 Environmental science emerged from the fields of natural history and medicine during the Enlightenment. Today it provides an integrated, quantitative, and interdisciplinary approach to the study of environmental systems.
@@ -41,13 +45,13 @@ Environmental science emerged from the fields of natural history and medicine du
 
 ## Impact Assessment
 
-- [Environmental impact assessment](https://en.wikipedia.org/wiki/Environmental_impact_assessment), [Category](https://en.wikipedia.org/wiki/Category:Environmental_impact_assessment)
-  - [Netherlands Commission for Environmental Assessment](http://www.eia.nl/en)
-  - [International Association for Impact Assessment](https://www.iaia.org)
-  - [FAO](/assets/images/posts/2019-01-01-EnvironmentalScience/FAO-Environmental%20Impact%20Assessment.pdf)
-- [Environmental impact statement](https://en.wikipedia.org/wiki/Environmental_impact_statement)
+- [Environmental impact assessment](https://en.wikipedia.org/wiki/Environmental_impact_assessment){:target="_blank"}, [Category](https://en.wikipedia.org/wiki/Category:Environmental_impact_assessment){:target="_blank"}
+  - [Netherlands Commission for Environmental Assessment](http://www.eia.nl/en){:target="_blank"}
+  - [International Association for Impact Assessment](https://www.iaia.org){:target="_blank"}
+  - [FAO](/assets/images/posts/2019-01-01-EnvironmentalScience/FAO-Environmental%20Impact%20Assessment.pdf){:target="_blank"}
+- [Environmental impact statement](https://en.wikipedia.org/wiki/Environmental_impact_statement){:target="_blank"}
 
-## [Ecosystem model](https://en.wikipedia.org/wiki/Ecosystem_model) (Ecological Modelling)
+## [Ecosystem model](https://en.wikipedia.org/wiki/Ecosystem_model){:target="_blank"} (Ecological Modelling)
 
 **Ecosystem model** is an abstract, usually mathematical, representation of an ecological system (ranging in scale from an individual population, to an ecological community, or even an entire biome (生物群落)), which is studied to better understand the real system.
 
@@ -56,11 +60,11 @@ There are two major types of ecological models, which are generally applied to d
 1. Analytic models are typically relatively simple (often linear) systems, that can be accurately described by a set of mathematical equations whose behavior is well-known.
 2. Simulation / Computational models use numerical techniques to solve problems for which analytic solutions are impractical or impossible.
 
-[Modelling and Simulation Links](http://ecobas.org/www-server/mod-info/all.html)
+[Modelling and Simulation Links](http://ecobas.org/www-server/mod-info/all.html){:target="_blank"}
 
-### [Species distribution modelling](https://en.wikipedia.org/wiki/Species_distribution_modelling)
+### [Species distribution modelling](https://en.wikipedia.org/wiki/Species_distribution_modelling){:target="_blank"}
 
-## [Environmental Restoration](https://en.wikipedia.org/wiki/Environmental_restoration)
+## [Environmental Restoration](https://en.wikipedia.org/wiki/Environmental_restoration){:target="_blank"}
 
 **Environmental Restoration** is closely allied with (or perhaps sometimes used interchangeably with) ecological restoration or environmental remediation.
 
@@ -73,7 +77,7 @@ Environmental restoration involves many different approaches and technologies de
 - Today, computerized regulation is often being utilized in these processes.
 - Computer-based mapping has also become an important dimension of restorative work, as has computer modelling.
 
-## [Restoration Ecology](https://en.wikipedia.org/wiki/Restoration_ecology)
+## [Restoration Ecology](https://en.wikipedia.org/wiki/Restoration_ecology){:target="_blank"}
 
 **Restoration Ecology** is the scientific study supporting the practice of **ecological restoration**, which is the practice of renewing and restoring degraded, damaged, or destroyed ecosystems and habitats in the environment by active human intervention (介入) and action.
 
@@ -140,59 +144,59 @@ Ecological Entities range from genomes, individual organisms, populations, commu
 ### Official
 
 - UN
-  - **UNEP**, [United Nations Environment Programme](https://www.unenvironment.org/)
-  - **UNEP GRID-Geneva**, [ited Nations Environment Programme, Global Resource Information Database at Geneva](https://unepgrid.ch/en)
-  - **UNSD**, [United Nations Environmental Indicators](https://unstats.un.org/unsd/envstats/qindicators.cshtml)
+  - **UNEP**, [United Nations Environment Programme](https://www.unenvironment.org/){:target="_blank"}
+  - **UNEP GRID-Geneva**, [ited Nations Environment Programme, Global Resource Information Database at Geneva](https://unepgrid.ch/en){:target="_blank"}
+  - **UNSD**, [United Nations Environmental Indicators](https://unstats.un.org/unsd/envstats/qindicators.cshtml){:target="_blank"}
 - Europ
-  - **DGE**, [European Commission Environment Directorate General](https://ec.europa.eu/environment/index_en.htm)
-  - **Interreg**, [Interreg CENTRAL EUROPE](https://www.interreg-central.eu/Content.Node/Environment.html)
-  - **CEDAR**, [Central European Environmental Data Request Facility](http://www.cedar.at/sitemap.htm)
+  - **DGE**, [European Commission Environment Directorate General](https://ec.europa.eu/environment/index_en.htm){:target="_blank"}
+  - **Interreg**, [Interreg CENTRAL EUROPE](https://www.interreg-central.eu/Content.Node/Environment.html){:target="_blank"}
+  - **CEDAR**, [Central European Environmental Data Request Facility](http://www.cedar.at/sitemap.htm){:target="_blank"}
 - USA
-  - **EPA**, [United States, Environmental Protection Agency](https://www.epa.gov/)
-  - **USGS**, [United States, Geological Survey](https://www.usgs.gov/)
+  - **EPA**, [United States, Environmental Protection Agency](https://www.epa.gov/){:target="_blank"}
+  - **USGS**, [United States, Geological Survey](https://www.usgs.gov/){:target="_blank"}
 - Australia
-  - [Department of Agriculture, Water and the Environment](https://www.environment.gov.au/)
-  - [Survey, spatial data and maps](https://www.planning.act.gov.au/tools-resources/survey-spatial-data-maps)
+  - [Department of Agriculture, Water and the Environment](https://www.environment.gov.au/){:target="_blank"}
+  - [Survey, spatial data and maps](https://www.planning.act.gov.au/tools-resources/survey-spatial-data-maps){:target="_blank"}
 - China
-  - [Ministry of Ecology and Environment](http://english.mee.gov.cn/)
+  - [Ministry of Ecology and Environment](http://english.mee.gov.cn/){:target="_blank"}
 - UK
-  - [Department for Environment Food & Rural Affairs](https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs)
+  - [Department for Environment Food & Rural Affairs](https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs){:target="_blank"}
 
 ### Website
 
-- [Environment And Ecology](http://environment-ecology.com)
-- [Nature](https://www.nature.com/scitable/knowledge/library/restoration-ecology-13339059/)
+- [Environment And Ecology](http://environment-ecology.com){:target="_blank"}
+- [Nature](https://www.nature.com/scitable/knowledge/library/restoration-ecology-13339059/){:target="_blank"}
 
 ### Projects
 
-- [eEcoLiDAR](https://www.esciencecenter.nl/projects/eecolidar/), eScience Center, Netherlands
-- [BirdRadar](https://www.esciencecenter.nl/projects/birdradar/), eScience Center, Netherlands
-- [eEcology](https://www.esciencecenter.nl/projects/eecology/), eScience Center, Netherlands
+- [eEcoLiDAR](https://www.esciencecenter.nl/projects/eecolidar/){:target="_blank"}, eScience Center, Netherlands
+- [BirdRadar](https://www.esciencecenter.nl/projects/birdradar/){:target="_blank"}, eScience Center, Netherlands
+- [eEcology](https://www.esciencecenter.nl/projects/eecology/){:target="_blank"}, eScience Center, Netherlands
 
 ## Products
 
-- [ECOBAS](http://ecobas.org/)
-  - [List of Textbooks on Ecological Modelling](http://ecobas.org/www-server/mod-info/show.php?%20%20%20%20%20%20%20%20%20%20%20URL=http://homepage.ruhr-uni-bochum.de/Michael.Knorrenschild/embooks.html&%20%20%20%20%20%20%20%20%20%20%20DT=List%20of%20ecological%20modelling%20books)
-  - [Modelling and Simulation Links](http://ecobas.org/www-server/mod-info/all.html)
+- [ECOBAS](http://ecobas.org/){:target="_blank"}
+  - [List of Textbooks on Ecological Modelling](http://ecobas.org/www-server/mod-info/show.php?%20%20%20%20%20%20%20%20%20%20%20URL=http://homepage.ruhr-uni-bochum.de/Michael.Knorrenschild/embooks.html&%20%20%20%20%20%20%20%20%20%20%20DT=List%20of%20ecological%20modelling%20books){:target="_blank"}
+  - [Modelling and Simulation Links](http://ecobas.org/www-server/mod-info/all.html){:target="_blank"}
 
 ### Data
 
-#### GEDI, [NASA, Global Ecosystem Dynamics Investigation](https://gedi.umd.edu/)
+#### GEDI, [NASA, Global Ecosystem Dynamics Investigation](https://gedi.umd.edu/){:target="_blank"}
 
 | Algorithm Theoretical Basis Documents (ATBDs) | ATBD name | Data products | Resolution | Version | Date |
 | --------------------------------------------- | --------- | ------------- | ---------- | ------- | ---- |
-L1A-2A | Transmit and Receive Waveform Interpretation and Generation of L1A and L2A products | 1A: Raw waveforms, 2A: Ground elevation, canopy top height, relative height (RH) metrics | 25 m (~82 ft) diameter | [1.0.pdf](/assets/images/posts/2019-01-01-EnvironmentalScience/) | 12-2019 |
-L1B | Waveform Geolocation for L1 and L2 Products | Geolocated waveforms | 25 m (~82 ft) diameter | [1.0.pdf](/assets/images/posts/2019-01-01-EnvironmentalScience/) | 12-2019 |
-L2B | Footprint Canopy Cover and Vertical Profile Metrics | Canopy Cover Fraction (CCF), CCF profile, Leaf Area Index (LAI), LAI profile | 25 m (~82 ft) diameter | [1.0.pdf](/assets/images/posts/2019-01-01-EnvironmentalScience/) | 12-2019 |
+L1A-2A | Transmit and Receive Waveform Interpretation and Generation of L1A and L2A products | 1A: Raw waveforms, 2A: Ground elevation, canopy top height, relative height (RH) metrics | 25 m (~82 ft) diameter | [1.0.pdf](/assets/images/posts/2019-01-01-EnvironmentalScience/){:target="_blank"} | 12-2019 |
+L1B | Waveform Geolocation for L1 and L2 Products | Geolocated waveforms | 25 m (~82 ft) diameter | [1.0.pdf](/assets/images/posts/2019-01-01-EnvironmentalScience/){:target="_blank"} | 12-2019 |
+L2B | Footprint Canopy Cover and Vertical Profile Metrics | Canopy Cover Fraction (CCF), CCF profile, Leaf Area Index (LAI), LAI profile | 25 m (~82 ft) diameter | [1.0.pdf](/assets/images/posts/2019-01-01-EnvironmentalScience/){:target="_blank"} | 12-2019 |
 L3 | Gridded Land Surface Metrics | Gridded Level 2 metrics | 1 km (~0.6 mi) grid | 1.0 | TBD |
 L4A | Footprint Above Ground Biomass Density  | Footprint level above ground biomass | 25 m (~82 ft) diameter | 1.0 | TBD |
 L4B | Gridded Biomass Product | Gridded Above Ground Biomass Density (AGBD) | 1 km (~0.6 mi) grid | 1.0 | TBD |
 
-- ORNL, [Ridge National Laboratory, Distributed Active Archive Center](https://daac.ornl.gov/)
-- GBIF, [Global Biodiversity Information Facility ](https://www.gbif.org/)
-- OBIS, [Ocean Biodiversity Information System](https://obis.org/)
-- GENESYS, [Plant Genetic Resources for Food and Agriculture (PGRFA)](https://www.genesys-pgr.org/)
-- BCCVL, [Biodiversity and Climate Change Virtual Laboratory](http://bccvl.org.au/)
+- ORNL, [Ridge National Laboratory, Distributed Active Archive Center](https://daac.ornl.gov/){:target="_blank"}
+- GBIF, [Global Biodiversity Information Facility ](https://www.gbif.org/){:target="_blank"}
+- OBIS, [Ocean Biodiversity Information System](https://obis.org/){:target="_blank"}
+- GENESYS, [Plant Genetic Resources for Food and Agriculture (PGRFA)](https://www.genesys-pgr.org/){:target="_blank"}
+- BCCVL, [Biodiversity and Climate Change Virtual Laboratory](http://bccvl.org.au/){:target="_blank"}
 
 #### Database
 
