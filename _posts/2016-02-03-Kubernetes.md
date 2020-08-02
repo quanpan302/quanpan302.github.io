@@ -453,7 +453,7 @@ kubectl get pods -A -o=custom-columns='DATA:spec.containers[?(@.image!="k8s.gcr.
 kubectl get pods -A -o=custom-columns='DATA:metadata.*'
 ```
 
-More examples in the kubectl [reference documentation](https://kubernetes.io/docs/reference/kubectl/overview/#custom-columns).
+More examples in the kubectl [reference documentation](https://kubernetes.io/docs/reference/kubectl/overview/#custom-columns){:target="_blank"}.
 
 #### Kubectl output verbosity and debugging
 

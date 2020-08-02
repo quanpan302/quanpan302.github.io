@@ -8,34 +8,34 @@ tags:
 last_modified_at: 2018-03-05T12:00:00-01:00
 ---
 
-**[Typescript.js](https://www.typescriptlang.org/)** is a super-set of JavaScript, it doesn't have a default template - there would be too many. Instead, other projects have their own TypeScript bootstrap templates with their own context. These projects provide templates which include TypeScript support.
+**[Typescript.js](https://www.typescriptlang.org/){:target="_blank"}** is a super-set of JavaScript, it doesn't have a default template - there would be too many. Instead, other projects have their own TypeScript bootstrap templates with their own context. These projects provide templates which include TypeScript support.
 
 TOC
 
 - [Basic](#basic)
-  - [Types](#types)
-  - [Interfaces](#interfaces)
-  - [Functions](#functions)
-  - [Literal Types](#literal-types)
-  - [Unions and Intersection Types](#unions-and-intersection-types)
-  - [Classes](#classes)
-  - [Enums](#enums)
-  - [Generics](#generics)
+  - [Types{:target="_blank"}](#typestarget_blank)
+  - [Interfaces{:target="_blank"}](#interfacestarget_blank)
+  - [Functions{:target="_blank"}](#functionstarget_blank)
+  - [Literal Types{:target="_blank"}](#literal-typestarget_blank)
+  - [Unions and Intersection Types{:target="_blank"}](#unions-and-intersection-typestarget_blank)
+  - [Classes{:target="_blank"}](#classestarget_blank)
+  - [Enums{:target="_blank"}](#enumstarget_blank)
+  - [Generics{:target="_blank"}](#genericstarget_blank)
 - [Identifiers](#identifiers)
 - [Keywords](#keywords)
 - [Handbook](#handbook)
-  - [React.js](#reactjs)
+  - [React.js{:target="_blank"}](#reactjstarget_blank)
 - [Resources](#resources)
 
 
-[handbook.pdf](/assets/images/posts/2018-03-05-Typescript/typescript-handbook-beta.pdf)
+[handbook.pdf](/assets/images/posts/2018-03-05-Typescript/typescript-handbook-beta.pdf){:target="_blank"}
 
 
 ## Basic
 
 **object** is a type that represents the non-primitive type, i.e. anything that is not `number`, `string`, `boolean`, `symbol`, `null`, or `undefined`.
 
-### [Types](https://www.staging-typescript.org/docs/handbook/basic-types.html)
+### [Types](https://www.staging-typescript.org/docs/handbook/basic-types.html){:target="_blank"}
 
 ```javascript
 // Boolean
@@ -90,7 +90,7 @@ let u: undefined = undefined;
 let n: null = null;
 ```
 
-### [Interfaces](https://www.staging-typescript.org/docs/handbook/interfaces.html)
+### [Interfaces](https://www.staging-typescript.org/docs/handbook/interfaces.html){:target="_blank"}
 
 ```javascript
 const user = {
@@ -125,7 +125,7 @@ class UserAccount {
 const user: User = new UserAccount("Murphy", 1);
 ```
 
-### [Functions](https://www.staging-typescript.org/docs/handbook/functions.html)
+### [Functions](https://www.staging-typescript.org/docs/handbook/functions.html){:target="_blank"}
 
 ```javascript
 // Typing the function
@@ -145,7 +145,7 @@ let myAdd: (x: number, y: number) => number = function(
 };
 ```
 
-### [Literal Types](https://www.staging-typescript.org/docs/handbook/literal-types.html)
+### [Literal Types](https://www.staging-typescript.org/docs/handbook/literal-types.html){:target="_blank"}
 
 ```javascript
 // String Literal Types
@@ -172,7 +172,7 @@ function rollDice(): 1 | 2 | 3 | 4 | 5 | 6 {
 const result = rollDice();
 ```
 
-### [Unions and Intersection Types](https://www.staging-typescript.org/docs/handbook/unions-and-intersections.html)
+### [Unions and Intersection Types](https://www.staging-typescript.org/docs/handbook/unions-and-intersections.html){:target="_blank"}
 
 ```javascript
 function padLeft(value: string, padding: string | number) {
@@ -180,7 +180,7 @@ function padLeft(value: string, padding: string | number) {
 }
 ```
 
-### [Classes](https://www.staging-typescript.org/docs/handbook/classes.html)
+### [Classes](https://www.staging-typescript.org/docs/handbook/classes.html){:target="_blank"}
 
 ```javascript
 class Animal {
@@ -220,7 +220,7 @@ sam.move();
 tom.move(34);
 ```
 
-### [Enums](https://www.staging-typescript.org/docs/handbook/enums.html)
+### [Enums](https://www.staging-typescript.org/docs/handbook/enums.html){:target="_blank"}
 
 ```javascript
 enum Response {
@@ -235,7 +235,7 @@ function respond(recipient: string, message: Response): void {
 respond("Princess Caroline", Response.Yes);
 ```
 
-### [Generics](https://www.staging-typescript.org/docs/handbook/generics.html)
+### [Generics](https://www.staging-typescript.org/docs/handbook/generics.html){:target="_blank"}
 
 ```javascript
 // Generic Types
@@ -301,7 +301,7 @@ Valid
 
 ## Handbook
 
-### [React.js](https://www.staging-typescript.org/docs/handbook/react.html)
+### [React.js](https://www.staging-typescript.org/docs/handbook/react.html){:target="_blank"}
 
 Install create-react-app
 
