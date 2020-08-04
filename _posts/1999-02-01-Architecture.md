@@ -4,10 +4,12 @@ categories:
   - SD
 tags:
   - Software
+  - Enterprise
+  - Architecture
 last_modified_at: 1999-02-01T12:00:00-01:00
 ---
 
-**[Architecture](https://en.wikipedia.org/wiki/Enterprise_architecture){:target="_blank"}** .
+**[Enterprise Architecture](https://en.wikipedia.org/wiki/Enterprise_architecture){:target="_blank"}** .
 
 TOC
 
@@ -16,4 +18,4 @@ TOC
 
 ## Resources
 
-[Cheat Sheet](/assets/images/posts/1999-01-01-Git/github-git-cheat-sheet.pdf){:target="_blank"}
+[Enterprise Architecture Body of Knowledge](https://en.wikipedia.org/wiki/Enterprise_Architecture_Body_of_Knowledge){:target="_blank"}
