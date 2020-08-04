@@ -5,6 +5,8 @@ TOC
 - [Cheat Sheet](#cheat-sheet)
 - [Company](#company)
 - [Resources](#resources)
+  - [Github, Company](#github-company)
+  - [Github, List](#github-list)
 
 
 # Topics
@@ -47,4 +49,22 @@ Post types:
 
 # Resources
 
-[Awesome](https://github.com/sindresorhus/awesome)
+## Github, Company
+
+- [Alibaba](https://github.com/alibaba)
+- [Apache](https://github.com/apache/)
+- [Apple](https://github.com/apple)
+- [AWS](https://github.com/aws)
+- [Baidu](https://github.com/baidu)
+- [Deepmind](https://github.com/deepmind)
+- [Facebook](https://github.com/facebook)
+- [Google](https://github.com/google)
+- [Intel](https://github.com/intel)
+- [Microsoft](https://github.com/microsoft)
+- [Nvidia](https://github.com/nvidia)
+- [Oracle](https://github.com/oracle)
+- [Tencent](https://github.com/tencent)
+
+## Github, List
+
+- [Awesome](https://github.com/sindresorhus/awesome)
