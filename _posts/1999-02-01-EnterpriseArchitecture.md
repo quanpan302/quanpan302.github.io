@@ -34,7 +34,9 @@ TOC
 ## The Open Group Architecture Framework (TOGAF)
 {% include icon-external-link.html href="https://en.wikipedia.org/wiki/The_Open_Group_Architecture_Framework" %}
 
-- [TOGAF 9.2](https://pubs.opengroup.org/architecture/togaf92-doc/arch/index.html){:target="_blank"}
+[TOGAF 9.2](https://pubs.opengroup.org/architecture/togaf92-doc/arch/index.html){:target="_blank"}
+
+![](/assets/images/posts/1999-02-01-EnterpriseArchitecture/01_structure.png)
 
 TOGAF has long been recognized as a major reference in the field of enterprise architecture. It is successful because it meets a real need: the need for a common framework that will facilitate the capitalization and mutualization of architectural practices throughout a community.
 
