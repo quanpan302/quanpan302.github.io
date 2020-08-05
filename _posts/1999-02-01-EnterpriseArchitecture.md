@@ -34,7 +34,7 @@ TOC
 ## The Open Group Architecture Framework (TOGAF)
 {% include icon-external-link.html href="https://en.wikipedia.org/wiki/The_Open_Group_Architecture_Framework" %}
 
-[TOGAF 9.2](https://pubs.opengroup.org/architecture/togaf92-doc/arch/index.html){:target="_blank"}
+TOGAF 9.2 [Standard](https://pubs.opengroup.org/architecture/togaf92-doc/arch/index.html){:target="_blank"}, [Overview](/assets/images/posts/1999-02-01-EnterpriseArchitecture/00%20TOGAF%209.2%20Standard%20Overview.pdf){:target="_blank"}
 
 ![](/assets/images/posts/1999-02-01-EnterpriseArchitecture/01_structure.png)
 
