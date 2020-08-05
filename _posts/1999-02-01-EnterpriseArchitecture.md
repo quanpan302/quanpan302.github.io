@@ -40,7 +40,7 @@ TOGAF 9.2 [Standard](https://pubs.opengroup.org/architecture/togaf92-doc/arch/in
 
 TOGAF has long been recognized as a major reference in the field of enterprise architecture. It is successful because it meets a real need: the need for a common framework that will facilitate the capitalization and mutualization of architectural practices throughout a community.
 
-![](/assets/images/posts/1999-02-01-EnterpriseArchitecture/adm_tog-r2.png)
+[![](/assets/images/posts/1999-02-01-EnterpriseArchitecture/02_ADM_steps.jpg)](/assets/images/posts/1999-02-01-EnterpriseArchitecture/02_ADM_steps.jpg){:target="_blank"}
 
 ## Resources
 
