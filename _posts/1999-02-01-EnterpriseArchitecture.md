@@ -1,9 +1,8 @@
 ---
-title: "Architecture"
+title: "Enterprise Architecture"
 categories:
-  - SD
+  - KG
 tags:
-  - Software
   - Enterprise
   - Architecture
 last_modified_at: 1999-02-01T12:00:00-01:00

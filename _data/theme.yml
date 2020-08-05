@@ -39,4 +39,4 @@ navigation_pages:
   # - cv.md
   # - posts.md
   - tags.md
-  # - categories.md
+  - categories.md
