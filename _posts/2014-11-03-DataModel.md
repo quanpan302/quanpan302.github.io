@@ -24,28 +24,28 @@ The main **aim** of data models is to support the development of information sys
 
 [Flat Model](https://en.wikipedia.org/wiki/Flat-file_database){:target="_blank"}
 
-![](/assets/images/posts/2014-11-03-DataModel/Flat%20Model.png)
+{% include image.html href="/assets/images/posts/2014-11-03-DataModel/Flat%20Model.png" %}
 
 [Hierarchical Model](https://en.wikipedia.org/wiki/Hierarchical_database_model){:target="_blank"}
 
-![](/assets/images/posts/2014-11-03-DataModel/Hierarchical%20Model.png)
+{% include image.html href="/assets/images/posts/2014-11-03-DataModel/Hierarchical%20Model.png" %}
 
 [Network Model](https://en.wikipedia.org/wiki/Network_model){:target="_blank"}
 
-![](/assets/images/posts/2014-11-03-DataModel/Network%20Model.png)
+{% include image.html href="/assets/images/posts/2014-11-03-DataModel/Network%20Model.png" %}
 
 [Relational Model](https://en.wikipedia.org/wiki/Relational_model){:target="_blank"}
 
-![](/assets/images/posts/2014-11-03-DataModel/Relational%20Model.png)
+{% include image.html href="/assets/images/posts/2014-11-03-DataModel/Relational%20Model.png" %}
 
 [Object-relational Model](https://en.wikipedia.org/wiki/Object-relational_database){:target="_blank"}
 [Object-role Modeling](https://en.wikipedia.org/wiki/Object-role_modeling){:target="_blank"}
 
-![](/assets/images/posts/2014-11-03-DataModel/Concept-oriented%20Model.png)
+{% include image.html href="/assets/images/posts/2014-11-03-DataModel/Concept-oriented%20Model.png" %}
 
 [Star Schema](https://en.wikipedia.org/wiki/Star_schema){:target="_blank"}
 
-![](/assets/images/posts/2014-11-03-DataModel/Star%20Schema.png)
+{% include image.html href="/assets/images/posts/2014-11-03-DataModel/Star%20Schema.png" %}
 
 ## Data model theory
 

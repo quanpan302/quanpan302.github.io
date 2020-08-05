@@ -122,7 +122,7 @@ GeoServer provides support for a broad selection of simple feature data stores, 
 - [MongoDB Tutorial](https://docs.geoserver.org/latest/en/user/data/app-schema/mongo-tutorial.html){:target="_blank"}
 - [Apache Solr Tutorial](https://docs.geoserver.org/latest/en/user/data/app-schema/solr-tutorial.html){:target="_blank"}
 
-![](/assets/images/posts/2014-03-01-GeoServer/App Schema.png)
+{% include image.html href="/assets/images/posts/2014-03-01-GeoServer/App Schema.png" %}
 
 ## Styling
 

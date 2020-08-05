@@ -76,7 +76,7 @@ TOC
   - Container Resource Monitoring
   - Cluster-level Logging
 
-![](/assets/images/posts/2016-02-03-Kubernetes/components.png){:target="_blank"}
+{% include image.html href="/assets/images/posts/2016-02-03-Kubernetes/components.png" %}
 
 ### [Cluster Architecture](https://kubernetes.io/docs/concepts/architecture/){:target="_blank"}
 

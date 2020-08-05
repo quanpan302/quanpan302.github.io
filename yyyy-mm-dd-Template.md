@@ -32,14 +32,17 @@ Post types:
 
 ## Examples
 
-image, space %20
-![](/assets/images/posts/)
+### image, space %20
+[![](/assets/images/posts/)](/assets/images/posts/)
+or
+{% include image.html href="/assets/images/posts/" %}
 
-external link
+### external link
 {% include icon-external-link.html href="http://www.quanpan302.com" %}
 or
 {:target="_blank"}
 
+### Sup, Sub
 km<sup>2</sup> 
 km<sub>2</sub> 
 

@@ -22,7 +22,7 @@ The NDS standard is documented regarding database structures, interoperability r
 - Investigation Modules: Execution framework for testing NDS databases on target hardware
 - Database Inspector: Desktop tool for visualizing NDS databases
 
-![](/assets/images/posts/2018-01-04-Navigation/Overview_buildingblocks-nds-with-HAD.jpg){:target="_blank"}
+{% include image.html href="/assets/images/posts/2018-01-04-Navigation/Overview_buildingblocks-nds-with-HAD.jpg" %}
 
 ## [Map database management](https://en.wikipedia.org/wiki/Map_database_management){:target="_blank"}
 

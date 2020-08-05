@@ -26,7 +26,7 @@ Remote sensing is used in numerous fields, including **geography**, **land surve
 
 Within the scope of the combat against desertification, remote sensing allows researchers to follow up and monitor risk areas in the long term, to determine desertification factors, to support decision-makers in defining relevant measures of environmental management, and to assess their impacts.
 
-![](/assets/images/posts/2018-01-03-RemoteSensing/RemoteSensingIllustration.jpg){:target="_blank"}
+{% include image.html href="/assets/images/posts/2018-01-03-RemoteSensing/RemoteSensingIllustration.jpg" %}
 
 - **Conventional radar** is mostly associated with aerial traffic control, early warning, and certain large scale meteorological data. _Doppler radar_ is used by local law enforcements’ monitoring of speed limits and in enhanced meteorological collection such as wind speed and direction within weather systems in addition to precipitation location and intensity. Other types of _active collection_ includes plasmas in the ionosphere. _Interferometric synthetic aperture radar_ is used to produce precise digital elevation models of large scale terrain (See _RADARSAT, TerraSAR-X, Magellan_).
 - **Laser and radar altimeters** on satellites have provided a wide range of data. By measuring the bulges of water caused by gravity, they map features on the seafloor to a resolution of a mile or so. By measuring the height and wavelength of ocean waves, the altimeters measure wind speeds and direction, and surface ocean currents and directions.

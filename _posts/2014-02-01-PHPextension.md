@@ -14,6 +14,8 @@ PHP ships with the extensions most useful to the majority of developers. They ar
 - [What Is Zend? and What Is PHP?](#what-is-zend-and-what-is-php)
 - [External Modules vs Built-in Modules](#external-modules-vs-built-in-modules)
 - [Creating Extensions](#creating-extensions)
+  - [Source Layout](#source-layout)
+  - [A simple extension.](#a-simple-extension)
 
 Extending PHP" is easier said than done. PHP has evolved to a full-fledged tool consisting of a few megabytes of source code, and to hack a system like this quite a few things have to be learned and considered.
 
@@ -36,7 +38,7 @@ Zend itself really forms only the language core, implementing PHP at its very ba
 - PHP takes parts 2 and 3. 
 - Together they form the complete PHP package.
 
-![](/assets/images/posts/2014-02-01-PHPextension/Zend.01-internal-structure.png)
+{% include image.html href="/assets/images/posts/2014-02-01-PHPextension/Zend.01-internal-structure.png" %}
 
 ## External Modules vs Built-in Modules
 
