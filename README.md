@@ -60,6 +60,7 @@ Post types:
 - [Facebook](https://github.com/facebook)
 - [Google](https://github.com/google)
 - [Intel](https://github.com/intel)
+- [MDN, Mozilla Developer Network](https://github.com/mdn/)
 - [Microsoft](https://github.com/microsoft)
 - [Nvidia](https://github.com/nvidia)
 - [Oracle](https://github.com/oracle)
