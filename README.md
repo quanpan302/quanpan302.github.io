@@ -6,6 +6,7 @@ TOC
 - [Company](#company)
 - [Resources](#resources)
   - [Github, Company](#github-company)
+  - [Github, University](#github-university)
   - [Github, List](#github-list)
 
 
@@ -65,6 +66,10 @@ Post types:
 - [Nvidia](https://github.com/nvidia)
 - [Oracle](https://github.com/oracle)
 - [Tencent](https://github.com/tencent)
+
+## Github, University
+
+- [UvA, Quality Critical Distributed Computing QCDIS](https://github.com/QCDIS)
 
 ## Github, List
 
