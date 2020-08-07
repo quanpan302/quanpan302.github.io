@@ -7,6 +7,7 @@ TOC
 - [Resources](#resources)
   - [Github, Company](#github-company)
   - [Github, University](#github-university)
+  - [Dataset](#dataset)
   - [Github, List](#github-list)
 
 
@@ -69,7 +70,15 @@ Post types:
 
 ## Github, University
 
+- [MIT, Massachusetts Institute of Technology](https://github.com/mit)
+- [Princeton University](https://github.com/PrincetonUniversity)
+- [Stanford University](https://github.com/Stanford)
 - [UvA, Quality Critical Distributed Computing QCDIS](https://github.com/QCDIS)
+
+## Dataset
+
+- [ImageNet](http://www.image-net.org)
+- [WorkNet](https://wordnet.princeton.edu)
 
 ## Github, List
 
