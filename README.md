@@ -62,6 +62,8 @@ Post types:
 - [Facebook](https://github.com/facebook)
 - [Google](https://github.com/google)
 - [Intel](https://github.com/intel)
+- [Kitware](https://github.com/Kitware)
+- [MeteoGroup](https://github.com/MeteoGroup)
 - [MDN, Mozilla Developer Network](https://github.com/mdn/)
 - [Microsoft](https://github.com/microsoft)
 - [Nvidia](https://github.com/nvidia)
@@ -70,6 +72,7 @@ Post types:
 
 ## Github, University
 
+- [Carnegie Mellon University](https://github.com/cmu-db)
 - [MIT, Massachusetts Institute of Technology](https://github.com/mit)
 - [Princeton University](https://github.com/PrincetonUniversity)
 - [Stanford University](https://github.com/Stanford)
