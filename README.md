@@ -57,6 +57,7 @@ Post types:
 - [Apache](https://github.com/apache/)
 - [Apple](https://github.com/apple)
 - [AWS](https://github.com/aws)
+- [Alexa](https://github.com/alexa)
 - [Baidu](https://github.com/baidu)
 - [Deepmind](https://github.com/deepmind)
 - [Facebook](https://github.com/facebook)
