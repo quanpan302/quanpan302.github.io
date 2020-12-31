@@ -37,6 +37,9 @@ Post types:
 or
 {% include image.html href="/assets/images/posts/" %}
 
+### file
+[file](/assets/images/posts/){:target="_blank"}
+
 ### external link
 {% include icon-external-link.html href="http://www.quanpan302.com" %}
 or
