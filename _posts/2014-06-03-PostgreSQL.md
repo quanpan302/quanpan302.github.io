@@ -20,4 +20,5 @@ TOC
 ## Resources
 
 [PostgreSQL Tutorial](https://www.postgresqltutorial.com/){:target="_blank"}
+[PostgreSQL-Cheat-Sheet.pdf](/assets/images/posts/2014-06-03-PostgreSQL/PostgreSQL-Cheat-Sheet.pdf){:target="_blank"}
 
