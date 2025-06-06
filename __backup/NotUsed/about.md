@@ -15,7 +15,7 @@ layout: about
 
 ## CV
 
-[CV-QuanPan.pdf](/assets/docs/CV-QuanPan.pdf)
+[CV-QuanPan.pdf](/assets/about/Europass_CV-QuanPan_Sty1.pdf)
 
 ## Contact
 
