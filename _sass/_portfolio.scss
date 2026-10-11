@@ -85,6 +85,7 @@ a:focus-visible, button:focus-visible, input:focus-visible {
 .topic-bar-track { background: #edf5f3; border-radius: 1rem; height: .6rem; overflow: hidden; > span { display: block; background: $portfolio-accent; height: 100%; border-radius: inherit; } }
 
 .layout--home .entries-grid .entry { padding: 1.5rem; border: 1px solid $portfolio-line; border-radius: .75rem; background: #fff; }
+.layout--home .entries-grid { grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); }
 .search-heading { font-size: 2rem; letter-spacing: -.03em; }
 .search-content .search-input, .layout--search .search-input { width: 100%; padding: 1rem; border: 1px solid $portfolio-line; background: #fff; border-radius: .5rem; font-size: 1.2rem; outline: revert; }
 .search-help { font-size: .9rem; color: #4b6369; }

@@ -26,8 +26,10 @@
     <nav class="portfolio-nav" aria-label="Portfolio">
       <a href="{{ '/projects/' | relative_url }}">Projects</a>
       <a href="{{ '/posts/' | relative_url }}">Writing</a>
-      <a href="{{ '/about/' | relative_url }}">About</a>
-      <a href="{{ '/cv/' | relative_url }}">CV</a>
+      {% assign about_page = site.pages | where: 'path', 'about.md' | first %}
+      {% assign cv_page = site.pages | where: 'path', 'cv.md' | first %}
+      <a href="{{ about_page.url | relative_url }}">About</a>
+      <a href="{{ cv_page.url | relative_url }}">CV</a>
       {% if site.search %}<a href="{{ '/search/' | relative_url }}">Search</a>{% endif %}
     </nav>
   </div>
