@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" role="img" aria-labelledby="title desc">
+<title id="title">GeoServer: publish spatial sources</title><desc id="desc">Raster and vector stores enter GeoServer, where styles are applied. WMS map images and WFS feature responses are published to clients.</desc>
+<rect width="800" height="450" fill="#102136"/>
+<g fill="#1a3b51" stroke="#64d9cb" stroke-width="3"><rect x="50" y="125" width="160" height="95"/><path d="M50 155H210M50 187H210M103 125V220M157 125V220"/><path d="M60 325L100 270L145 315L205 265"/><rect x="305" y="150" width="225" height="190" rx="12"/><rect x="620" y="125" width="130" height="90" rx="8"/><rect x="620" y="285" width="130" height="90" rx="8"/></g>
+<path d="M215 173L295 210M215 300L295 280M535 210L610 170M535 280L610 330" stroke="#ffcf7b" stroke-width="4"/>
+<g font-family="sans-serif" fill="#f4f8fc"><text x="40" y="62" font-size="32">GeoServer / data becomes a service</text><g font-size="22" text-anchor="middle"><text x="130" y="250">Raster / vector</text><text x="417" y="225">GeoServer</text><text x="417" y="272">Styles</text><text x="685" y="163">WMS</text><text x="685" y="195">Map</text><text x="685" y="323">WFS</text><text x="685" y="355">Features</text></g><text x="40" y="420" font-size="17">SPATIAL PUBLISHING SCHEMATIC · ILLUSTRATIVE GEOMETRY</text></g>
+</svg>

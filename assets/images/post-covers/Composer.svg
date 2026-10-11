@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" role="img" aria-labelledby="title desc">
+<title id="title">Composer: reproducible project dependencies</title><desc id="desc">Project requirements and Packagist package metadata feed dependency resolution. A lock file records selected versions, which install into vendor with an autoloader.</desc>
+<rect width="800" height="450" fill="#102136"/>
+<g fill="#1a3b51" stroke="#64d9cb" stroke-width="3"><rect x="45" y="130" width="235" height="80" rx="10"/><rect x="45" y="285" width="235" height="80" rx="10"/><path d="M335 175L425 125L515 175V315L425 365L335 315Z"/><rect x="575" y="135" width="180" height="85" rx="10"/><rect x="575" y="290" width="180" height="85" rx="10"/></g>
+<path d="M285 170L325 205M285 325L325 285M520 205L565 177M665 225V280" stroke="#ffcf7b" stroke-width="4"/>
+<g font-family="sans-serif" fill="#f4f8fc"><text x="40" y="62" font-size="32">Composer / resolve, lock, install</text><g font-size="21" text-anchor="middle"><text x="162" y="179">composer.json</text><text x="162" y="334">Packagist</text><text x="425" y="253">Resolve</text><text x="665" y="184">composer.lock</text><text x="665" y="325">vendor/</text><text x="665" y="357">Autoload</text></g><text x="40" y="420" font-size="17">PROJECT DEPENDENCY SCHEMATIC · LOCKED VERSIONS, NOT GLOBAL</text></g>
+</svg>

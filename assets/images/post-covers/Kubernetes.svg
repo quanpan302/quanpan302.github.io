@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" role="img" aria-labelledby="title desc">
+<title id="title">Kubernetes: desired state across worker nodes</title><desc id="desc">A control plane schedules pods across two worker nodes. A service connects clients to those pods. The layout is conceptual rather than a live cluster topology.</desc>
+<rect width="800" height="450" fill="#102136"/>
+<g fill="#1a3b51" stroke="#64d9cb" stroke-width="3"><rect x="50" y="110" width="265" height="70" rx="10"/><rect x="485" y="110" width="265" height="70" rx="10"/><rect x="50" y="245" width="315" height="140" rx="12"/><rect x="435" y="245" width="315" height="140" rx="12"/><circle cx="145" cy="325" r="35"/><circle cx="270" cy="325" r="35"/><circle cx="530" cy="325" r="35"/><circle cx="655" cy="325" r="35"/></g>
+<path d="M180 185V230H590V240M205 230V240M620 185V210H270V285M530 210V285" stroke="#ffcf7b" stroke-width="3" fill="none"/>
+<g font-family="sans-serif" fill="#f4f8fc"><text x="40" y="62" font-size="32">Kubernetes / orchestrate desired state</text><g font-size="22" text-anchor="middle"><text x="182" y="155">Control plane</text><text x="617" y="155">Service</text><text x="207" y="276">Worker node</text><text x="592" y="276">Worker node</text><text x="145" y="333">Pod</text><text x="270" y="333">Pod</text><text x="530" y="333">Pod</text><text x="655" y="333">Pod</text></g><text x="40" y="420" font-size="17">CLUSTER SCHEMATIC · SCHEDULING + SERVICE DISCOVERY</text></g>
+</svg>

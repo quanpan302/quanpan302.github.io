@@ -94,6 +94,9 @@ paginate: 12
 paginate_path: /page:num/
 
 # Exclude from processing.
+exclude:
+  - yyyy-mm-dd-Template.md
+  - yyyy-mm-dd-Template.html
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
 # exclude:

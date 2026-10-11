@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" role="img" aria-labelledby="title desc">
+<title id="title">Git: branches and shared history</title><desc id="desc">A main commit line splits into two feature commits and merges back. Circles represent snapshots, not a real repository.</desc>
+<rect width="800" height="450" fill="#102136"/>
+<g font-family="sans-serif" fill="#f4f8fc"><text x="40" y="62" font-size="32">Git / shared history</text><text x="40" y="420" font-size="17">CONCEPTUAL COMMIT GRAPH · NOT A REAL REPOSITORY</text></g>
+<g fill="none" stroke-width="5"><path d="M100 285H700" stroke="#64d9cb"/><path d="M230 285C285 285 285 175 340 175H460C515 175 515 285 570 285" stroke="#ffcf7b"/></g>
+<g fill="#102136" stroke-width="5" stroke="#64d9cb"><circle cx="100" cy="285" r="14"/><circle cx="230" cy="285" r="14"/><circle cx="405" cy="285" r="14"/><circle cx="570" cy="285" r="18"/><circle cx="700" cy="285" r="14"/></g>
+<g fill="#ffcf7b"><circle cx="340" cy="175" r="14"/><circle cx="460" cy="175" r="14"/></g>
+<g fill="#f4f8fc" font-family="sans-serif" font-size="22"><text x="310" y="130">feature branch</text><text x="90" y="340">main</text><text x="520" y="340">merge</text><text x="350" y="230">snapshots</text></g>
+</svg>

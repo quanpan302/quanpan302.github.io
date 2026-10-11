@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" role="img" aria-labelledby="title desc">
+<title id="title">Semantic Web: an RDF triple with meaning</title><desc id="desc">A subject connects to an object via a named predicate. An ontology supplies shared vocabulary and types to make the relation machine-readable.</desc>
+<rect width="800" height="450" fill="#102136"/>
+<g fill="#1a3b51" stroke="#64d9cb" stroke-width="3"><circle cx="155" cy="270" r="75"/><circle cx="645" cy="270" r="75"/><rect x="270" y="110" width="260" height="75" rx="12"/></g>
+<path d="M235 270H560L542 258M560 270L542 282M320 185L180 195M480 185L620 195" fill="none" stroke="#ffcf7b" stroke-width="4"/>
+<g font-family="sans-serif" fill="#f4f8fc"><text x="40" y="62" font-size="32">Semantic Web / data with meaning</text><g font-size="23" text-anchor="middle"><text x="155" y="278">Subject</text><text x="645" y="278">Object</text><text x="400" y="253">Predicate</text><text x="400" y="155">OWL ontology</text><text x="400" y="365">RDF: a graph of named relationships</text></g><text x="40" y="420" font-size="17">KNOWLEDGE GRAPH SCHEMATIC · SHARED VOCABULARY</text></g>
+</svg>

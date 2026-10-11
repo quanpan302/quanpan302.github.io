@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" role="img" aria-labelledby="title desc">
+<title id="title">GeoNode: a collaborative spatial portal</title><desc id="desc">A conceptual portal organizes layers, maps and documents. A collaborator connects to the shared collection; this illustrates the topic of a brief resource post.</desc>
+<rect width="800" height="450" fill="#102136"/>
+<g fill="#1a3b51" stroke="#64d9cb" stroke-width="3"><rect x="70" y="110" width="535" height="265" rx="12"/><path d="M70 155H605"/><rect x="95" y="190" width="135" height="140" rx="8"/><rect x="270" y="190" width="135" height="140" rx="8"/><rect x="445" y="190" width="135" height="140" rx="8"/><circle cx="695" cy="220" r="30"/><path d="M650 310V290Q695 250 740 290V310"/></g>
+<path d="M610 245H645" stroke="#ffcf7b" stroke-width="4"/>
+<g font-family="sans-serif" fill="#f4f8fc"><text x="40" y="62" font-size="32">GeoNode / a place to share geography</text><g font-size="22" text-anchor="middle"><text x="337" y="141">Spatial portal</text><text x="162" y="268">Layers</text><text x="337" y="268">Maps</text><text x="512" y="268">Documents</text><text x="695" y="354">Collaborate</text></g><text x="40" y="420" font-size="17">CONCEPTUAL PORTAL · NOT AN APPLICATION SCREENSHOT</text></g>
+</svg>

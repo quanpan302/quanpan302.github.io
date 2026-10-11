@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" role="img" aria-labelledby="title desc">
+<title id="title">Remote sensing: observe without touching</title><desc id="desc">A satellite observes reflected energy from a schematic terrain surface illuminated by the sun. Its observations feed image processing. No real satellite track or measured spectrum is shown.</desc>
+<rect width="800" height="450" fill="#102136"/>
+<g fill="#1a3b51" stroke="#64d9cb" stroke-width="3"><path d="M50 315L160 255L270 295L340 260L460 330L350 375L220 350L110 375Z"/><rect x="375" y="135" width="55" height="55"/><path d="M325 145H365V180H325ZM440 145H480V180H440Z"/><rect x="570" y="265" width="185" height="100" rx="12"/></g>
+<circle cx="130" cy="140" r="30" fill="#ffcf7b"/><path d="M140 180L220 275M250 285L395 200M440 205L560 295" stroke="#ffcf7b" stroke-width="3" stroke-dasharray="8 6" fill="none"/>
+<g font-family="sans-serif" fill="#f4f8fc"><text x="40" y="62" font-size="32">Remote sensing / from energy to imagery</text><g font-size="22"><text x="70" y="109">Sun</text><text x="360" y="120">Sensor</text><text x="280" y="265">Reflected energy</text><text x="587" y="308">Image</text><text x="587" y="340">processing</text></g><text x="40" y="420" font-size="17">OBSERVATION SCHEMATIC · NO MEASURED TERRAIN OR SPECTRA</text></g>
+</svg>

@@ -18,7 +18,7 @@
       
       {% assign entry_image = entry_image | escape %}
       
-      <img class="entry-image u-photo" src="{{ entry_image }}" alt="">
+      <a href="{{ post.url | relative_url }}" tabindex="-1" aria-hidden="true"><img class="entry-image u-photo" src="{{ entry_image }}" alt="" loading="lazy" width="960" height="540"></a>
     {% endif %}
   </header>
   <footer class="entry-meta">

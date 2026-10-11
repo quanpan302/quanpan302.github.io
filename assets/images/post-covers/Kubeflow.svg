@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" role="img" aria-labelledby="title desc">
+<title id="title">Kubeflow: machine learning from exploration to serving</title><desc id="desc">Notebook exploration feeds training, evaluation and serving stages in a Kubernetes-hosted pipeline. Evaluation can send feedback to training. No model scores are depicted.</desc>
+<rect width="800" height="450" fill="#102136"/>
+<rect x="40" y="145" width="720" height="235" rx="18" fill="#1a3b51" stroke="#64d9cb" stroke-width="3"/>
+<g fill="#102136" stroke="#64d9cb" stroke-width="3"><rect x="65" y="210" width="150" height="90" rx="10"/><rect x="240" y="210" width="150" height="90" rx="10"/><rect x="415" y="210" width="150" height="90" rx="10"/><rect x="590" y="210" width="145" height="90" rx="10"/></g>
+<path d="M220 255H235M395 255H410M570 255H585M490 305V335H315V305" stroke="#ffcf7b" stroke-width="4" fill="none"/>
+<g font-family="sans-serif" fill="#f4f8fc"><text x="40" y="62" font-size="32">Kubeflow / operationalize ML workflows</text><g font-size="21" text-anchor="middle"><text x="400" y="182">Kubernetes-hosted ML pipeline</text><text x="140" y="263">Notebook</text><text x="315" y="263">Train</text><text x="490" y="263">Evaluate</text><text x="662" y="263">Serve</text><text x="400" y="367">Experiment feedback</text></g><text x="40" y="420" font-size="17">MACHINE-LEARNING WORKFLOW · NO MODEL PERFORMANCE CLAIMS</text></g>
+</svg>

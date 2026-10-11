@@ -1,5 +1,10 @@
 ---
 title: "Software Engineering"
+image:
+  path: /assets/images/post-covers/SoftwareEngineering.svg
+  thumbnail: /assets/images/post-covers/SoftwareEngineering.svg
+  caption: "Iterative development schematic connecting requirements, design, implementation and verification."
+  alt: "Software engineering lifecycle joining requirements, design, implementation, verification and feedback."
 categories:
   - SD
 tags:

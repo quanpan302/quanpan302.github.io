@@ -26,7 +26,25 @@ Post types:
 
 # Template
 
-[yyyy-mm-dd-Template.md](/__backup//yyyy-mm-dd-Template.md)
+- Markdown: [yyyy-mm-dd-Template.md](yyyy-mm-dd-Template.md)
+- HTML single-page post: [yyyy-mm-dd-Template.html](yyyy-mm-dd-Template.html)
+
+Copy a template into `_posts/` using a real `YYYY-MM-DD-topic.md` or
+`YYYY-MM-DD-topic.html` filename. Keep the YAML front matter and `layout: post`
+for the site's navigation, metadata, cover image, feed, and search. Write the
+HTML template body as an HTML fragment (no second `<html>` or `<body>` wrapper).
+For a completely standalone HTML document with its own head and body, use
+`layout: null`; it remains a post but does not inherit the site navigation or
+styles. Jekyll still processes Liquid in either format.
+
+Give each post its own local `image.path`, `image.thumbnail`, `image.alt`, and
+`image.caption`. Covers are shown on the post and thumbnails on the Posts page.
+The HTML template includes accessible schematic map, static 3D object, chart
+with a data table, and workflow diagram examples. Replace synthetic data with
+sourced observations when publishing. Prefer local SVG or existing figures;
+clearly identify illustrative maps and models rather than presenting them as
+real measurements. Add further figures in the post body where they help explain
+the content.
 
 # Cheat Sheet
 

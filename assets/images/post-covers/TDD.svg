@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" role="img" aria-labelledby="title desc">
+<title id="title">TDD: red, green, refactor</title><desc id="desc">A failing test leads to a minimal passing implementation, followed by refactoring while keeping tests passing. The cycle returns to the next failing test.</desc>
+<rect width="800" height="450" fill="#102136"/>
+<path d="M265 165H535M610 225L455 325M345 325L190 225" stroke="#ffcf7b" stroke-width="4" fill="none"/>
+<g fill="#1a3b51" stroke-width="4"><circle cx="190" cy="165" r="75" stroke="#ff9a9a"/><circle cx="610" cy="165" r="75" stroke="#64d9cb"/><circle cx="400" cy="325" r="65" stroke="#8abaff"/></g>
+<g font-family="sans-serif" fill="#f4f8fc"><text x="40" y="62" font-size="32">TDD / let a test lead the change</text><g font-size="22" text-anchor="middle"><text x="190" y="154">RED</text><text x="190" y="190">Failing test</text><text x="610" y="154">GREEN</text><text x="610" y="190">Make it pass</text><text x="400" y="333">Refactor</text><text x="400" y="223">Repeat</text></g><text x="40" y="420" font-size="17">TEST-DRIVEN DEVELOPMENT CYCLE · KEEP THE TESTS PASSING</text></g>
+</svg>

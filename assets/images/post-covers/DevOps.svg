@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" role="img" aria-labelledby="title desc">
+<title id="title">DevOps: delivery and operational feedback</title><desc id="desc">Two joined loops represent development and operations. Build and release feed operate and observe; observation returns learning to development.</desc>
+<rect width="800" height="450" fill="#102136"/>
+<path d="M400 245C245 55 55 135 95 265C135 395 300 365 400 245C500 125 665 95 705 225C745 355 555 435 400 245Z" fill="none" stroke="#64d9cb" stroke-width="9"/>
+<path d="M245 115L265 130L240 140M565 375L540 365L565 350" stroke="#ffcf7b" stroke-width="5" fill="none"/>
+<g font-family="sans-serif" fill="#f4f8fc"><text x="40" y="62" font-size="32">DevOps / delivery is a feedback loop</text><g font-size="23" text-anchor="middle"><text x="230" y="225">Build</text><text x="230" y="275">Release</text><text x="570" y="225">Operate</text><text x="570" y="275">Observe</text></g><text x="40" y="420" font-size="17">COLLABORATION SCHEMATIC · DEVELOPMENT + OPERATIONS</text></g>
+</svg>

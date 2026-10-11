@@ -1,5 +1,10 @@
 ---
 title: "Data Model"
+image:
+  path: /assets/images/post-covers/DataModel.svg
+  thumbnail: /assets/images/post-covers/DataModel.svg
+  caption: "Conceptual, logical and physical modeling schematic for an illustrative owner-vehicle relationship."
+  alt: "Conceptual, logical and physical data-model perspectives for an owner and vehicle relationship."
 categories:
   - IT
 tags:

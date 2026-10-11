@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" role="img" aria-labelledby="title desc">
+<title id="title">Environmental science: linked ecosystem components</title><desc id="desc">A conceptual landscape cross-section connects atmosphere, vegetation, water and soil. These components inform environmental assessment and restoration; there are no real measurements or locations.</desc>
+<rect width="800" height="450" fill="#102136"/>
+<path d="M50 320L160 290L285 325L395 300L510 345L620 315L750 325V385H50Z" fill="#1a3b51" stroke="#64d9cb" stroke-width="3"/>
+<path d="M510 345Q560 365 620 315M515 370H650" fill="none" stroke="#8abaff" stroke-width="4"/>
+<g fill="#1a3b51" stroke="#64d9cb" stroke-width="3"><path d="M130 285L180 195L230 285ZM180 285V315"/><path d="M250 315L300 225L350 315ZM300 315V330"/><path d="M440 155Q425 115 470 110Q500 75 535 115Q585 115 575 155Z"/></g>
+<path d="M485 165L475 225M520 165L510 225M180 335L160 365M180 335L205 368" stroke="#ffcf7b" stroke-width="3" fill="none"/>
+<g font-family="sans-serif" fill="#f4f8fc"><text x="40" y="62" font-size="32">Environmental science / connected systems</text><g font-size="22"><text x="580" y="148">Atmosphere</text><text x="65" y="180">Vegetation</text><text x="655" y="307">Water</text><text x="320" y="371">Soil</text></g><text x="40" y="420" font-size="17">ECOSYSTEM CROSS-SECTION · NOT A MEASURED LANDSCAPE</text></g>
+</svg>

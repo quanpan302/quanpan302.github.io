@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" role="img" aria-labelledby="title desc">
+<title id="title">PDAL: a pipeline for point clouds</title><desc id="desc">A synthetic 3D point cloud is shown above coordinate axes. PDAL readers, filters and writers form a pipeline to transform point data. Points are not survey measurements.</desc>
+<rect width="800" height="450" fill="#102136"/>
+<path d="M85 320H270M85 320L160 365M85 320V145" stroke="#47657e" stroke-width="3" fill="none"/>
+<g fill="#64d9cb"><circle cx="105" cy="235" r="5"/><circle cx="125" cy="220" r="5"/><circle cx="145" cy="230" r="5"/><circle cx="165" cy="190" r="5"/><circle cx="185" cy="205" r="5"/><circle cx="205" cy="240" r="5"/><circle cx="225" cy="265" r="5"/><circle cx="115" cy="275" r="5"/><circle cx="145" cy="260" r="5"/><circle cx="175" cy="245" r="5"/><circle cx="185" cy="280" r="5"/><circle cx="235" cy="225" r="5"/><circle cx="205" cy="185" r="5"/><circle cx="155" cy="300" r="5"/><circle cx="250" cy="290" r="5"/></g>
+<g fill="#1a3b51" stroke="#64d9cb" stroke-width="3"><rect x="325" y="185" width="120" height="120" rx="10"/><rect x="475" y="185" width="120" height="120" rx="10"/><rect x="625" y="185" width="120" height="120" rx="10"/></g>
+<path d="M275 245H315M450 245H465M600 245H615" stroke="#ffcf7b" stroke-width="4"/>
+<g font-family="sans-serif" fill="#f4f8fc"><text x="40" y="62" font-size="32">PDAL / points through a pipeline</text><g font-size="21" text-anchor="middle"><text x="175" y="390">Point cloud</text><text x="385" y="253">Reader</text><text x="535" y="253">Filter</text><text x="685" y="253">Writer</text></g><text x="40" y="420" font-size="17">SYNTHETIC 3D POINT SCHEMATIC · NOT SURVEY MEASUREMENTS</text></g>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" role="img" aria-labelledby="title desc">
+<title id="title">Azure: resource organization and managed identity</title><desc id="desc">A resource group contains an application, its managed identity and a storage resource. Identity authorizes application access to storage in this conceptual design.</desc>
+<rect width="800" height="450" fill="#102136"/>
+<rect x="65" y="120" width="670" height="265" rx="18" fill="#1a3b51" stroke="#64d9cb" stroke-width="3"/>
+<g fill="#102136" stroke="#64d9cb" stroke-width="3"><rect x="110" y="230" width="180" height="105" rx="12"/><path d="M340 210H460V305L400 350L340 305Z"/><rect x="520" y="230" width="170" height="105" rx="12"/></g>
+<path d="M295 282H330M470 282H510" stroke="#ffcf7b" stroke-width="4"/>
+<g font-family="sans-serif" fill="#f4f8fc"><text x="40" y="62" font-size="32">Azure / resources with an identity</text><g font-size="22" text-anchor="middle"><text x="400" y="165">Resource group</text><text x="200" y="292">Application</text><text x="400" y="257">Managed</text><text x="400" y="288">identity</text><text x="605" y="292">Storage</text></g><text x="40" y="420" font-size="17">CONCEPTUAL RESOURCE SCHEMATIC · NOT A LIVE SUBSCRIPTION</text></g>
+</svg>

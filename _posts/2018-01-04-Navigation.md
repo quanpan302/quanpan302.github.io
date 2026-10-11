@@ -1,5 +1,10 @@
 ---
 title: "Navigation"
+image:
+  path: /assets/images/post-covers/Navigation.svg
+  thumbnail: /assets/images/post-covers/Navigation.svg
+  caption: "Illustrative navigation graph connecting position, route and destination; not a real map or GPS track."
+  alt: "Illustrative navigation route through a road graph using position, map data and a destination."
 categories:
   - KG
 tags:

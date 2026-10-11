@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" role="img" aria-labelledby="title desc">
+<title id="title">Servlet: request and response lifecycle</title><desc id="desc">A browser sends an HTTP request to a servlet inside a container. The servlet handles the request and generates the HTTP response.</desc>
+<rect width="800" height="450" fill="#102136"/>
+<g font-family="sans-serif" fill="#f4f8fc"><text x="40" y="62" font-size="32">Servlet / server-side web requests</text><text x="40" y="420" font-size="17">REQUEST–RESPONSE SCHEMATIC · DYNAMIC CONTENT</text></g>
+<g stroke="#64d9cb" stroke-width="3" fill="#1a3b51"><rect x="55" y="165" width="180" height="155" rx="10"/><path d="M55 200H235"/><rect x="390" y="110" width="355" height="260" rx="16"/><rect x="460" y="200" width="215" height="105" rx="10"/></g>
+<path d="M245 210H445L430 200M445 210L430 220M445 300H245L260 290M245 300L260 310" stroke="#ffcf7b" stroke-width="4" fill="none"/>
+<g font-family="sans-serif" fill="#f4f8fc" font-size="22" text-anchor="middle"><text x="145" y="263">Browser</text><text x="565" y="150">Servlet container</text><text x="565" y="242">Servlet</text><text x="565" y="278">service()</text><text x="330" y="185">Request</text><text x="330" y="337">Response</text></g>
+</svg>

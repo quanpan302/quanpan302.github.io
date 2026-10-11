@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" role="img" aria-labelledby="title desc">
+<title id="title">Enterprise architecture: strategy to systems</title><desc id="desc">Four aligned architecture domains link business capabilities to applications, information and technology. A governance rail spans the domains.</desc>
+<rect width="800" height="450" fill="#102136"/>
+<g font-family="sans-serif" fill="#f4f8fc"><text x="40" y="62" font-size="32">Enterprise architecture</text><text x="40" y="420" font-size="17">CONCEPTUAL ALIGNMENT · BUSINESS TO TECHNOLOGY</text></g>
+<g stroke="#64d9cb" stroke-width="3" fill="#1a3b51"><rect x="90" y="115" width="540" height="52" rx="8"/><rect x="130" y="183" width="500" height="52" rx="8"/><rect x="170" y="251" width="460" height="52" rx="8"/><rect x="210" y="319" width="420" height="52" rx="8"/></g>
+<path d="M665 115H705V371H665M665 167H705M665 235H705M665 303H705" fill="none" stroke="#ffcf7b" stroke-width="3"/>
+<g font-family="sans-serif" fill="#f4f8fc" font-size="23"><text x="110" y="150">Business / capabilities</text><text x="150" y="218">Applications / services</text><text x="190" y="286">Data / information</text><text x="230" y="354">Technology / infrastructure</text></g>
+<text x="728" y="340" transform="rotate(-90 728 340)" fill="#ffcf7b" font-family="sans-serif" font-size="20">Governance</text>
+</svg>

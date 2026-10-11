@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" role="img" aria-labelledby="title desc">
+<title id="title">BDD: shared examples become specifications</title><desc id="desc">Business, development and QA contribute to one behavior specification. Given defines context, When defines action and Then defines the expected outcome.</desc>
+<rect width="800" height="450" fill="#102136"/>
+<g fill="#1a3b51" stroke="#64d9cb" stroke-width="3"><circle cx="145" cy="160" r="52"/><circle cx="400" cy="160" r="52"/><circle cx="655" cy="160" r="52"/><rect x="120" y="260" width="560" height="120" rx="12"/></g>
+<path d="M145 217L250 255M400 217V255M655 217L550 255" stroke="#ffcf7b" stroke-width="4"/>
+<g font-family="sans-serif" fill="#f4f8fc"><text x="40" y="62" font-size="32">BDD / describe behavior together</text><g font-size="21" text-anchor="middle"><text x="145" y="168">Business</text><text x="400" y="168">Dev</text><text x="655" y="168">QA</text><text x="210" y="299">Given</text><text x="400" y="299">When</text><text x="590" y="299">Then</text><text x="210" y="345">Context</text><text x="400" y="345">Action</text><text x="590" y="345">Outcome</text></g><text x="40" y="420" font-size="17">COLLABORATIVE SPECIFICATION · EXAMPLES BEFORE IMPLEMENTATION</text></g>
+</svg>

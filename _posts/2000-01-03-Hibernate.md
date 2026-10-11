@@ -1,5 +1,10 @@
 ---
 title: "Hibernate"
+image:
+  path: /assets/images/post-covers/Hibernate.svg
+  thumbnail: /assets/images/post-covers/Hibernate.svg
+  caption: "Object-relational mapping schematic with symbolic entity fields and table columns, not actual records."
+  alt: "Hibernate mapping a Java entity and its fields to a relational database table."
 categories:
   - SD
 tags:

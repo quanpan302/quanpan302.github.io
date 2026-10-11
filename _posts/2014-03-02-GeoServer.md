@@ -1,5 +1,10 @@
 ---
 title: "GeoServer"
+image:
+  path: /assets/images/post-covers/GeoServer.svg
+  thumbnail: /assets/images/post-covers/GeoServer.svg
+  caption: "GeoServer publishing schematic with illustrative raster and vector shapes, not mapped observations."
+  alt: "GeoServer publishing styled raster and vector sources as WMS maps and WFS features."
 categories:
   - IT
 tags:

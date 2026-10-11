@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" role="img" aria-labelledby="title desc">
+<title id="title">FAIR: machine-actionable data stewardship</title><desc id="desc">Four connected principles surround a digital asset: findable through identifiers, accessible through protocols, interoperable through vocabularies and reusable through licenses and provenance.</desc>
+<rect width="800" height="450" fill="#102136"/>
+<g fill="#1a3b51" stroke="#64d9cb" stroke-width="3"><rect x="50" y="115" width="250" height="100" rx="12"/><rect x="500" y="115" width="250" height="100" rx="12"/><rect x="50" y="285" width="250" height="100" rx="12"/><rect x="500" y="285" width="250" height="100" rx="12"/><circle cx="400" cy="250" r="65"/></g>
+<path d="M305 180L345 210M495 180L455 210M305 320L345 290M495 320L455 290" stroke="#ffcf7b" stroke-width="4"/>
+<g font-family="sans-serif" fill="#f4f8fc"><text x="40" y="62" font-size="32">FAIR / data ready for discovery and reuse</text><g font-size="21" text-anchor="middle"><text x="175" y="153">Findable</text><text x="175" y="191">Persistent identifiers</text><text x="625" y="153">Accessible</text><text x="625" y="191">Standard protocols</text><text x="175" y="323">Interoperable</text><text x="175" y="361">Shared vocabularies</text><text x="625" y="323">Reusable</text><text x="625" y="361">License + provenance</text><text x="400" y="258">Asset</text></g><text x="40" y="420" font-size="17">STEWARDSHIP PRINCIPLES · ACCESS MAY REQUIRE AUTHORIZATION</text></g>
+</svg>

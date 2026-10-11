@@ -1,5 +1,10 @@
 ---
 title: "Terraform"
+image:
+  path: /assets/images/post-covers/Terraform.svg
+  thumbnail: /assets/images/post-covers/Terraform.svg
+  caption: "Infrastructure-as-code schematic showing configuration, state, reviewed planning and provider-driven apply."
+  alt: "Terraform configuration and state feeding a plan before providers apply infrastructure changes."
 categories:
   - IT
 tags:

@@ -1,5 +1,10 @@
 ---
 title: "PostgreSQL"
+image:
+  path: /assets/images/post-covers/PostgreSQL.svg
+  thumbnail: /assets/images/post-covers/PostgreSQL.svg
+  caption: "Relational-join schematic using symbolic customer and order tables, not actual records."
+  alt: "Relational join schematic linking two PostgreSQL tables by a shared key."
 categories:
   - IT
 tags:

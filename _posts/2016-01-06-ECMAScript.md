@@ -1,5 +1,10 @@
 ---
 title: "ECMAScript"
+image:
+  path: /assets/images/post-covers/ECMAScript.svg
+  thumbnail: /assets/images/post-covers/ECMAScript.svg
+  caption: "Language-standard schematic linking ECMA-262 to JavaScript engine implementations; not engine benchmarks."
+  alt: "ECMA-262 language specification connecting syntax, built-in objects and multiple JavaScript engines."
 categories:
   - SD
 tags:

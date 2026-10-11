@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" role="img" aria-labelledby="title desc">
+<title id="title">PostgreSQL: relations joined by keys</title><desc id="desc">Symbolic customers and orders tables share a customer key. A join combines related columns; no actual customer or order records are shown.</desc>
+<rect width="800" height="450" fill="#102136"/>
+<g fill="#1a3b51" stroke="#64d9cb" stroke-width="3"><rect x="55" y="130" width="270" height="155" rx="8"/><path d="M55 185H325M170 185V285"/><rect x="475" y="130" width="270" height="155" rx="8"/><path d="M475 185H745M590 185V285"/><rect x="240" y="325" width="320" height="60" rx="8"/></g>
+<path d="M325 235H475M190 290V355H230M610 290V355H570" stroke="#ffcf7b" stroke-width="4" fill="none"/>
+<g font-family="sans-serif" fill="#f4f8fc"><text x="40" y="62" font-size="32">PostgreSQL / connect related records</text><g font-size="22" text-anchor="middle"><text x="190" y="167">Customers</text><text x="610" y="167">Orders</text><text x="112" y="235">id</text><text x="247" y="235">name</text><text x="532" y="235">id</text><text x="668" y="225">customer</text><text x="668" y="253">key</text><text x="400" y="363">Joined relation</text></g><text x="40" y="420" font-size="17">RELATIONAL JOIN SCHEMATIC · SYMBOLIC TABLES</text></g>
+</svg>

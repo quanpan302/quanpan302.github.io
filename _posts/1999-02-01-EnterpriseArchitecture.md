@@ -1,5 +1,10 @@
 ---
 title: "Enterprise Architecture"
+image:
+  path: /assets/images/post-covers/EnterpriseArchitecture.svg
+  thumbnail: /assets/images/post-covers/EnterpriseArchitecture.svg
+  caption: "Architecture alignment schematic connecting business, applications, data and technology."
+  alt: "Enterprise architecture aligning business capabilities, applications, data and technology."
 categories:
   - KG
 tags:

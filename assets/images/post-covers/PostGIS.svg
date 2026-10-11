@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" role="img" aria-labelledby="title desc">
+<title id="title">PostGIS: geometry inside the database</title><desc id="desc">A point inside an irregular polygon illustrates a spatial intersection query. A geometry column and spatial index connect the shape to PostgreSQL. No real location is represented.</desc>
+<rect width="800" height="450" fill="#102136"/>
+<g stroke="#64d9cb" stroke-width="3" fill="#1a3b51"><path d="M70 160L240 115L350 215L280 345L100 320Z"/><rect x="450" y="135" width="295" height="210" rx="12"/><path d="M450 190H745M450 255H745M535 190V345"/></g>
+<circle cx="210" cy="235" r="10" fill="#ffcf7b"/><path d="M225 235H435" stroke="#ffcf7b" stroke-width="3" stroke-dasharray="8 6"/>
+<g font-family="sans-serif" fill="#f4f8fc"><text x="40" y="62" font-size="32">PostGIS / ask a spatial question</text><g font-size="22"><text x="140" y="290">Polygon</text><text x="473" y="171">Spatial table</text><text x="470" y="230">id</text><text x="556" y="230">geometry</text><text x="556" y="297">GiST index</text><text x="215" y="378">ST_Intersects(point, polygon)</text></g><text x="40" y="420" font-size="17">SPATIAL QUERY SCHEMATIC · NOT A MEASURED MAP</text></g>
+</svg>

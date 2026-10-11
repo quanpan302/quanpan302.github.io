@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" role="img" aria-labelledby="title desc">
+<title id="title">Node.js: callbacks and asynchronous I/O</title><desc id="desc">JavaScript runs on V8 alongside an event loop. I/O completion queues callbacks for the loop. The diagram is simplified and does not show timing or thread counts.</desc>
+<rect width="800" height="450" fill="#102136"/>
+<g fill="#1a3b51" stroke="#64d9cb" stroke-width="3"><rect x="55" y="175" width="200" height="140" rx="12"/><circle cx="420" cy="245" r="90"/><rect x="595" y="110" width="160" height="90" rx="10"/><rect x="595" y="295" width="160" height="90" rx="10"/></g>
+<path d="M260 245H320M515 205L585 155M675 205V285M585 340L515 285M385 220A42 42 0 1 1 385 270M385 270L380 250" stroke="#ffcf7b" stroke-width="4" fill="none"/>
+<g font-family="sans-serif" fill="#f4f8fc"><text x="40" y="62" font-size="32">Node.js / the event-driven runtime</text><g font-size="21" text-anchor="middle"><text x="155" y="232">JavaScript</text><text x="155" y="273">V8</text><text x="420" y="140">Event loop</text><text x="675" y="149">Async I/O</text><text x="675" y="180">libuv</text><text x="675" y="333">Callback</text><text x="675" y="365">queue</text></g><text x="40" y="420" font-size="17">SIMPLIFIED RUNTIME SCHEMATIC · NOT A TIMING DIAGRAM</text></g>
+</svg>

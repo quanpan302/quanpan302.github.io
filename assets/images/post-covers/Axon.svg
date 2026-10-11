@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" role="img" aria-labelledby="title desc">
+<title id="title">Axon: commands, events and queries</title><desc id="desc">The command side changes an aggregate and emits domain events to an event store. A projection builds the read model accessed by the query side.</desc>
+<rect width="800" height="450" fill="#102136"/>
+<g font-family="sans-serif" fill="#f4f8fc"><text x="40" y="62" font-size="32">Axon / two paths, one event history</text><text x="40" y="420" font-size="17">CQRS + EVENT SOURCING · CONCEPTUAL FLOW</text></g>
+<g fill="#1a3b51" stroke="#64d9cb" stroke-width="3"><rect x="45" y="140" width="155" height="65" rx="8"/><rect x="260" y="140" width="205" height="65" rx="8"/><rect x="535" y="140" width="220" height="65" rx="8"/><rect x="45" y="300" width="155" height="65" rx="8"/><rect x="260" y="300" width="205" height="65" rx="8"/><rect x="535" y="300" width="220" height="65" rx="8"/></g>
+<path d="M205 172H250M470 172H525M645 210V285M530 332H475M255 332H210" stroke="#ffcf7b" stroke-width="4" fill="none"/>
+<g font-family="sans-serif" fill="#f4f8fc" font-size="22" text-anchor="middle"><text x="122" y="181">Command</text><text x="362" y="181">Aggregate</text><text x="645" y="181">Event store</text><text x="122" y="341">Query</text><text x="362" y="341">Read model</text><text x="645" y="341">Projection</text><text x="455" y="254">Domain events</text></g>
+</svg>

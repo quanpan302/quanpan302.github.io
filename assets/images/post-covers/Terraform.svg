@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" role="img" aria-labelledby="title desc">
+<title id="title">Terraform: configuration, state and a reviewed plan</title><desc id="desc">Configuration and state feed planning. The resulting plan is reviewed before apply uses provider APIs to change infrastructure. The arrows do not depict actual resources.</desc>
+<rect width="800" height="450" fill="#102136"/>
+<g fill="#1a3b51" stroke="#64d9cb" stroke-width="3"><rect x="45" y="125" width="205" height="85" rx="10"/><rect x="45" y="280" width="205" height="85" rx="10"/><path d="M345 160H440L490 245L440 330H345L295 245Z"/><rect x="565" y="175" width="190" height="140" rx="12"/></g>
+<path d="M255 167L305 210M255 322L305 280M495 245H555" stroke="#ffcf7b" stroke-width="4"/>
+<g font-family="sans-serif" fill="#f4f8fc"><text x="40" y="62" font-size="32">Terraform / understand before applying</text><g font-size="22" text-anchor="middle"><text x="147" y="176">Configuration</text><text x="147" y="331">State</text><text x="392" y="237">Plan</text><text x="392" y="272">Review</text><text x="660" y="227">Apply</text><text x="660" y="270">Provider APIs</text><text x="660" y="367">Infrastructure</text></g><text x="40" y="420" font-size="17">INFRASTRUCTURE-AS-CODE SCHEMATIC · DECLARED DESIRED STATE</text></g>
+</svg>

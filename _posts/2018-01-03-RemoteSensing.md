@@ -1,5 +1,10 @@
 ---
 title: "Remote Sensing"
+image:
+  path: /assets/images/post-covers/RemoteSensing.svg
+  thumbnail: /assets/images/post-covers/RemoteSensing.svg
+  caption: "Remote-sensing observation schematic with reflected energy and image processing; no measured terrain or spectra."
+  alt: "Schematic satellite observation of reflected energy from terrain, followed by image processing."
 categories:
   - KG
 tags:

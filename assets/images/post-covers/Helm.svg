@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" role="img" aria-labelledby="title desc">
+<title id="title">Helm: templates and values become a release</title><desc id="desc">Chart templates and configurable values combine in rendering. The resulting Kubernetes resources belong to a versioned release that can be upgraded or rolled back.</desc>
+<rect width="800" height="450" fill="#102136"/>
+<g fill="#1a3b51" stroke="#64d9cb" stroke-width="3"><rect x="50" y="125" width="220" height="90" rx="10"/><rect x="50" y="285" width="220" height="90" rx="10"/><path d="M360 155L480 155L520 250L480 345H360L320 250Z"/><rect x="580" y="175" width="175" height="150" rx="12"/></g>
+<path d="M275 170L340 210M275 330L340 290M525 250H570" stroke="#ffcf7b" stroke-width="4"/>
+<g font-family="sans-serif" fill="#f4f8fc"><text x="40" y="62" font-size="32">Helm / package a Kubernetes release</text><g font-size="22" text-anchor="middle"><text x="160" y="162">Chart</text><text x="160" y="195">Templates</text><text x="160" y="322">Values</text><text x="160" y="355">Configuration</text><text x="420" y="257">Render</text><text x="667" y="225">Release</text><text x="667" y="265">Resources</text><text x="667" y="303">Revision</text></g><text x="40" y="420" font-size="17">PACKAGE WORKFLOW SCHEMATIC · INSTALL / UPGRADE / ROLLBACK</text></g>
+</svg>

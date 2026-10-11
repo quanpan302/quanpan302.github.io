@@ -1,6 +1,6 @@
 ---
-title: Writing
+title: Posts
 layout: posts
 permalink: /posts/
-entries_layout: list
+entries_layout: grid
 ---

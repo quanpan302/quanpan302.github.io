@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" role="img" aria-labelledby="title desc">
+<title id="title">Babel: transform JavaScript syntax</title><desc id="desc">Modern source is parsed into an abstract syntax tree, transformed and generated as target-compatible code. Runtime polyfills are shown as a separate concern.</desc>
+<rect width="800" height="450" fill="#102136"/>
+<g fill="#1a3b51" stroke="#64d9cb" stroke-width="3"><rect x="45" y="185" width="170" height="105" rx="10"/><rect x="555" y="185" width="200" height="105" rx="10"/><circle cx="385" cy="170" r="20"/><circle cx="340" cy="245" r="20"/><circle cx="430" cy="245" r="20"/><rect x="295" y="330" width="240" height="50" rx="8"/></g>
+<path d="M220 235H290M385 190L340 225M385 190L430 225M450 245H545M535 355H655V295" stroke="#ffcf7b" stroke-width="3" fill="none"/>
+<g font-family="sans-serif" fill="#f4f8fc"><text x="40" y="62" font-size="32">Babel / parse, transform, generate</text><g font-size="21" text-anchor="middle"><text x="130" y="226">Modern JS</text><text x="130" y="260">ES2015+</text><text x="385" y="125">AST</text><text x="385" y="294">Transform</text><text x="655" y="226">Compatible</text><text x="655" y="260">syntax</text><text x="415" y="363">Runtime polyfills</text></g><text x="40" y="420" font-size="17">COMPILER SCHEMATIC · SYNTAX TRANSFORMS ≠ RUNTIME FEATURES</text></g>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" role="img" aria-labelledby="title desc">
+<title id="title">GDAL: common models for raster and vector formats</title><desc id="desc">A raster grid and vector linework enter GDAL's abstract models, then leave through format drivers. The geometry and cells are illustrative, not real geospatial data.</desc>
+<rect width="800" height="450" fill="#102136"/>
+<g fill="#1a3b51" stroke="#64d9cb" stroke-width="3"><rect x="55" y="120" width="150" height="100"/><path d="M55 153H205M55 187H205M105 120V220M155 120V220"/><path d="M65 335L95 285L145 320L195 265"/><rect x="300" y="150" width="235" height="190" rx="12"/><rect x="610" y="125" width="135" height="80" rx="10"/><rect x="610" y="285" width="135" height="80" rx="10"/></g>
+<path d="M210 170L290 205M210 310L290 280M540 205L600 165M540 285L600 325" stroke="#ffcf7b" stroke-width="4"/>
+<g font-family="sans-serif" fill="#f4f8fc"><text x="40" y="62" font-size="32">GDAL / many formats, common models</text><g font-size="21" text-anchor="middle"><text x="130" y="250">Raster / vector</text><text x="417" y="198">GDAL / OGR</text><text x="417" y="250">Abstract</text><text x="417" y="284">data models</text><text x="677" y="174">Raster</text><text x="677" y="334">Vector</text></g><text x="40" y="420" font-size="17">FORMAT TRANSLATION SCHEMATIC · SYNTHETIC GRID AND GEOMETRY</text></g>
+</svg>

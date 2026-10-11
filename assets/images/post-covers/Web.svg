@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" role="img" aria-labelledby="title desc">
+<title id="title">Web: protocols inside protocols</title><desc id="desc">Nested protocol envelopes illustrate HTTP application content carried by TCP, IP and a network link. These are conceptual layers, not packet bytes.</desc>
+<rect width="800" height="450" fill="#102136"/>
+<g fill="#1a3b51" stroke="#64d9cb" stroke-width="3"><rect x="60" y="110" width="680" height="270" rx="12"/><rect x="185" y="135" width="530" height="220" rx="10"/><rect x="305" y="160" width="385" height="170" rx="8"/><rect x="425" y="185" width="240" height="120" rx="6"/></g>
+<g font-family="sans-serif" fill="#f4f8fc"><text x="40" y="62" font-size="32">Web / a stack of network protocols</text><g font-size="21"><text x="82" y="155">Link</text><text x="207" y="180">IP</text><text x="327" y="205">TCP</text><text x="453" y="235">HTTP</text><text x="453" y="273">Web content</text></g><text x="40" y="420" font-size="17">ENCAPSULATION SCHEMATIC · NOT A PACKET CAPTURE</text></g>
+</svg>

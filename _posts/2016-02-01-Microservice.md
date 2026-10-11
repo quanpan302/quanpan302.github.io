@@ -1,5 +1,10 @@
 ---
 title: "Microservice"
+image:
+  path: /assets/images/post-covers/Microservice.svg
+  thumbnail: /assets/images/post-covers/Microservice.svg
+  caption: "Microservice ownership schematic with illustrative APIs and independently owned data stores."
+  alt: "Loosely coupled services communicating through APIs with independently owned data stores."
 categories:
   - SD
 tags:

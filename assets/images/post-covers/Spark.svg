@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" role="img" aria-labelledby="title desc">
+<title id="title">Spark: distributed tasks and data partitions</title><desc id="desc">A driver schedules tasks on three executors. Each executor handles a separate partition of a distributed dataset. The diagram does not imply benchmark results.</desc>
+<rect width="800" height="450" fill="#102136"/>
+<g fill="#1a3b51" stroke="#64d9cb" stroke-width="3"><rect x="280" y="105" width="240" height="80" rx="12"/><rect x="50" y="250" width="200" height="120" rx="12"/><rect x="300" y="250" width="200" height="120" rx="12"/><rect x="550" y="250" width="200" height="120" rx="12"/><path d="M50 315H250M300 315H500M550 315H750"/></g>
+<path d="M400 190V220H150V245M400 220V245M400 220H650V245" stroke="#ffcf7b" stroke-width="4" fill="none"/>
+<g font-family="sans-serif" fill="#f4f8fc"><text x="40" y="62" font-size="32">Spark / partition the work</text><g font-size="22" text-anchor="middle"><text x="400" y="155">Driver / tasks</text><text x="150" y="290">Executor</text><text x="400" y="290">Executor</text><text x="650" y="290">Executor</text><text x="150" y="350">Partition A</text><text x="400" y="350">Partition B</text><text x="650" y="350">Partition C</text></g><text x="40" y="420" font-size="17">DISTRIBUTED EXECUTION SCHEMATIC · NOT A PERFORMANCE CHART</text></g>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" role="img" aria-labelledby="title desc">
+<title id="title">Internet of Things: devices and protocols</title><desc id="desc">A sensor and actuator exchange information with a gateway. The gateway connects local device protocols to IP network services.</desc>
+<rect width="800" height="450" fill="#102136"/>
+<g stroke="#64d9cb" stroke-width="3" fill="#1a3b51"><circle cx="140" cy="170" r="55"/><circle cx="140" cy="320" r="55"/><path d="M350 175L450 120L550 175V305L450 360L350 305Z"/><rect x="650" y="175" width="105" height="145" rx="15"/></g>
+<path d="M200 170L340 210M200 320L340 280M555 240H640" stroke="#ffcf7b" stroke-width="4"/>
+<g font-family="sans-serif" fill="#f4f8fc"><text x="40" y="62" font-size="32">IoT / from devices to networks</text><g font-size="22" text-anchor="middle"><text x="140" y="178">Sensor</text><text x="140" y="328">Actuator</text><text x="450" y="249">Gateway</text><text x="702" y="235">IP</text><text x="702" y="266">service</text><text x="272" y="375">Local protocols</text></g><text x="40" y="420" font-size="17">DEVICE NETWORK SCHEMATIC · PROTOCOL INTEROPERABILITY</text></g>
+</svg>

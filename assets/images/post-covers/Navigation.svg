@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" role="img" aria-labelledby="title desc">
+<title id="title">Navigation: position, map and route</title><desc id="desc">An illustrative road graph connects a current position to a destination. A highlighted route and north indicator explain navigation concepts; no actual map or coordinates are used.</desc>
+<rect width="800" height="450" fill="#102136"/>
+<g fill="none" stroke="#47657e" stroke-width="8"><path d="M65 145H325L460 240H730M65 320H220L325 145M220 320L460 240M460 240V355H730M600 145V355"/></g>
+<path d="M65 320H220L460 240H600V145" fill="none" stroke="#64d9cb" stroke-width="7"/>
+<circle cx="65" cy="320" r="12" fill="#ffcf7b"/><path d="M600 100C575 100 570 130 600 155C630 130 625 100 600 100Z" fill="#ffcf7b"/>
+<path d="M720 200V125L706 150M720 125L734 150" stroke="#ffcf7b" stroke-width="3" fill="none"/>
+<g font-family="sans-serif" fill="#f4f8fc"><text x="40" y="62" font-size="32">Navigation / know where to go next</text><g font-size="22"><text x="45" y="370">Position</text><text x="310" y="308">Route</text><text x="510" y="95">Destination</text><text x="710" y="113">N</text></g><text x="40" y="420" font-size="17">ILLUSTRATIVE ROAD GRAPH · NOT A REAL MAP OR GPS TRACK</text></g>
+</svg>

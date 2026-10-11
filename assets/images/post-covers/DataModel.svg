@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" role="img" aria-labelledby="title desc">
+<title id="title">Data models: three perspectives</title><desc id="desc">An owner-to-car concept becomes logical entities with a relationship, then physical tables with primary and foreign keys. The diagram illustrates modeling perspectives.</desc>
+<rect width="800" height="450" fill="#102136"/>
+<g stroke="#64d9cb" stroke-width="3" fill="#1a3b51"><rect x="55" y="125" width="690" height="70" rx="10"/><rect x="55" y="225" width="690" height="70" rx="10"/><rect x="55" y="325" width="690" height="60" rx="10"/></g>
+<path d="M435 160H560M435 260H560M435 355H560" stroke="#ffcf7b" stroke-width="4"/>
+<g font-family="sans-serif" fill="#f4f8fc"><text x="40" y="62" font-size="32">Data models / idea to implementation</text><g font-size="22"><text x="75" y="168">Conceptual</text><text x="310" y="168">Owner</text><text x="600" y="168">Car</text><text x="75" y="268">Logical</text><text x="310" y="268">Entity</text><text x="580" y="268">Relation</text><text x="75" y="363">Physical</text><text x="310" y="363">Table / PK</text><text x="580" y="363">Table / FK</text></g><text x="40" y="420" font-size="17">MODELING PERSPECTIVES · CONCEPTUAL / LOGICAL / PHYSICAL</text></g>
+</svg>
