@@ -17,13 +17,13 @@
 # remote_theme: "mmistakes/jekyll-theme-basically-basic"
 
 lang: en-US
-title: QPan
+title: Quan Pan
 email: quanpan302@hotmail.com
-description: "Playground"
+description: "Data science, geospatial technology, and environmental research."
 # baseurl: the subpath of your site, e.g. /blog
 baseurl: ""
 # url: the base hostname & protocol for your site, e.g. http://example.com
-url: "http://www.quanpan302.com"
+url: "https://www.quanpan302.com"
 
 author:
   name: Quan Pan

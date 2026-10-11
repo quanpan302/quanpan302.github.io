@@ -11,7 +11,9 @@
 .intro-image {
   position: relative;
   margin-top: -3rem; /* compensate for intro top margin */
-  margin-bottom: 3rem;
+  margin-bottom: 2rem;
+  overflow: hidden;
+  background-color: $base-color;
 
   &::before {
     position: absolute;
@@ -19,6 +21,7 @@
     right: 0;
     bottom: 0;
     left: 0;
+    background: linear-gradient(90deg, rgba($base-color, 0.16), transparent 70%);
     @if $intro-image-color-overlay == true {
       background-color: rgba($accent-color, 0.25);
     };
@@ -26,7 +29,10 @@
   }
 
   img {
+    display: block;
     width: 100%;
+    height: clamp(14rem, 34vw, 26rem);
+    object-fit: cover;
   }
 }
 
@@ -47,7 +53,9 @@
 
 .intro-subtitle {
   @include fluid-type($min-vw, $max-vw, 18px, 28px);
-  font-style: italic;
+  max-width: 42em;
+  color: tint($text-color, 35%);
+  font-style: normal;
 }
 
 .intro-actions {
