@@ -6,4 +6,4 @@ collection: projects
 entries_layout: grid
 ---
 
-Some projects
+Selected projects in environmental research, geospatial data, and software.

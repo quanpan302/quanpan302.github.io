@@ -3,16 +3,14 @@ title: "About"
 layout: about
 ---
 
-## I am
+## About
 
-- Productive, motivated, strong work ethic
-- Self educate, study and research, want to understand new things, technologies, and unfamiliar terms
-- Easy to get along with, never sabotage or bring down team morale
+I am a data scientist and geospatial programmer with a focus on environmental data, remote sensing, and cloud-based tools. My work brings together software and research to make complex information more useful for people making decisions.
 
-## CV
+## Curriculum vitae
 
-[CV-QuanPan.pdf](/assets/docs/about/Europass_CV-QuanPan_Sty1.pdf)
+[Download my CV](/assets/docs/about/Europass_CV-QuanPan_Sty1.pdf)
 
-## Contact
+## Get in touch
 
-{{ site.email }}
+[{{ site.email }}](mailto:{{ site.email }})
