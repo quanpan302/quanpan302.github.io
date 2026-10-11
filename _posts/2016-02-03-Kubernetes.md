@@ -1,5 +1,10 @@
 ---
 title: "Kubernetes"
+image:
+  path: /assets/images/post-covers/Kubernetes.svg
+  thumbnail: /assets/images/post-covers/Kubernetes.svg
+  caption: "Kubernetes scheduling and service schematic with symbolic pods; not a live cluster topology."
+  alt: "Kubernetes control plane scheduling pods across worker nodes and exposing them through a service."
 categories:
   - SD
 tags:

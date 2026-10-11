@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" role="img" aria-labelledby="title desc">
+<title id="title">DDD: language and bounded contexts</title><desc id="desc">Sales and fulfillment are separate bounded contexts connected by a context map. An order aggregate belongs to sales, while shipment belongs to fulfillment.</desc>
+<rect width="800" height="450" fill="#102136"/>
+<g fill="#1a3b51" stroke="#64d9cb" stroke-width="3"><rect x="55" y="135" width="285" height="220" rx="20"/><rect x="460" y="135" width="285" height="220" rx="20"/><circle cx="197" cy="265" r="64"/><rect x="515" y="225" width="175" height="90" rx="10"/></g>
+<path d="M345 245H450" stroke="#ffcf7b" stroke-width="4" stroke-dasharray="8 5"/>
+<g font-family="sans-serif" fill="#f4f8fc"><text x="40" y="62" font-size="32">DDD / model the business language</text><g font-size="22" text-anchor="middle"><text x="197" y="174">Sales context</text><text x="197" y="258">Order</text><text x="197" y="289">aggregate</text><text x="602" y="174">Fulfillment context</text><text x="602" y="279">Shipment</text><text x="400" y="389">Ubiquitous language within each boundary</text></g><text x="40" y="420" font-size="17">DOMAIN MODEL SCHEMATIC · ILLUSTRATIVE BUSINESS CONTEXTS</text></g>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" role="img" aria-labelledby="title desc">
+<title id="title">OpenStack: APIs for infrastructure pools</title><desc id="desc">Keystone authenticates access to Nova compute, Neutron networking and Cinder block storage. These services coordinate datacenter infrastructure pools.</desc>
+<rect width="800" height="450" fill="#102136"/>
+<g fill="#1a3b51" stroke="#64d9cb" stroke-width="3"><rect x="240" y="105" width="320" height="65" rx="10"/><rect x="50" y="240" width="200" height="140" rx="12"/><rect x="300" y="240" width="200" height="140" rx="12"/><rect x="550" y="240" width="200" height="140" rx="12"/></g>
+<path d="M400 175V205H150V230M400 205V230M400 205H650V230" stroke="#ffcf7b" stroke-width="4" fill="none"/>
+<g font-family="sans-serif" fill="#f4f8fc"><text x="40" y="62" font-size="32">OpenStack / a cloud control surface</text><g font-size="22" text-anchor="middle"><text x="400" y="145">Keystone / identity</text><text x="150" y="285">Nova</text><text x="150" y="330">Compute</text><text x="400" y="285">Neutron</text><text x="400" y="330">Network</text><text x="650" y="285">Cinder</text><text x="650" y="330">Block storage</text></g><text x="40" y="420" font-size="17">SELECTED SERVICE SCHEMATIC · AUTHENTICATED INFRASTRUCTURE APIs</text></g>
+</svg>

@@ -1,5 +1,10 @@
 ---
 title: "Webpack.js"
+image:
+  path: /assets/images/post-covers/WebpackJS.svg
+  thumbnail: /assets/images/post-covers/WebpackJS.svg
+  caption: "Webpack dependency-graph schematic connecting entry modules, loaders, plugins and output bundles."
+  alt: "Webpack dependency graph collecting JavaScript, CSS and assets into output bundles."
 categories:
   - SD
 tags:

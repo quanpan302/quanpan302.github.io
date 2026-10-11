@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" role="img" aria-labelledby="title desc">
+<title id="title">URL: the anatomy of a web address</title><desc id="desc">The reserved example address https://example.org/maps?q=river#view is divided into scheme, host, path, query and fragment.</desc>
+<rect width="800" height="450" fill="#102136"/>
+<rect x="35" y="165" width="730" height="95" rx="12" fill="#1a3b51" stroke="#64d9cb" stroke-width="3"/>
+<g font-family="monospace" font-size="25" fill="#f4f8fc"><text x="55" y="221">https://example.org/maps?q=river#view</text></g>
+<path d="M105 265V305M265 265V340M410 265V305M525 265V340M670 265V305" stroke="#ffcf7b" stroke-width="3"/>
+<g font-family="sans-serif" fill="#f4f8fc"><text x="40" y="62" font-size="32">URL / locate a resource</text><g font-size="23" text-anchor="middle"><text x="105" y="334">Scheme</text><text x="265" y="370">Host</text><text x="410" y="334">Path</text><text x="525" y="370">Query</text><text x="670" y="334">Fragment</text></g><text x="40" y="420" font-size="17">ADDRESS STRUCTURE SCHEMATIC · RESERVED EXAMPLE DOMAIN</text></g>
+</svg>

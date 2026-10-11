@@ -3,6 +3,7 @@ title: "Data Model"
 image:
   path: /assets/images/post-covers/DataModel.svg
   thumbnail: /assets/images/post-covers/DataModel.svg
+  caption: "Conceptual, logical and physical modeling schematic for an illustrative owner-vehicle relationship."
   alt: "Conceptual, logical and physical data-model perspectives for an owner and vehicle relationship."
 categories:
   - IT
@@ -72,3 +73,4 @@ The data vault model contains three main entities; **hubs**, **links**, and **sa
 ## Data modeling tools
 
 [Comparison of database tools](https://en.wikipedia.org/wiki/Comparison_of_database_tools){:target="_blank"}
+

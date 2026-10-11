@@ -1,5 +1,10 @@
 ---
 title: "Typescript.js"
+image:
+  path: /assets/images/post-covers/Typescript.svg
+  thumbnail: /assets/images/post-covers/Typescript.svg
+  caption: "TypeScript checking schematic: types guide compilation but do not provide runtime validation."
+  alt: "TypeScript interfaces and unions checked before JavaScript is emitted for the runtime."
 categories:
   - SD
 tags:

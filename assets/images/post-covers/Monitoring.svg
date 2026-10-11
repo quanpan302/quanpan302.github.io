@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" role="img" aria-labelledby="title desc">
+<title id="title">Monitoring: signals become actionable observations</title><desc id="desc">A symbolic metric trace, log lines and request spans feed an alert evaluation node. The chart is synthetic and has no measured values or incident claims.</desc>
+<rect width="800" height="450" fill="#102136"/>
+<g stroke="#64d9cb" stroke-width="3" fill="none"><path d="M70 170H300M70 170V110M85 155L130 145L160 160L195 120L230 135L285 115"/><path d="M90 230H290M90 245H245M90 260H270"/><path d="M90 330H160M165 345H245M220 360H290"/><circle cx="605" cy="245" r="100"/></g>
+<path d="M310 145L495 215M310 245H495M310 345L495 275" stroke="#ffcf7b" stroke-width="4"/>
+<g font-family="sans-serif" fill="#f4f8fc"><text x="40" y="62" font-size="32">Monitoring / observe before acting</text><g font-size="22"><text x="95" y="105">Metrics</text><text x="95" y="219">Logs</text><text x="95" y="320">Traces</text><text x="545" y="238">Evaluate</text><text x="565" y="272">Alert</text></g><text x="40" y="420" font-size="17">SYNTHETIC SIGNAL SCHEMATIC · NOT TELEMETRY OR MEASUREMENTS</text></g>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" role="img" aria-labelledby="title desc">
+<title id="title">ECMAScript: a language specification, many engines</title><desc id="desc">ECMA-262 defines syntax and built-in objects. Multiple JavaScript engines implement the shared language specification in different host environments.</desc>
+<rect width="800" height="450" fill="#102136"/>
+<g fill="#1a3b51" stroke="#64d9cb" stroke-width="3"><path d="M60 125H270L310 165V355H60Z"/><path d="M270 125V165H310"/><rect x="465" y="115" width="275" height="65" rx="10"/><rect x="465" y="215" width="275" height="65" rx="10"/><rect x="465" y="315" width="275" height="65" rx="10"/></g>
+<path d="M315 245H395V147H455M395 245H455M395 245V347H455" stroke="#ffcf7b" stroke-width="3" fill="none"/>
+<g font-family="sans-serif" fill="#f4f8fc"><text x="40" y="62" font-size="32">ECMAScript / one standard, many hosts</text><g font-size="23" text-anchor="middle"><text x="185" y="211">ECMA-262</text><text x="185" y="260">Syntax</text><text x="185" y="305">Built-ins</text><text x="602" y="155">V8</text><text x="602" y="255">SpiderMonkey</text><text x="602" y="355">JavaScriptCore</text></g><text x="40" y="420" font-size="17">STANDARD / IMPLEMENTATION SCHEMATIC · NOT ENGINE BENCHMARKS</text></g>
+</svg>

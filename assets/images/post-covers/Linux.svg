@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" role="img" aria-labelledby="title desc">
+<title id="title">Linux: user space to hardware</title><desc id="desc">Applications use a system-call boundary to reach kernel processes, memory, filesystems and drivers, which coordinate the hardware.</desc>
+<rect width="800" height="450" fill="#102136"/>
+<g fill="#1a3b51" stroke="#64d9cb" stroke-width="3"><rect x="100" y="115" width="600" height="55" rx="8"/><rect x="100" y="225" width="600" height="90" rx="8"/><rect x="100" y="340" width="600" height="45" rx="8"/></g>
+<path d="M100 197H700M250 170V225M550 170V225M250 315V340M550 315V340" stroke="#ffcf7b" stroke-width="3" stroke-dasharray="7 6"/>
+<g font-family="sans-serif" fill="#f4f8fc"><text x="40" y="62" font-size="32">Linux / the kernel boundary</text><g font-size="22" text-anchor="middle"><text x="400" y="150">Applications + shell + libraries</text><text x="400" y="215">System calls</text><text x="400" y="258">Kernel</text><text x="400" y="292">Processes · memory · files · drivers</text><text x="400" y="371">Hardware</text></g><text x="40" y="420" font-size="17">SYSTEM LAYER SCHEMATIC · USER SPACE / KERNEL SPACE</text></g>
+</svg>

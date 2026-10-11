@@ -1,5 +1,10 @@
 ---
 title: "Monitoring"
+image:
+  path: /assets/images/post-covers/Monitoring.svg
+  thumbnail: /assets/images/post-covers/Monitoring.svg
+  caption: "Synthetic monitoring schematic combining metrics, logs and traces; not measured telemetry or an incident report."
+  alt: "Monitoring signals from metrics, logs and traces converging on alert evaluation."
 categories:
   - SD
 tags:

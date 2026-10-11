@@ -3,6 +3,7 @@ title: "PostgreSQL"
 image:
   path: /assets/images/post-covers/PostgreSQL.svg
   thumbnail: /assets/images/post-covers/PostgreSQL.svg
+  caption: "Relational-join schematic using symbolic customer and order tables, not actual records."
   alt: "Relational join schematic linking two PostgreSQL tables by a shared key."
 categories:
   - IT
@@ -25,3 +26,4 @@ TOC
 
 - [PostgreSQL Tutorial](https://www.postgresqltutorial.com/){:target="_blank"}
 - [PostgreSQL-Cheat-Sheet.pdf](/assets/images/posts/2014-06-03-PostgreSQL/PostgreSQL-Cheat-Sheet.pdf){:target="_blank"}
+

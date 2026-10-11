@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" role="img" aria-labelledby="title desc">
+<title id="title">News feeds: publish once, subscribe anywhere</title><desc id="desc">RSS and Atom publisher feeds converge in an aggregator, which delivers updates to a subscriber's reader.</desc>
+<rect width="800" height="450" fill="#102136"/>
+<g fill="#1a3b51" stroke="#64d9cb" stroke-width="3"><rect x="65" y="130" width="180" height="90" rx="10"/><rect x="65" y="280" width="180" height="90" rx="10"/><path d="M350 140H525L485 330H390Z"/><rect x="610" y="165" width="135" height="160" rx="12"/></g>
+<path d="M250 175L340 200M250 325L365 275M505 245H595" stroke="#ffcf7b" stroke-width="4" fill="none"/>
+<g font-family="sans-serif" fill="#f4f8fc"><text x="40" y="62" font-size="32">News / syndicated updates</text><g font-size="23" text-anchor="middle"><text x="155" y="184">RSS feed</text><text x="155" y="334">Atom feed</text><text x="437" y="245">Aggregator</text><text x="677" y="242">Reader</text><text x="677" y="285">Subscribe</text></g><text x="40" y="420" font-size="17">FEED DISTRIBUTION SCHEMATIC · PUBLISHERS TO SUBSCRIBERS</text></g>
+</svg>

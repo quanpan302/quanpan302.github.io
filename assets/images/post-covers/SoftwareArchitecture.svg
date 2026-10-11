@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" role="img" aria-labelledby="title desc">
+<title id="title">Software architecture: layered responsibilities</title><desc id="desc">Presentation, domain and persistence layers separate responsibilities. A client accesses the system and a data store supports persistence.</desc>
+<rect width="800" height="450" fill="#102136"/>
+<g font-family="sans-serif" fill="#f4f8fc"><text x="40" y="62" font-size="32">Software architecture</text><text x="40" y="420" font-size="17">LAYERED PATTERN · ONE OF MANY ARCHITECTURAL STYLES</text></g>
+<g fill="#1a3b51" stroke="#64d9cb" stroke-width="3"><rect x="245" y="110" width="310" height="65" rx="8"/><rect x="245" y="210" width="310" height="65" rx="8"/><rect x="245" y="310" width="310" height="65" rx="8"/><rect x="45" y="125" width="135" height="90" rx="12"/><path d="M620 305V360C620 384 755 384 755 360V305"/><ellipse cx="687" cy="305" rx="67" ry="18"/></g>
+<path d="M180 150H230M400 180V200M400 280V300M560 343H610" stroke="#ffcf7b" stroke-width="4"/>
+<g font-family="sans-serif" fill="#f4f8fc" font-size="22" text-anchor="middle"><text x="400" y="150">Presentation</text><text x="400" y="250">Domain logic</text><text x="400" y="350">Persistence</text><text x="112" y="178">Client</text><text x="687" y="350">Data</text></g>
+</svg>

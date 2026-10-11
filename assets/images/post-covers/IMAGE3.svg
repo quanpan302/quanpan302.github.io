@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" role="img" aria-labelledby="title desc">
+<title id="title">IMAGE: integrated assessment of environmental change</title><desc id="desc">Socioeconomic drivers branch into energy and land-use systems. Their interactions lead to environmental outcomes and feedback. This is an original simplified concept diagram, not model output.</desc>
+<rect width="800" height="450" fill="#102136"/>
+<g fill="#1a3b51" stroke="#64d9cb" stroke-width="3"><rect x="45" y="180" width="205" height="120" rx="12"/><rect x="335" y="115" width="175" height="85" rx="10"/><rect x="335" y="280" width="175" height="85" rx="10"/><rect x="585" y="180" width="170" height="120" rx="12"/></g>
+<path d="M255 220L325 157M255 270L325 322M515 157L575 220M515 322L575 270M422 205V270M670 310V385H147V310" stroke="#ffcf7b" stroke-width="3" fill="none"/>
+<g font-family="sans-serif" fill="#f4f8fc"><text x="40" y="62" font-size="32">IMAGE / society and environment together</text><g font-size="21" text-anchor="middle"><text x="147" y="228">Socioeconomic</text><text x="147" y="263">drivers</text><text x="422" y="166">Energy</text><text x="422" y="331">Land use</text><text x="670" y="228">Environmental</text><text x="670" y="263">outcomes</text><text x="422" y="246">Interact</text></g><text x="40" y="420" font-size="17">SIMPLIFIED ASSESSMENT SCHEMATIC · NOT IMAGE MODEL RESULTS</text></g>
+</svg>

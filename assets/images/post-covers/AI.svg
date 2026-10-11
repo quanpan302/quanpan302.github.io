@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" role="img" aria-labelledby="title desc">
+<title id="title">Artificial intelligence: from perception to purposeful action</title><desc id="desc">Perception and learning connect to knowledge, reasoning and planning. Goals guide actions, and feedback links actions to learning. This concept map makes no capability or accuracy claims.</desc>
+<rect width="800" height="450" fill="#102136"/>
+<g fill="#1a3b51" stroke="#64d9cb" stroke-width="3"><circle cx="130" cy="170" r="60"/><circle cx="130" cy="320" r="60"/><rect x="290" y="150" width="210" height="190" rx="16"/><rect x="590" y="110" width="165" height="75" rx="10"/><rect x="590" y="265" width="165" height="90" rx="10"/></g>
+<path d="M195 170L280 200M195 320L280 285M505 245H550V310H580M672 190V255M672 360V385H130V385" stroke="#ffcf7b" stroke-width="3" fill="none"/>
+<g font-family="sans-serif" fill="#f4f8fc"><text x="40" y="62" font-size="32">AI / knowledge in service of a goal</text><g font-size="21" text-anchor="middle"><text x="130" y="178">Perception</text><text x="130" y="328">Learning</text><text x="395" y="202">Knowledge</text><text x="395" y="253">Reasoning</text><text x="395" y="304">Planning</text><text x="672" y="157">Goals</text><text x="672" y="320">Actions</text></g><text x="40" y="420" font-size="17">AI CONCEPT MAP · NO MODEL OR ACCURACY CLAIMS</text></g>
+</svg>

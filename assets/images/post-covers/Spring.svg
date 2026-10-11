@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" role="img" aria-labelledby="title desc">
+<title id="title">Spring: inversion of control</title><desc id="desc">A Spring container creates and connects controller, service and repository beans. Configuration enters the container from above.</desc>
+<rect width="800" height="450" fill="#102136"/>
+<g font-family="sans-serif" fill="#f4f8fc"><text x="40" y="62" font-size="32">Spring / dependencies, wired</text><text x="40" y="420" font-size="17">INVERSION-OF-CONTROL SCHEMATIC · MANAGED BEANS</text></g>
+<rect x="60" y="180" width="680" height="185" rx="24" fill="#1a3b51" stroke="#64d9cb" stroke-width="3"/>
+<g fill="#102136" stroke="#64d9cb" stroke-width="3"><circle cx="190" cy="270" r="62"/><circle cx="400" cy="270" r="62"/><circle cx="610" cy="270" r="62"/></g>
+<path d="M258 270H330M468 270H540M400 130V200M400 200L390 185M400 200L410 185" fill="none" stroke="#ffcf7b" stroke-width="4"/>
+<g font-family="sans-serif" fill="#f4f8fc" font-size="21" text-anchor="middle"><text x="400" y="119">Configuration</text><text x="190" y="277">Controller</text><text x="400" y="277">Service</text><text x="610" y="277">Repository</text><text x="400" y="390">Spring container</text></g>
+</svg>

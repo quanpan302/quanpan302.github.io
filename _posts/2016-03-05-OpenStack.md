@@ -1,5 +1,10 @@
 ---
 title: "OpenStack"
+image:
+  path: /assets/images/post-covers/OpenStack.svg
+  thumbnail: /assets/images/post-covers/OpenStack.svg
+  caption: "Selected OpenStack service schematic linking authenticated compute, networking and block storage APIs."
+  alt: "OpenStack services coordinating compute, networking and storage through authenticated APIs."
 categories:
   - SD
 tags:

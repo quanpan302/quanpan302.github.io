@@ -1,5 +1,10 @@
 ---
 title: "Environmental Science"
+image:
+  path: /assets/images/post-covers/EnvironmentalScience.svg
+  thumbnail: /assets/images/post-covers/EnvironmentalScience.svg
+  caption: "Conceptual ecosystem cross-section linking atmosphere, vegetation, water and soil; not a measured landscape."
+  alt: "Conceptual ecosystem cross-section connecting atmosphere, vegetation, water and soil to environmental assessment."
 categories:
   - KG
 tags:

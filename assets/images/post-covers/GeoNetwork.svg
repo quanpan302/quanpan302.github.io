@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" role="img" aria-labelledby="title desc">
+<title id="title">GeoNetwork: discover data through metadata</title><desc id="desc">Metadata records feed a spatial catalog index. A search lens illustrates discovery of datasets through descriptions, keywords and spatial extents.</desc>
+<rect width="800" height="450" fill="#102136"/>
+<g fill="#1a3b51" stroke="#64d9cb" stroke-width="3"><rect x="60" y="135" width="140" height="175" rx="8"/><rect x="85" y="160" width="140" height="175" rx="8"/><rect x="110" y="185" width="140" height="175" rx="8"/><rect x="330" y="140" width="235" height="205" rx="12"/><circle cx="665" cy="225" r="58"/><path d="M707 267L755 315"/></g>
+<path d="M255 272H320M570 225H600M135 230H220M135 260H220M135 290H200" stroke="#ffcf7b" stroke-width="3"/>
+<g font-family="sans-serif" fill="#f4f8fc"><text x="40" y="62" font-size="32">GeoNetwork / find the right dataset</text><g font-size="22" text-anchor="middle"><text x="177" y="390">Metadata</text><text x="447" y="213">Catalog index</text><text x="447" y="253">Keywords</text><text x="447" y="289">Extents</text><text x="665" y="233">Search</text></g><text x="40" y="420" font-size="17">CONCEPTUAL DISCOVERY WORKFLOW · SYMBOLIC RECORDS</text></g>
+</svg>

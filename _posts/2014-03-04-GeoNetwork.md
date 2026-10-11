@@ -3,6 +3,7 @@ title: "GeoNetwork"
 image:
   path: /assets/images/post-covers/GeoNetwork.svg
   thumbnail: /assets/images/post-covers/GeoNetwork.svg
+  caption: "Conceptual GeoNetwork discovery workflow using symbolic metadata records and a catalog index."
   alt: "A conceptual GeoNetwork catalog indexing metadata records for spatial data discovery."
 categories:
   - IT

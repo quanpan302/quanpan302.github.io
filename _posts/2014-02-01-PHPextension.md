@@ -3,6 +3,7 @@ title: "PHP Extension"
 image:
   path: /assets/images/post-covers/PHPextension.svg
   thumbnail: /assets/images/post-covers/PHPextension.svg
+  caption: "PHP runtime schematic showing built-in and external modules around the Zend engine."
   alt: "PHP code running through the Zend engine with built-in and external extension modules."
 categories:
   - SD
@@ -208,3 +209,4 @@ ZEND_FUNCTION(first_module)
     RETURN_LONG(parameter);
 }
 ```
+

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" role="img" aria-labelledby="title desc">
+<title id="title">Normalization: separate dependencies</title><desc id="desc">An orders table with repeated customer attributes is decomposed into customers and orders linked by a key. This reduces redundancy; the tables are symbolic.</desc>
+<rect width="800" height="450" fill="#102136"/>
+<g fill="#1a3b51" stroke="#64d9cb" stroke-width="3"><rect x="50" y="150" width="280" height="200" rx="8"/><path d="M50 200H330M50 250H330M50 300H330"/><rect x="475" y="125" width="275" height="90" rx="8"/><rect x="475" y="285" width="275" height="90" rx="8"/></g>
+<path d="M340 250H395L465 170M395 250L465 330M615 220V280" stroke="#ffcf7b" stroke-width="4" fill="none"/>
+<g font-family="sans-serif" fill="#f4f8fc"><text x="40" y="62" font-size="32">Normalization / reduce repetition</text><g font-size="21" text-anchor="middle"><text x="190" y="184">Orders + customer</text><text x="190" y="233">Repeated attributes</text><text x="190" y="283">Repeated attributes</text><text x="190" y="333">Repeated attributes</text><text x="612" y="163">Customers</text><text x="612" y="194">id → name</text><text x="612" y="323">Orders</text><text x="612" y="354">order id → customer id</text></g><text x="40" y="420" font-size="17">DEPENDENCY SCHEMATIC · SYMBOLIC DECOMPOSITION</text></g>
+</svg>

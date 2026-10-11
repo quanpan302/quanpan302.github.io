@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" role="img" aria-labelledby="title desc">
+<title id="title">AWS: regional services and availability zones</title><desc id="desc">A conceptual region contains two availability zones with compute instances behind a load balancer. Shared object storage is outside the zone boxes. This is not a deployed AWS architecture.</desc>
+<rect width="800" height="450" fill="#102136"/>
+<g fill="#1a3b51" stroke="#64d9cb" stroke-width="3"><rect x="45" y="110" width="540" height="280" rx="16"/><rect x="75" y="235" width="210" height="120" rx="10"/><rect x="345" y="235" width="210" height="120" rx="10"/><rect x="185" y="145" width="260" height="60" rx="10"/><path d="M640 205V330Q690 365 745 330V205"/><ellipse cx="692" cy="205" rx="52" ry="20"/></g>
+<path d="M315 210V225H180V230M315 225H450V230M590 295H630" stroke="#ffcf7b" stroke-width="3" fill="none"/>
+<g font-family="sans-serif" fill="#f4f8fc"><text x="40" y="62" font-size="32">AWS / design across availability zones</text><g font-size="21" text-anchor="middle"><text x="315" y="184">Load balancer</text><text x="180" y="272">Zone A</text><text x="180" y="318">EC2 compute</text><text x="450" y="272">Zone B</text><text x="450" y="318">EC2 compute</text><text x="692" y="271">S3</text><text x="692" y="305">Objects</text></g><text x="40" y="420" font-size="17">CONCEPTUAL CLOUD ARCHITECTURE · NOT A DEPLOYED SYSTEM</text></g>
+</svg>

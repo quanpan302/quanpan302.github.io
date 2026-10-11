@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" role="img" aria-labelledby="title desc">
+<title id="title">Virtual research environment: a shared laboratory</title><desc id="desc">Researchers connect to a common workspace. The workspace joins datasets, analysis tools and publications for collaboration.</desc>
+<rect width="800" height="450" fill="#102136"/>
+<g font-family="sans-serif" fill="#f4f8fc"><text x="40" y="62" font-size="32">Virtual research environment</text><text x="40" y="420" font-size="17">COLLABORATION SCHEMATIC · SHARED RESEARCH TOOLS</text></g>
+<g stroke="#64d9cb" stroke-width="3" fill="none"><path d="M160 175L360 240M160 310L360 240M520 240L675 140M520 240H675M520 240L675 340"/><circle cx="145" cy="155" r="24"/><path d="M105 218V208Q145 170 185 208V218"/><circle cx="145" cy="290" r="24"/><path d="M105 353V343Q145 305 185 343V353"/></g>
+<g fill="#1a3b51" stroke="#ffcf7b" stroke-width="3"><rect x="285" y="190" width="240" height="100" rx="24"/><circle cx="675" cy="140" r="48"/><circle cx="675" cy="240" r="48"/><circle cx="675" cy="340" r="48"/></g>
+<g font-family="sans-serif" fill="#f4f8fc" font-size="20" text-anchor="middle"><text x="405" y="233">Shared</text><text x="405" y="260">workspace</text><text x="675" y="148">Data</text><text x="675" y="248">Analysis</text><text x="675" y="348">Publish</text></g>
+</svg>

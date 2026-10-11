@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" role="img" aria-labelledby="title desc">
+<title id="title">Webpack: a dependency graph becomes bundles</title><desc id="desc">An entry module imports JavaScript, CSS and an asset. Loaders and plugins process this graph into output bundles.</desc>
+<rect width="800" height="450" fill="#102136"/>
+<g stroke="#ffcf7b" stroke-width="3" fill="none"><path d="M165 245L275 140M165 245H275M165 245L275 350M330 140L465 220M330 245H465M330 350L465 270M585 245H650"/></g>
+<g fill="#1a3b51" stroke="#64d9cb" stroke-width="3"><circle cx="120" cy="245" r="45"/><circle cx="305" cy="140" r="38"/><circle cx="305" cy="245" r="38"/><circle cx="305" cy="350" r="38"/><rect x="465" y="185" width="120" height="120" rx="12"/><path d="M655 165H745V325H655Z"/><path d="M670 185H760V345H670Z"/></g>
+<g font-family="sans-serif" fill="#f4f8fc"><text x="40" y="62" font-size="32">Webpack / follow every dependency</text><g font-size="21" text-anchor="middle"><text x="120" y="253">Entry</text><text x="305" y="148">JS</text><text x="305" y="253">CSS</text><text x="305" y="358">Asset</text><text x="525" y="237">Loaders</text><text x="525" y="268">Plugins</text><text x="711" y="266">Bundle</text></g><text x="40" y="420" font-size="17">MODULE GRAPH SCHEMATIC · ENTRY TO OUTPUT</text></g>
+</svg>

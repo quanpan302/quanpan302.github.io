@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" role="img" aria-labelledby="title desc">
+<title id="title">HTML: semantic structure becomes a document</title><desc id="desc">A document tree branches from body to header, main and footer, with article inside main. A page outline shows these semantic regions in the browser.</desc>
+<rect width="800" height="450" fill="#102136"/>
+<g stroke="#ffcf7b" stroke-width="3" fill="none"><path d="M240 155V195H100V215M240 195V215M240 195H380V215M240 270V315M445 265H535"/></g>
+<g fill="#1a3b51" stroke="#64d9cb" stroke-width="3"><rect x="180" y="105" width="120" height="50" rx="8"/><rect x="45" y="215" width="110" height="55" rx="8"/><rect x="185" y="215" width="110" height="55" rx="8"/><rect x="325" y="215" width="120" height="55" rx="8"/><rect x="175" y="315" width="130" height="55" rx="8"/><rect x="545" y="110" width="195" height="270" rx="10"/><path d="M545 165H740M545 330H740"/><rect x="570" y="190" width="145" height="115" rx="8"/></g>
+<g font-family="sans-serif" fill="#f4f8fc"><text x="40" y="62" font-size="32">HTML / structure with meaning</text><g font-size="21" text-anchor="middle"><text x="240" y="138">body</text><text x="100" y="250">header</text><text x="240" y="250">main</text><text x="385" y="250">footer</text><text x="240" y="350">article</text><text x="642" y="146">Header</text><text x="642" y="257">Article</text><text x="642" y="363">Footer</text></g><text x="40" y="420" font-size="17">DOCUMENT TREE SCHEMATIC · SEMANTIC REGIONS, NOT A SCREENSHOT</text></g>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" role="img" aria-labelledby="title desc">
+<title id="title">CSRF: validate the intent of a request</title><desc id="desc">An unrelated site induces a browser request to a trusted application. Server-side token validation rejects the forged request; a valid form has a separate accepted path.</desc>
+<rect width="800" height="450" fill="#102136"/>
+<g fill="#1a3b51" stroke="#64d9cb" stroke-width="3"><rect x="50" y="135" width="200" height="80" rx="10"/><rect x="50" y="285" width="200" height="80" rx="10"/><circle cx="395" cy="175" r="58"/><rect x="570" y="130" width="185" height="240" rx="12"/></g>
+<path d="M255 175H330M460 175H555M255 325H555" stroke="#ffcf7b" stroke-width="4"/><path d="M495 155L530 195M530 155L495 195" stroke="#ff9a9a" stroke-width="5"/>
+<g font-family="sans-serif" fill="#f4f8fc"><text x="40" y="62" font-size="32">CSRF / requests need intent</text><g font-size="21" text-anchor="middle"><text x="150" y="184">Unrelated site</text><text x="150" y="334">Valid form</text><text x="395" y="183">Browser</text><text x="662" y="223">Validate</text><text x="662" y="256">CSRF token</text><text x="400" y="360">Accepted token path</text></g><text x="40" y="420" font-size="17">DEFENSE SCHEMATIC · REJECT FORGED STATE-CHANGING REQUESTS</text></g>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" role="img" aria-labelledby="title desc">
+<title id="title">OGC: shared geospatial standards</title><desc id="desc">Map images, feature data and catalog records connect through WMS, WFS, GML and catalog standards. A common interoperability hub joins distinct systems.</desc>
+<rect width="800" height="450" fill="#102136"/>
+<g fill="#1a3b51" stroke="#64d9cb" stroke-width="3"><path d="M80 145L220 115L245 215L105 245Z"/><circle cx="400" cy="240" r="85"/><rect x="585" y="125" width="160" height="90" rx="8"/><rect x="585" y="285" width="160" height="90" rx="8"/></g>
+<path d="M250 190L310 215M490 215L580 170M490 270L580 330" stroke="#ffcf7b" stroke-width="4"/>
+<g font-family="sans-serif" fill="#f4f8fc"><text x="40" y="62" font-size="32">OGC / geography that interoperates</text><g font-size="22" text-anchor="middle"><text x="160" y="185">Maps</text><text x="160" y="285">WMS</text><text x="400" y="232">Shared</text><text x="400" y="264">standards</text><text x="665" y="162">Features</text><text x="665" y="194">WFS / GML</text><text x="665" y="322">Metadata</text><text x="665" y="354">Catalog</text></g><text x="40" y="420" font-size="17">INTEROPERABILITY SCHEMATIC · NOT A GEOGRAPHIC MAP</text></g>
+</svg>

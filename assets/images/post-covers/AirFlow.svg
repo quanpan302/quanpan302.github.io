@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" role="img" aria-labelledby="title desc">
+<title id="title">Airflow: a directed acyclic workflow</title><desc id="desc">An extract task fans out to clean and validate tasks. Both must finish before a load task. All dependency arrows point forward, without a cycle.</desc>
+<rect width="800" height="450" fill="#102136"/>
+<g fill="none" stroke="#ffcf7b" stroke-width="4"><path d="M230 245L315 160M230 245L315 330M485 160L570 245M485 330L570 245"/><path d="M305 160H315V175M305 330H315V315M555 245H570V230"/></g>
+<g fill="#1a3b51" stroke="#64d9cb" stroke-width="3"><rect x="55" y="205" width="175" height="80" rx="12"/><rect x="315" y="120" width="170" height="80" rx="12"/><rect x="315" y="290" width="170" height="80" rx="12"/><rect x="570" y="205" width="175" height="80" rx="12"/></g>
+<g font-family="sans-serif" fill="#f4f8fc"><text x="40" y="62" font-size="32">Airflow / dependencies, made explicit</text><g font-size="23" text-anchor="middle"><text x="142" y="253">Extract</text><text x="400" y="168">Clean</text><text x="400" y="338">Validate</text><text x="657" y="253">Load</text><text x="400" y="253">Parallel tasks</text></g><text x="40" y="420" font-size="17">DIRECTED ACYCLIC GRAPH · ILLUSTRATIVE TASK DEPENDENCIES</text></g>
+</svg>

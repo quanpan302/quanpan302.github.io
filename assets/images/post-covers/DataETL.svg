@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" role="img" aria-labelledby="title desc">
+<title id="title">ETL: extract, transform and load</title><desc id="desc">Multiple source records are extracted, cleaned and reshaped, then loaded into a destination store. The pipeline illustrates data preparation without real records.</desc>
+<rect width="800" height="450" fill="#102136"/>
+<g fill="#1a3b51" stroke="#64d9cb" stroke-width="3"><rect x="50" y="150" width="150" height="60" rx="8"/><rect x="50" y="265" width="150" height="60" rx="8"/><path d="M290 150H460L505 235L460 325H290L335 235Z"/><path d="M595 170V310C595 350 750 350 750 310V170"/><ellipse cx="672" cy="170" rx="77" ry="25"/></g>
+<path d="M205 180L310 220M205 295L310 250M510 235H585" stroke="#ffcf7b" stroke-width="4"/>
+<g font-family="sans-serif" fill="#f4f8fc"><text x="40" y="62" font-size="32">ETL / move data, change its shape</text><g font-size="22" text-anchor="middle"><text x="125" y="187">Source A</text><text x="125" y="302">Source B</text><text x="400" y="223">Clean</text><text x="400" y="259">Reshape</text><text x="672" y="262">Destination</text><text x="125" y="375">Extract</text><text x="400" y="375">Transform</text><text x="672" y="375">Load</text></g><text x="40" y="420" font-size="17">DATA PREPARATION SCHEMATIC · NO PRODUCTION RECORDS</text></g>
+</svg>

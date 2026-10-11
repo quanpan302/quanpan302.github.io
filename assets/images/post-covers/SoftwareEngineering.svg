@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" role="img" aria-labelledby="title desc">
+<title id="title">Software engineering: a lifecycle with feedback</title><desc id="desc">Requirements lead to design, implementation and verification. Feedback returns from verification to requirements to support iterative development.</desc>
+<rect width="800" height="450" fill="#102136"/>
+<g fill="#1a3b51" stroke="#64d9cb" stroke-width="3"><rect x="45" y="135" width="260" height="80" rx="10"/><rect x="495" y="135" width="260" height="80" rx="10"/><rect x="495" y="285" width="260" height="80" rx="10"/><rect x="45" y="285" width="260" height="80" rx="10"/></g>
+<path d="M310 175H480L465 165M480 175L465 185M625 220V270L615 255M625 270L635 255M490 325H320L335 315M320 325L335 335M175 280V230L165 245M175 230L185 245" fill="none" stroke="#ffcf7b" stroke-width="4"/>
+<g font-family="sans-serif" fill="#f4f8fc"><text x="40" y="62" font-size="32">Software engineering / learn and iterate</text><g font-size="23" text-anchor="middle"><text x="175" y="183">Requirements</text><text x="625" y="183">Design</text><text x="625" y="333">Implement</text><text x="175" y="333">Verify</text><text x="400" y="255">Feedback</text></g><text x="40" y="420" font-size="17">DEVELOPMENT PROCESS SCHEMATIC · CONTINUOUS REFINEMENT</text></g>
+</svg>
