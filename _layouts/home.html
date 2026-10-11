@@ -2,17 +2,80 @@
 layout: default
 ---
 
-{% include page-intro.html %}
+<header class="portfolio-hero inner">
+  <div>
+    <p class="eyebrow">Data · Earth · Impact</p>
+    <h1 id="page-title">Turning complex data into <span>clear decisions.</span></h1>
+    <p class="hero-subtitle">{{ page.sub_title | escape }}</p>
+    <div class="hero-description">{{ page.introduction | markdownify }}</div>
+    <div class="hero-actions">
+      {% for action in page.actions %}
+        <a class="btn{% unless forloop.first %} btn-secondary{% endunless %}" href="{{ action.url | relative_url }}">{{ action.label | escape }} <span aria-hidden="true">↗</span></a>
+      {% endfor %}
+    </div>
+  </div>
+  <div class="hero-visual">
+    <svg viewBox="0 0 400 400" role="img" aria-labelledby="globe-title globe-desc">
+      <title id="globe-title">A connected view of our planet</title>
+      <desc id="globe-desc">Illustrative wireframe globe connecting data science, geospatial technology, and environmental research. Not a geographic map.</desc>
+      <defs>
+        <radialGradient id="globe-fill"><stop stop-color="#d5f5ed"/><stop offset="1" stop-color="#edf4fb"/></radialGradient>
+      </defs>
+      <circle cx="200" cy="200" r="156" fill="url(#globe-fill)"/>
+      <g fill="none" stroke="#19786c" stroke-width="1.3" opacity=".45">
+        <circle cx="200" cy="200" r="144"/>
+        <ellipse cx="200" cy="200" rx="95" ry="144"/>
+        <ellipse cx="200" cy="200" rx="40" ry="144"/>
+        <ellipse cx="200" cy="200" rx="144" ry="52"/>
+        <path d="M78 124 Q200 179 322 124 M78 276 Q200 221 322 276 M56 200 H344 M200 56 V344"/>
+        <ellipse cx="200" cy="200" rx="185" ry="65" transform="rotate(-32 200 200)" stroke-dasharray="4 6"/>
+      </g>
+      <g fill="#19786c" stroke="#fff" stroke-width="4">
+        <circle cx="105" cy="158" r="8"/><circle cx="249" cy="112" r="8"/><circle cx="288" cy="259" r="8"/>
+      </g>
+      <g fill="#173c42" font-size="13" font-family="sans-serif">
+        <text x="40" y="139">DATA</text><text x="260" y="94">EARTH</text><text x="297" y="285">IMPACT</text>
+      </g>
+    </svg>
+    <p>Connecting research, models, and real-world decisions.</p>
+  </div>
+</header>
 
 <main id="main" class="page-content" aria-label="Content">
   <div class="index inner">
     <div>{{ content }}</div>
 
+    {% unless paginator.page > 1 %}
+    <section class="portfolio-section" aria-labelledby="selected-projects">
+      <div class="section-heading">
+        <div><p class="eyebrow">Research into practice</p><h2 id="selected-projects">Selected projects</h2></div>
+        <a href="{{ '/projects/' | relative_url }}">All projects <span aria-hidden="true">→</span></a>
+      </div>
+      <div class="project-grid">
+        {% assign selected_projects = site.projects | where_exp: 'project', 'project.featured == true' %}
+        {% for project in selected_projects %}
+        <article class="project-card">
+          <a href="{{ project.url | relative_url }}">
+            {% if project.image.thumbnail %}<img src="{{ project.image.thumbnail | relative_url }}" alt="" loading="lazy" width="400" height="200">{% endif %}
+            <div class="project-card-body">
+              <p class="eyebrow">{{ project.company | escape }}</p>
+              <h3>{{ project.title | escape }} <span aria-hidden="true">↗</span></h3>
+              <p>{{ project.image.caption | escape }}</p>
+              <ul class="topic-labels" aria-label="Topics">{% for topic in project.categories %}<li>{{ topic | escape }}</li>{% endfor %}</ul>
+            </div>
+          </a>
+        </article>
+        {% endfor %}
+      </div>
+    </section>
+    {% include portfolio-context.html %}
+    {% endunless %}
+
     <div>
       <header class="section-title">
         <h2>{{ site.data.theme.t.posts | default: 'Posts' }}{% if paginator.page > 1 %}{{ site.data.theme.t.page | default: 'Page' | prepend: ' - ' | append: ' ' }}{{ paginator.page }} {{ site.data.theme.t.of | default: 'of' }} {{ paginator.total_pages }}{% endif %}</h2>
       </header>
-      <div class="entries-{{ page.entries_layout | default: 'list' }}">
+      <div class="entries-{{ page.entries_layout | default: 'grid' }}">
         {% if site.plugins contains 'jekyll-paginate' and page.paginate or site.gems contains 'jekyll-paginate' and page.paginate %}
           {% comment %}
             Add paginator.posts loop if jekyll-paginate plugin is enabled

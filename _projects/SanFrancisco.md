@@ -2,6 +2,8 @@
 title:      "San Francisco Estuary"
 company:    "UNESCO-IHE"
 position:   "MSc"
+featured: true
+categories: [Environmental Research, Geospatial, 3D Visualization]
 image: 
   path: /assets/images/projects/SanFrancisco/header.jpg
   thumbnail: /assets/images/projects/SanFrancisco/thumbnail-400x200.jpg

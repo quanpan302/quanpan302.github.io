@@ -2,6 +2,8 @@
 title:      "Taihu Lake"
 company:    "IHE-Delft"
 position:   "PhD Researcher"
+featured: true
+categories: [Machine Learning, Environmental Research, Geospatial]
 image: 
   path: /assets/images/projects/TaihuLake/header.jpg
   thumbnail: /assets/images/projects/TaihuLake/thumbnail-400x200.jpg

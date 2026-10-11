@@ -13,7 +13,7 @@
     {% include skip-links.html %}
 
     <div class="sidebar-toggle-wrapper">
-      {% if site.search %}
+      {% if site.search and page.layout != 'search' %}
       <button class="search-toggle" type="button">
         <svg class="icon" width="16" height="16" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 15.99 16">
           <title>{{ site.data.theme.t.search | default: 'Search' }}</title>
@@ -66,9 +66,11 @@
           {{ content }}
         </div>
 
+        {% unless page.layout == 'search' %}
         <div class="search-content">
           {% include search-form.html %}
         </div>
+        {% endunless %}
       </div>
     </div>
 
