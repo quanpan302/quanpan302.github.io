@@ -1,5 +1,9 @@
 ---
 title: "GeoNetwork"
+image:
+  path: /assets/images/post-covers/GeoNetwork.svg
+  thumbnail: /assets/images/post-covers/GeoNetwork.svg
+  alt: "A conceptual GeoNetwork catalog indexing metadata records for spatial data discovery."
 categories:
   - IT
 tags:

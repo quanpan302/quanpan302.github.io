@@ -3,7 +3,7 @@
     {%- assign search_provider = site.search_provider | default: "lunr" -%}
     {%- case search_provider -%}
       {%- when "lunr" -%}
-        <h2 class="search-heading">Explore projects &amp; writing</h2>
+        <h2 class="search-heading">Explore projects &amp; posts</h2>
         <p id="search-help" class="search-help">Search by keyword, or choose a topic. Topic filters also work without a search term.</p>
         <label class="visually-hidden" for="search">{{ site.data.theme.t.site_search | default: 'Site Search' }}</label>
         <input type="search" id="search" class="search-input" aria-describedby="search-help results-count" placeholder="{{ site.data.theme.t.search_placeholder_text | default: 'Enter your search term...' }}" />

@@ -1,5 +1,11 @@
 ---
 title: "Template"
+layout: post
+image:
+  path: /assets/images/post-covers/RemoteSensing.svg
+  thumbnail: /assets/images/post-covers/RemoteSensing.svg
+  alt: "Replace with a description of your post's own illustration"
+  caption: "Replace with an accurate caption and identify illustrative data."
 categories:
   - IT
 tags:
@@ -18,6 +24,13 @@ last_modified_at: yyyy-mm-ddT12:00:00-10:00
 {% endraw %}
 
 Post types:
+
+For an HTML single-page post, use `yyyy-mm-dd-Template.html` instead.
+Save either template in `_posts/` with a real `YYYY-MM-DD-topic` filename.
+HTML posts use the same `post` layout, navigation, images, feed, and search as
+Markdown posts; their body is HTML, not Markdown. Set `layout: null` only when
+providing your own complete HTML document. Replace the example cover with a
+topic-specific local image, and label schematic maps, charts, and 3D views clearly.
 
 - AI, Artificial Intelligence
 - DS, Data Science

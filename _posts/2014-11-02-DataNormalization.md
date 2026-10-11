@@ -1,5 +1,9 @@
 ---
 title: "Data Normalization"
+image:
+  path: /assets/images/post-covers/DataNormalization.svg
+  thumbnail: /assets/images/post-covers/DataNormalization.svg
+  alt: "Normalization schematic separating repeated customer attributes from orders into related tables."
 categories:
   - IT
 tags:

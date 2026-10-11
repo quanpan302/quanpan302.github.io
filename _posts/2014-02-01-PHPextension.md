@@ -1,5 +1,9 @@
 ---
 title: "PHP Extension"
+image:
+  path: /assets/images/post-covers/PHPextension.svg
+  thumbnail: /assets/images/post-covers/PHPextension.svg
+  alt: "PHP code running through the Zend engine with built-in and external extension modules."
 categories:
   - SD
 tags:
@@ -204,4 +208,3 @@ ZEND_FUNCTION(first_module)
     RETURN_LONG(parameter);
 }
 ```
-

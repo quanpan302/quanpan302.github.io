@@ -1,5 +1,9 @@
 ---
 title: "Hibernate"
+image:
+  path: /assets/images/post-covers/Hibernate.svg
+  thumbnail: /assets/images/post-covers/Hibernate.svg
+  alt: "Hibernate mapping a Java entity and its fields to a relational database table."
 categories:
   - SD
 tags:

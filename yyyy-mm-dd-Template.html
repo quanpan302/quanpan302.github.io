@@ -1,0 +1,109 @@
+---
+title: "HTML single-page post"
+layout: post
+categories:
+  - RS
+tags:
+  - Visualization
+image:
+  path: /assets/images/post-covers/RemoteSensing.svg
+  thumbnail: /assets/images/post-covers/RemoteSensing.svg
+  alt: "Replace this example with your own topic-specific illustration"
+  caption: "Illustrative remote sensing workflow, not measured data."
+---
+
+<p>An HTML post can contain semantic sections, inline SVG, tables, and interactive
+  visualizations without being converted from Markdown. Replace these examples
+  with visuals that explain your topic.</p>
+
+<nav aria-label="Post sections">
+  <a href="#map">Map</a> · <a href="#model">3D view</a> ·
+  <a href="#chart">Chart</a> · <a href="#workflow">Diagram</a>
+</nav>
+
+<section id="map">
+  <h2>A spatial view</h2>
+  <figure class="html-post-figure">
+    <svg viewBox="0 0 600 260" role="img" aria-labelledby="map-title map-desc">
+      <title id="map-title">Schematic catchment map</title>
+      <desc id="map-desc">Two sampling sites beside a river inside an illustrative
+        catchment boundary. No real coordinates or geographic scale.</desc>
+      <rect width="600" height="260" rx="16" fill="#edf5f3"/>
+      <path d="M80 45L330 20 520 100 480 230 170 235 55 130Z" fill="#d5e9d8" stroke="#176e62" stroke-width="2"/>
+      <path d="M250 30Q380 90 290 150T330 235" fill="none" stroke="#287db0" stroke-width="10"/>
+      <g fill="#173c42" font-family="sans-serif" font-size="18">
+        <circle cx="306" cy="90" r="7"/><text x="325" y="85">Upstream site</text>
+        <circle cx="290" cy="170" r="7"/><text x="85" y="175">Downstream site</text>
+        <text x="440" y="55">N ↑</text>
+      </g>
+    </svg>
+    <figcaption>Schematic only. Use a georeferenced map with attribution for a real case study.</figcaption>
+  </figure>
+</section>
+
+<section id="model">
+  <h2>A 3D object</h2>
+  <figure class="html-post-figure">
+    <svg viewBox="0 0 600 260" role="img" aria-labelledby="model-title model-desc">
+      <title id="model-title">Isometric model cell</title>
+      <desc id="model-desc">A static projected cube with top and two side faces, representing a model cell.</desc>
+      <g stroke="#176e62" stroke-width="3">
+        <path d="M300 25L440 95 300 165 160 95Z" fill="#c6eee5"/>
+        <path d="M160 95L300 165V245L160 175Z" fill="#84bcb3"/>
+        <path d="M300 165L440 95V175L300 245Z" fill="#479184"/>
+      </g>
+    </svg>
+    <figcaption>Static 3D schematic, not a measured mesh. For an interactive model,
+      provide keyboard controls, a text explanation, and a static fallback.</figcaption>
+  </figure>
+</section>
+
+<section id="chart">
+  <h2>A chart with a readable data table</h2>
+  <p>The values below are synthetic examples, not research results.</p>
+  <figure class="html-post-figure">
+    <svg viewBox="0 0 600 240" role="img" aria-labelledby="chart-title chart-desc">
+      <title id="chart-title">Synthetic observations by example site</title>
+      <desc id="chart-desc">Site A has 20 observations, site B has 40, and site C has 60. Synthetic counts.</desc>
+      <g fill="#173c42" font-family="sans-serif" font-size="18">
+        <text x="20" y="55">Site A</text><text x="20" y="115">Site B</text><text x="20" y="175">Site C</text>
+        <text x="250" y="55">20</text><text x="370" y="115">40</text><text x="490" y="175">60</text>
+      </g>
+      <g fill="#176e62">
+        <rect x="120" y="30" width="120" height="35"/>
+        <rect x="120" y="90" width="240" height="35"/>
+        <rect x="120" y="150" width="360" height="35"/>
+      </g>
+    </svg>
+    <figcaption>Synthetic counts; replace with sourced data and explain units.</figcaption>
+  </figure>
+  <table>
+    <caption>Synthetic example observations</caption>
+    <thead><tr><th scope="col">Site</th><th scope="col">Count</th></tr></thead>
+    <tbody>
+      <tr><th scope="row">A</th><td>20</td></tr>
+      <tr><th scope="row">B</th><td>40</td></tr>
+      <tr><th scope="row">C</th><td>60</td></tr>
+    </tbody>
+  </table>
+</section>
+
+<section id="workflow">
+  <h2>A workflow diagram</h2>
+  <figure class="html-post-figure">
+    <svg viewBox="0 0 600 140" role="img" aria-labelledby="workflow-title workflow-desc">
+      <title id="workflow-title">From observations to decisions</title>
+      <desc id="workflow-desc">Observe, then model, then evaluate. Arrows show the direction of the workflow.</desc>
+      <g fill="#edf5f3" stroke="#176e62" stroke-width="2">
+        <rect x="10" y="30" width="160" height="70" rx="12"/>
+        <rect x="220" y="30" width="160" height="70" rx="12"/>
+        <rect x="430" y="30" width="160" height="70" rx="12"/>
+        <path d="M175 65H210L200 55M210 65L200 75M385 65H420L410 55M420 65L410 75" fill="none"/>
+      </g>
+      <g fill="#173c42" font-family="sans-serif" font-size="20" text-anchor="middle">
+        <text x="90" y="73">Observe</text><text x="300" y="73">Model</text><text x="510" y="73">Evaluate</text>
+      </g>
+    </svg>
+    <figcaption>Explain each step in the surrounding text; do not rely on the diagram alone.</figcaption>
+  </figure>
+</section>

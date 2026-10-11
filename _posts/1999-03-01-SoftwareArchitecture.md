@@ -1,5 +1,9 @@
 ---
 title: "Software Architecture"
+image:
+  path: /assets/images/post-covers/SoftwareArchitecture.svg
+  thumbnail: /assets/images/post-covers/SoftwareArchitecture.svg
+  alt: "Layered software architecture separating presentation, domain logic and persistence."
 categories:
   - KG
 tags:

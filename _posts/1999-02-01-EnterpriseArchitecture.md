@@ -1,5 +1,9 @@
 ---
 title: "Enterprise Architecture"
+image:
+  path: /assets/images/post-covers/EnterpriseArchitecture.svg
+  thumbnail: /assets/images/post-covers/EnterpriseArchitecture.svg
+  alt: "Enterprise architecture aligning business capabilities, applications, data and technology."
 categories:
   - KG
 tags:
