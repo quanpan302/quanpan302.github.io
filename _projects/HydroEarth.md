@@ -2,6 +2,8 @@
 title:      "HydroEarth"
 company:    "Deltares"
 position:   "Data Scientist"
+featured: true
+categories: [Data Science, Geospatial, Software Development]
 image: 
   path: /assets/images/projects/HydroEarth/header.jpg
   thumbnail: /assets/images/projects/HydroEarth/thumbnail-400x200.jpg
